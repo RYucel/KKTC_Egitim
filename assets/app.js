@@ -88,9 +88,39 @@ function renderHome() {
   }
 }
 
+/* ---------------- Ders kitapları ---------------- */
+function renderBooks(data) {
+  const host = $("#books");
+  if (!host) return;
+  if (!data || !data.subjects?.length) { host.hidden = true; return; }
+  const subjects = data.subjects.map((s) => {
+    const books = s.books.map((b) => `
+      <div class="book-row">
+        <span class="book-title">${b.title}</span>
+        <span class="book-actions">
+          <a class="btn ghost small" href="${b.url}" target="_blank" rel="noopener">Görüntüle</a>
+          <a class="btn primary small" href="${b.url}" download target="_blank" rel="noopener">İndir</a>
+        </span>
+      </div>`).join("");
+    return `
+      <div class="book-card">
+        <div class="book-head"><span class="book-icon">${s.icon || "📘"}</span><h3>${s.name}</h3></div>
+        ${books}
+      </div>`;
+  }).join("");
+  host.innerHTML = `
+    <div class="books-inner">
+      <h2 class="books-heading">📚 Ders Kitapları — ${data.grade}</h2>
+      <p class="books-sub">${data.source} resmî ders kitapları. Tarayıcıda görüntüleyebilir veya indirebilirsiniz.</p>
+      <div class="book-grid">${subjects}</div>
+      ${data.note ? `<p class="books-note">${data.note}</p>` : ""}
+    </div>`;
+  host.hidden = false;
+}
+
 /* ---------------- Sınav görünümü ---------------- */
 function show(view) {
-  for (const v of [els.home, els.exam, els.result]) v.hidden = v !== view;
+  document.querySelectorAll("#app > .view").forEach((v) => { v.hidden = v !== view; });
   window.scrollTo(0, 0);
 }
 
@@ -371,3 +401,8 @@ fetch("data/exams.json")
   .catch((err) => {
     els.list.innerHTML = `<p style="color:#c00">Veri yüklenemedi: ${err.message}</p>`;
   });
+
+fetch("data/books.json")
+  .then((r) => r.json())
+  .then((d) => renderBooks(d))
+  .catch(() => { const h = $("#books"); if (h) h.hidden = true; });

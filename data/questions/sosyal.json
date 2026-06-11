@@ -1,0 +1,1150 @@
+{
+  "subject": "sosyal",
+  "questions": [
+    {
+      "id": "SOS-0001",
+      "topic": "harita-plan-olcek",
+      "difficulty": 1,
+      "q": "Yeryüzünün tamamının veya bir bölümünün kuş bakışı görünüşünün belli bir oranda küçültülerek düzleme aktarılmasına ne ad verilir?",
+      "options": ["Plan", "Harita", "Kroki", "Ölçek"],
+      "answer": "B",
+      "explanation": "Harita, yeryüzünün kuş bakışı görünüşünün ölçek kullanılarak küçültülmüş çizimidir."
+    },
+    {
+      "id": "SOS-0002",
+      "topic": "harita-plan-olcek",
+      "difficulty": 1,
+      "q": "Bir evin, okulun veya küçük bir alanın kuş bakışı çiziminde kullanılan, büyük ölçekli gösterime ne ad verilir?",
+      "options": ["Harita", "Küre", "Plan", "Atlas"],
+      "answer": "C",
+      "explanation": "Plan, ev ve okul gibi küçük alanların ayrıntılı kuş bakışı çizimidir."
+    },
+    {
+      "id": "SOS-0003",
+      "topic": "harita-plan-olcek",
+      "difficulty": 2,
+      "q": "Harita ve plan arasındaki en önemli fark aşağıdakilerden hangisidir?",
+      "options": [
+        "Plan daha küçük alanları ayrıntılı, harita daha geniş alanları gösterir",
+        "Harita ayrıntılı, plan ayrıntısızdır",
+        "Plan ölçeksiz çizilir",
+        "Harita yalnızca denizleri gösterir"
+      ],
+      "answer": "A",
+      "explanation": "Plan dar alanları ayrıntılı gösterir; harita ise geniş alanları daha az ayrıntıyla gösterir. İkisi de ölçekli çizilir."
+    },
+    {
+      "id": "SOS-0004",
+      "topic": "harita-plan-olcek",
+      "difficulty": 1,
+      "q": "Haritalardaki küçültme oranına ne ad verilir?",
+      "options": ["Sembol", "Ölçek", "Lejant", "Yön oku"],
+      "answer": "B",
+      "explanation": "Ölçek, gerçek uzunlukların harita üzerinde ne kadar küçültüldüğünü gösteren orandır."
+    },
+    {
+      "id": "SOS-0005",
+      "topic": "harita-plan-olcek",
+      "difficulty": 2,
+      "q": "Bir haritada 1 cm gerçekte 10 km'yi göstermektedir. Haritada arası 5 cm olan iki şehir arasındaki gerçek uzaklık kaç km'dir?",
+      "options": ["15", "50", "5", "100"],
+      "answer": "B",
+      "explanation": "5 × 10 = 50 km."
+    },
+    {
+      "id": "SOS-0006",
+      "topic": "harita-plan-olcek",
+      "difficulty": 3,
+      "q": "Bir haritada 1 cm gerçekte 25 km'yi göstermektedir. Gerçekte 100 km olan iki nokta arası haritada kaç cm gösterilir?",
+      "options": ["4", "5", "25", "10"],
+      "answer": "A",
+      "explanation": "100 ÷ 25 = 4 cm."
+    },
+    {
+      "id": "SOS-0007",
+      "topic": "harita-plan-olcek",
+      "difficulty": 2,
+      "q": "Fiziki haritalarda aşağıdakilerden hangisi gösterilir?",
+      "options": [
+        "Dağlar, ovalar, akarsular gibi yeryüzü şekilleri",
+        "Yalnızca ülke sınırları",
+        "Nüfus sayıları",
+        "Trafik kuralları"
+      ],
+      "answer": "A",
+      "explanation": "Fiziki haritalar yeryüzü şekillerini (dağ, ova, akarsu, göl) renklerle gösterir."
+    },
+    {
+      "id": "SOS-0008",
+      "topic": "harita-plan-olcek",
+      "difficulty": 2,
+      "q": "Siyasi haritalarda aşağıdakilerden hangisi gösterilir?",
+      "options": [
+        "Dağların yükseklikleri",
+        "Ülke ve şehir sınırları",
+        "Hava durumu",
+        "Deniz derinlikleri"
+      ],
+      "answer": "B",
+      "explanation": "Siyasi haritalar ülke, bölge ve şehir sınırlarını gösterir."
+    },
+    {
+      "id": "SOS-0009",
+      "topic": "harita-plan-olcek",
+      "difficulty": 3,
+      "q": "Fiziki haritalarda yeşil renk genellikle neyi gösterir?",
+      "options": ["Yüksek dağları", "Denizleri", "Ovaları ve alçak düzlükleri", "Çölleri"],
+      "answer": "C",
+      "explanation": "Fiziki haritalarda yeşil alçak düzlükleri (ovaları), kahverengi yüksek yerleri, mavi ise suları gösterir."
+    },
+    {
+      "id": "SOS-0010",
+      "topic": "harita-plan-olcek",
+      "difficulty": 1,
+      "q": "Sınıfına KKTC haritası getiren bir öğrenci, haritadaki sembollerin anlamlarını nereden öğrenebilir?",
+      "options": ["Lejanttan (harita anahtarından)", "Ölçekten", "Sayfa numarasından", "Haritanın arkasından"],
+      "answer": "A",
+      "explanation": "Haritadaki sembol ve işaretlerin anlamları lejant adı verilen harita anahtarında açıklanır."
+    },
+    {
+      "id": "SOS-0011",
+      "topic": "harita-isaretleri-konum",
+      "difficulty": 1,
+      "q": "Dünya'yı iki eşit yarım küreye ayıran en büyük paralel dairesi hangisidir?",
+      "options": ["Ekvator", "Kutup dairesi", "Başlangıç meridyeni", "Dönence"],
+      "answer": "A",
+      "explanation": "Ekvator, Dünya'yı Kuzey ve Güney Yarım Küre olarak ikiye ayıran en büyük paraleldir."
+    },
+    {
+      "id": "SOS-0012",
+      "topic": "harita-isaretleri-konum",
+      "difficulty": 2,
+      "q": "Bir kutuptan diğer kutba uzanan hayalî yarım dairelere ne ad verilir?",
+      "options": ["Paralel", "Meridyen", "Ekvator", "Yörünge"],
+      "answer": "B",
+      "explanation": "Meridyenler, kutupları birleştiren hayalî yarım dairelerdir."
+    },
+    {
+      "id": "SOS-0013",
+      "topic": "harita-isaretleri-konum",
+      "difficulty": 2,
+      "q": "Ekvatora paralel olarak çizilen hayalî dairelere ne ad verilir?",
+      "options": ["Meridyen", "Paralel", "Kutup", "Eksen"],
+      "answer": "B",
+      "explanation": "Paraleller, ekvatora paralel çizilen hayalî dairelerdir."
+    },
+    {
+      "id": "SOS-0014",
+      "topic": "harita-isaretleri-konum",
+      "difficulty": 1,
+      "q": "Dünya'nın en kuzeyindeki ve en güneyindeki uç noktalara ne ad verilir?",
+      "options": ["Kutuplar", "Dönenceler", "Kıtalar", "Okyanuslar"],
+      "answer": "A",
+      "explanation": "Dünya'nın en kuzey ucu Kuzey Kutbu, en güney ucu Güney Kutbu'dur."
+    },
+    {
+      "id": "SOS-0015",
+      "topic": "harita-isaretleri-konum",
+      "difficulty": 2,
+      "q": "Dünya üzerindeki en büyük kara parçalarına ne ad verilir?",
+      "options": ["Ada", "Kıta", "Yarımada", "Ova"],
+      "answer": "B",
+      "explanation": "Kıtalar, Dünya'daki en büyük kara parçalarıdır (Asya, Afrika, Avrupa, Amerika, Antarktika, Okyanusya)."
+    },
+    {
+      "id": "SOS-0016",
+      "topic": "harita-isaretleri-konum",
+      "difficulty": 2,
+      "q": "Dünya'daki en büyük su kütlelerine ne ad verilir?",
+      "options": ["Göl", "Akarsu", "Okyanus", "Deniz"],
+      "answer": "C",
+      "explanation": "Okyanuslar, kıtaları birbirinden ayıran en büyük su kütleleridir (Büyük Okyanus, Atlas Okyanusu, Hint Okyanusu)."
+    },
+    {
+      "id": "SOS-0017",
+      "topic": "harita-isaretleri-konum",
+      "difficulty": 3,
+      "q": "Haritalarda yön belirlemede kullanılan yön okunun ucu her zaman hangi yönü gösterir?",
+      "options": ["Güney", "Doğu", "Kuzey", "Batı"],
+      "answer": "C",
+      "explanation": "Haritalardaki yön oku kuzeyi gösterir; diğer yönler buna göre bulunur."
+    },
+    {
+      "id": "SOS-0018",
+      "topic": "harita-isaretleri-konum",
+      "difficulty": 2,
+      "q": "Dünya'nın küçültülmüş üç boyutlu modeline ne ad verilir?",
+      "options": ["Harita", "Plan", "Küre (model küre)", "Kroki"],
+      "answer": "C",
+      "explanation": "Model küre, Dünya'nın biçimini ve üzerindeki kıta ve okyanusları üç boyutlu gösteren küçültülmüş modelidir."
+    },
+    {
+      "id": "SOS-0019",
+      "topic": "harita-isaretleri-konum",
+      "difficulty": 3,
+      "q": "Başlangıç meridyeni Dünya'yı hangi iki yarım küreye ayırır?",
+      "options": [
+        "Kuzey ve Güney Yarım Küre",
+        "Doğu ve Batı Yarım Küre",
+        "Sıcak ve soğuk yarım küre",
+        "Karalar ve denizler yarım küresi"
+      ],
+      "answer": "B",
+      "explanation": "Başlangıç meridyeni (Greenwich) Dünya'yı Doğu ve Batı Yarım Küre olarak ikiye ayırır; ekvator ise Kuzey-Güney ayrımını yapar."
+    },
+    {
+      "id": "SOS-0020",
+      "topic": "harita-isaretleri-konum",
+      "difficulty": 2,
+      "q": "Haritada bir hastaneyi, okulu veya kampı göstermek için kullanılan küçük şekillere ne ad verilir?",
+      "options": ["Sembol (işaret)", "Ölçek", "Paralel", "Meridyen"],
+      "answer": "A",
+      "explanation": "Haritalarda yerler ve tesisler sembollerle (işaretlerle) gösterilir; anlamları lejantta yazar."
+    },
+    {
+      "id": "SOS-0021",
+      "topic": "kktc-konumu",
+      "difficulty": 1,
+      "q": "KKTC hangi deniz üzerindeki Kıbrıs adasında yer alır?",
+      "options": ["Karadeniz", "Akdeniz", "Ege Denizi", "Kızıldeniz"],
+      "answer": "B",
+      "explanation": "Kıbrıs adası Akdeniz'in doğusunda yer alır; KKTC adanın kuzeyindedir."
+    },
+    {
+      "id": "SOS-0022",
+      "topic": "kktc-konumu",
+      "difficulty": 2,
+      "q": "KKTC hangi yarım kürelerde yer alır?",
+      "options": [
+        "Kuzey ve Doğu Yarım Küre",
+        "Güney ve Batı Yarım Küre",
+        "Kuzey ve Batı Yarım Küre",
+        "Güney ve Doğu Yarım Küre"
+      ],
+      "answer": "A",
+      "explanation": "Kıbrıs adası ekvatorun kuzeyinde, başlangıç meridyeninin doğusunda olduğu için Kuzey ve Doğu Yarım Küre'dedir."
+    },
+    {
+      "id": "SOS-0023",
+      "topic": "kktc-konumu",
+      "difficulty": 2,
+      "q": "Kıbrıs, Akdeniz'in büyüklük bakımından kaçıncı adasıdır?",
+      "options": ["Birinci", "İkinci", "Üçüncü", "Beşinci"],
+      "answer": "C",
+      "explanation": "Kıbrıs; Sicilya ve Sardunya'dan sonra Akdeniz'in üçüncü büyük adasıdır."
+    },
+    {
+      "id": "SOS-0024",
+      "topic": "kktc-konumu",
+      "difficulty": 2,
+      "q": "KKTC'nin konumu nedeniyle görülen iklim hangisidir?",
+      "options": [
+        "Kutup iklimi",
+        "Akdeniz iklimi (yazları sıcak ve kurak, kışları ılık ve yağışlı)",
+        "Çöl iklimi",
+        "Muson iklimi"
+      ],
+      "answer": "B",
+      "explanation": "Kıbrıs'ta Akdeniz iklimi görülür: yazlar sıcak ve kurak, kışlar ılık ve yağışlıdır."
+    },
+    {
+      "id": "SOS-0025",
+      "topic": "kktc-konumu",
+      "difficulty": 3,
+      "q": "Aşağıdakilerden hangisi KKTC'nin konumunun sağladığı avantajlardan biridir?",
+      "options": [
+        "Üç kıtanın (Asya, Avrupa, Afrika) kesişme noktasına yakın olması",
+        "Okyanusa kıyısı olması",
+        "Kutuplara yakın olması",
+        "Hiçbir ülkeyle ticaret yapamaması"
+      ],
+      "answer": "A",
+      "explanation": "Kıbrıs; Asya, Avrupa ve Afrika kıtalarının kesişme bölgesine yakındır. Bu konum ticaret ve ulaşım açısından önemlidir."
+    },
+    {
+      "id": "SOS-0026",
+      "topic": "kktc-konumu",
+      "difficulty": 2,
+      "q": "KKTC'ye en yakın ülke aşağıdakilerden hangisidir?",
+      "options": ["Yunanistan", "Türkiye", "Mısır", "İtalya"],
+      "answer": "B",
+      "explanation": "Türkiye, Kıbrıs'ın kuzeyinde yaklaşık 70 km uzaklıktadır; adaya en yakın ülkedir."
+    },
+    {
+      "id": "SOS-0027",
+      "topic": "kktc-konumu",
+      "difficulty": 3,
+      "q": "Bir ada ülkesi olmak KKTC için aşağıdaki dezavantajlardan hangisine yol açabilir?",
+      "options": [
+        "Denize kıyısının olmaması",
+        "Ulaşımın yalnızca deniz ve hava yoluyla yapılabilmesi",
+        "Hiç turist gelmemesi",
+        "İklimin çok soğuk olması"
+      ],
+      "answer": "B",
+      "explanation": "Ada ülkesine kara yoluyla ulaşılamaz; bütün ulaşım ve taşımacılık deniz ve hava yoluyla yapılır, bu da maliyeti artırabilir."
+    },
+    {
+      "id": "SOS-0028",
+      "topic": "kktc-konumu",
+      "difficulty": 2,
+      "q": "KKTC'nin başkenti hangisidir?",
+      "options": ["Girne", "Gazimağusa", "Lefkoşa", "Güzelyurt"],
+      "answer": "C",
+      "explanation": "KKTC'nin başkenti Lefkoşa'dır."
+    },
+    {
+      "id": "SOS-0029",
+      "topic": "kktc-konumu",
+      "difficulty": 3,
+      "q": "KKTC'nin konumunun turizm açısından avantajı aşağıdakilerden hangisidir?",
+      "options": [
+        "Güneşli gün sayısının fazla, denizlerinin temiz olması",
+        "Yıl boyu kar yağması",
+        "Çöllerle kaplı olması",
+        "Gece gündüz eşitliğinin hiç yaşanmaması"
+      ],
+      "answer": "A",
+      "explanation": "Akdeniz ikliminin etkisiyle güneşli gün sayısı fazladır; bu durum deniz turizmini geliştirmiştir."
+    },
+    {
+      "id": "SOS-0030",
+      "topic": "kktc-konumu",
+      "difficulty": 1,
+      "q": "Kıbrıs adasının dünya üzerindeki yerini bulmak isteyen bir öğrenci aşağıdakilerden hangisini kullanmalıdır?",
+      "options": [
+        "Dünya haritası veya model küre",
+        "Şehir planı",
+        "Okul krokisi",
+        "Telefon rehberi"
+      ],
+      "answer": "A",
+      "explanation": "Bir ülkenin dünya üzerindeki konumu, dünya haritasından veya model küreden bulunur."
+    },
+    {
+      "id": "SOS-0031",
+      "topic": "tarihi-varliklar",
+      "difficulty": 1,
+      "q": "Geçmişten günümüze ulaşan kale, cami, han gibi yapılara ne ad verilir?",
+      "options": ["Doğal varlık", "Tarihî mimari yapı", "Modern bina", "Fabrika"],
+      "answer": "B",
+      "explanation": "Geçmişte yapılıp günümüze ulaşan yapılar tarihî mimari yapılardır; geçmişimizi öğrenmemizi sağlar."
+    },
+    {
+      "id": "SOS-0032",
+      "topic": "tarihi-varliklar",
+      "difficulty": 2,
+      "q": "Lefkoşa'da bulunan ve Osmanlı döneminde konaklama amacıyla kullanılan ünlü tarihî yapı hangisidir?",
+      "options": ["Büyük Han", "Girne Kalesi", "Salamis Harabeleri", "Apostolos Andreas Manastırı"],
+      "answer": "A",
+      "explanation": "Büyük Han, Lefkoşa'da Osmanlı döneminde yapılmış, yolcuların konakladığı tarihî bir handır."
+    },
+    {
+      "id": "SOS-0033",
+      "topic": "tarihi-varliklar",
+      "difficulty": 2,
+      "q": "Gazimağusa yakınlarında bulunan antik kent kalıntıları hangisidir?",
+      "options": ["Salamis Harabeleri", "Büyük Han", "St. Hilarion Kalesi", "Mevlevi Tekkesi"],
+      "answer": "A",
+      "explanation": "Salamis, Gazimağusa yakınlarındaki önemli bir antik kenttir; tiyatrosu ve sütunlarıyla ünlüdür."
+    },
+    {
+      "id": "SOS-0034",
+      "topic": "tarihi-varliklar",
+      "difficulty": 2,
+      "q": "Girne dağlarında yer alan ve masal şatolarını andıran ünlü kale hangisidir?",
+      "options": ["Othello Kalesi", "St. Hilarion Kalesi", "Girne Kalesi", "Büyük Han"],
+      "answer": "B",
+      "explanation": "St. Hilarion Kalesi, Girne dağlarının zirvesinde yer alır ve masalsı görünümüyle ünlüdür."
+    },
+    {
+      "id": "SOS-0035",
+      "topic": "tarihi-varliklar",
+      "difficulty": 2,
+      "q": "Gazimağusa'da bulunan ve Shakespeare'in ünlü eserine adını veren kale hangisidir?",
+      "options": ["Girne Kalesi", "St. Hilarion Kalesi", "Othello Kalesi", "Bufavento Kalesi"],
+      "answer": "C",
+      "explanation": "Othello Kalesi Gazimağusa'dadır; Shakespeare'in Othello adlı eseriyle anılır."
+    },
+    {
+      "id": "SOS-0036",
+      "topic": "tarihi-varliklar",
+      "difficulty": 2,
+      "q": "Girne yakınlarındaki Beylerbeyi (Bellapais) köyünde bulunan ünlü tarihî yapı hangisidir?",
+      "options": ["Bellapais Manastırı", "Büyük Han", "Salamis Tiyatrosu", "Derviş Paşa Konağı"],
+      "answer": "A",
+      "explanation": "Bellapais Manastırı, Girne yakınlarında gotik mimarinin güzel örneklerinden biridir."
+    },
+    {
+      "id": "SOS-0037",
+      "topic": "tarihi-varliklar",
+      "difficulty": 3,
+      "q": "Tarihî yapıları yapılış yıllarına göre bir şerit üzerinde göstermek için ne kullanılır?",
+      "options": ["Zaman çizelgesi (zaman şeridi)", "Ölçek", "Pusula", "Termometre"],
+      "answer": "A",
+      "explanation": "Olayları ve yapıları oluş sırasına göre göstermek için zaman çizelgesi (zaman şeridi) kullanılır."
+    },
+    {
+      "id": "SOS-0038",
+      "topic": "tarihi-varliklar",
+      "difficulty": 3,
+      "q": "Aşağıdakilerden hangisi DOĞAL varlığa örnektir?",
+      "options": ["Girne Kalesi", "Karpaz'ın altın kumsalları", "Selimiye Camii", "Büyük Han"],
+      "answer": "B",
+      "explanation": "Kumsallar, mağaralar ve dağlar insan eliyle yapılmamış doğal varlıklardır; kale, cami ve han ise tarihî (insan yapımı) varlıklardır."
+    },
+    {
+      "id": "SOS-0039",
+      "topic": "tarihi-varliklar",
+      "difficulty": 2,
+      "q": "Lefkoşa'daki Selimiye Camii ile ilgili hangisi doğrudur?",
+      "options": [
+        "Ülkemizin önemli tarihî yapılarından biridir",
+        "Geçen yıl yapılmış modern bir binadır",
+        "Bir alışveriş merkezidir",
+        "Doğal bir varlıktır"
+      ],
+      "answer": "A",
+      "explanation": "Selimiye Camii, Lefkoşa'nın ve ülkemizin en önemli tarihî mimari yapılarından biridir."
+    },
+    {
+      "id": "SOS-0040",
+      "topic": "tarihi-varliklar",
+      "difficulty": 3,
+      "q": "Tarihî bir yapıyı gezen öğrencinin aşağıdaki davranışlardan hangisini yapması YANLIŞTIR?",
+      "options": [
+        "Yapı hakkında bilgi toplamak",
+        "Duvarlarına isim kazımak",
+        "Fotoğraf çekerek arkadaşlarına tanıtmak",
+        "Rehberin anlattıklarını dinlemek"
+      ],
+      "answer": "B",
+      "explanation": "Tarihî yapılara zarar vermek hem kültürel mirasa saygısızlıktır hem de suçtur; duvarlara yazı yazılmaz."
+    },
+    {
+      "id": "SOS-0041",
+      "topic": "kulturel-varliklar",
+      "difficulty": 1,
+      "q": "Bir toplumun yemekleri, halk dansları, el sanatları ve gelenekleri o toplumun nesidir?",
+      "options": ["Doğal varlığı", "Kültürel varlığı", "Ekonomik geliri", "Resmî kurumu"],
+      "answer": "B",
+      "explanation": "Yemekler, oyunlar, el sanatları ve gelenekler bir toplumun kültürel varlıklarını oluşturur."
+    },
+    {
+      "id": "SOS-0042",
+      "topic": "kulturel-varliklar",
+      "difficulty": 1,
+      "q": "Aşağıdakilerden hangisi Kıbrıs kültürüne ait ünlü bir peynirdir?",
+      "options": ["Hellim", "Kaşar", "Rokfor", "Çedar"],
+      "answer": "A",
+      "explanation": "Hellim, Kıbrıs'a özgü, dünyaca tanınan geleneksel bir peynirdir."
+    },
+    {
+      "id": "SOS-0043",
+      "topic": "kulturel-varliklar",
+      "difficulty": 2,
+      "q": "Aşağıdakilerden hangisi Kıbrıs kültürüne ait geleneksel ögelerden biri DEĞİLDİR?",
+      "options": ["Halk dansları", "Lefkara işi (el işi)", "Sushi", "Molehiya yemeği"],
+      "answer": "C",
+      "explanation": "Sushi Japon mutfağına aittir; halk dansları, Lefkara işi ve molehiya Kıbrıs kültürünün parçalarıdır."
+    },
+    {
+      "id": "SOS-0044",
+      "topic": "kulturel-varliklar",
+      "difficulty": 2,
+      "q": "Halk danslarımızda kullanılan geleneksel kıyafetler ve müzik aletleri neyi yansıtır?",
+      "options": [
+        "Toplumun kültürel kimliğini",
+        "Yalnızca eğlenceyi",
+        "Modern teknolojiyi",
+        "Başka ülkelerin kültürlerini"
+      ],
+      "answer": "A",
+      "explanation": "Geleneksel kıyafetler, müzik ve danslar bir toplumun kültürel kimliğini yansıtır ve kuşaktan kuşağa aktarılır."
+    },
+    {
+      "id": "SOS-0045",
+      "topic": "kulturel-varliklar",
+      "difficulty": 2,
+      "q": "Ortak kültürel değerlerin insanlara en önemli katkısı hangisidir?",
+      "options": [
+        "İnsanların birbirinden uzaklaşması",
+        "Toplumsal birliktelik ve dayanışmanın güçlenmesi",
+        "Yalnızca para kazandırması",
+        "İnsanların aynı evde yaşaması"
+      ],
+      "answer": "B",
+      "explanation": "Paylaşılan kültürel değerler, insanların bir arada huzur içinde yaşamasına ve dayanışmaya katkı sağlar."
+    },
+    {
+      "id": "SOS-0046",
+      "topic": "kulturel-varliklar",
+      "difficulty": 2,
+      "q": "Geçmişte kullanılan kömür ütüsünün bugün yerini elektrikli ütüye bırakması neyin örneğidir?",
+      "options": [
+        "Kültürel değişimin",
+        "Doğal afetin",
+        "İklim değişikliğinin",
+        "Nüfus artışının"
+      ],
+      "answer": "A",
+      "explanation": "Teknoloji geliştikçe günlük yaşamda kullanılan eşyalar değişir; bu, kültürel değişimin bir örneğidir."
+    },
+    {
+      "id": "SOS-0047",
+      "topic": "kulturel-varliklar",
+      "difficulty": 3,
+      "q": "Komşu ülkelerin kültürleri ile bizim kültürümüz arasında benzerlikler bulunmasının nedeni hangisi olabilir?",
+      "options": [
+        "Uzun yıllar boyunca komşuluk ve ticaret yoluyla etkileşim kurulması",
+        "Aynı dili konuşma zorunluluğu",
+        "Kültürlerin hiç değişmemesi",
+        "Tesadüf olması"
+      ],
+      "answer": "A",
+      "explanation": "Toplumlar ticaret, göç ve komşuluk ilişkileriyle birbirlerinin kültürlerinden etkilenir; bu da benzerlikler doğurur."
+    },
+    {
+      "id": "SOS-0048",
+      "topic": "kulturel-varliklar",
+      "difficulty": 2,
+      "q": "Geleneksel Kıbrıs düğünlerinin günümüz düğünlerinden farklı olması neyi gösterir?",
+      "options": [
+        "Kültürün zamanla değişebildiğini",
+        "Düğünlerin artık yapılmadığını",
+        "Geleneklerin hiç değişmediğini",
+        "Kültürün yalnızca yemeklerden oluştuğunu"
+      ],
+      "answer": "A",
+      "explanation": "Düğün gelenekleri zamanla değişime uğramıştır; kültür yaşayan ve değişen bir olgudur."
+    },
+    {
+      "id": "SOS-0049",
+      "topic": "kulturel-varliklar",
+      "difficulty": 3,
+      "q": "Aşağıdakilerden hangisi geçmişte tarımda kullanılan ancak günümüzde yerini makinelere bırakan araçlardan biridir?",
+      "options": ["Orak", "Traktör", "Biçerdöver", "Süt sağma makinesi"],
+      "answer": "A",
+      "explanation": "Orak, geçmişte ekin biçmede kullanılan el aletidir; günümüzde bu işi büyük ölçüde makineler yapar."
+    },
+    {
+      "id": "SOS-0050",
+      "topic": "kulturel-varliklar",
+      "difficulty": 1,
+      "q": "Büyüklerimizden dinlediğimiz Kıbrıs masalları ve maniler hangi kültürel varlık grubuna girer?",
+      "options": ["Sözlü kültür ögeleri", "Mimari yapılar", "Doğal varlıklar", "Resmî belgeler"],
+      "answer": "A",
+      "explanation": "Masallar, maniler, atasözleri ve türküler kuşaktan kuşağa sözlü olarak aktarılan kültür ögeleridir."
+    },
+    {
+      "id": "SOS-0051",
+      "topic": "kultur-koruma-bayramlar",
+      "difficulty": 1,
+      "q": "Kültürel varlıklarımızın yok olmaması için aşağıdakilerden hangisi yapılmalıdır?",
+      "options": [
+        "Genç kuşaklara öğretilmeli ve yaşatılmalı",
+        "Unutulmaya bırakılmalı",
+        "Yalnızca müzelerde kilitli tutulmalı",
+        "Başka kültürlerle değiştirilmeli"
+      ],
+      "answer": "A",
+      "explanation": "Kültürel değerler ancak öğretilerek, kutlanarak ve yaşatılarak korunabilir."
+    },
+    {
+      "id": "SOS-0052",
+      "topic": "kultur-koruma-bayramlar",
+      "difficulty": 2,
+      "q": "Aşağıdakilerden hangisi kültürel varlıkları koruma çalışmalarına örnek olur?",
+      "options": [
+        "Halk dansları kursları açmak",
+        "Tarihî binaları yıkmak",
+        "Geleneksel yemekleri unutmak",
+        "El sanatlarını yasaklamak"
+      ],
+      "answer": "A",
+      "explanation": "Kurslar, festivaller ve müzeler kültürel değerlerin genç kuşaklara aktarılmasını sağlar."
+    },
+    {
+      "id": "SOS-0053",
+      "topic": "kultur-koruma-bayramlar",
+      "difficulty": 2,
+      "q": "Kuzey Kıbrıs Türk Cumhuriyeti hangi tarihte ilan edilmiştir?",
+      "options": ["15 Kasım 1983", "29 Ekim 1923", "20 Temmuz 1974", "23 Nisan 1920"],
+      "answer": "A",
+      "explanation": "KKTC, 15 Kasım 1983'te ilan edilmiştir; bu gün Cumhuriyet Bayramı olarak kutlanır."
+    },
+    {
+      "id": "SOS-0054",
+      "topic": "kultur-koruma-bayramlar",
+      "difficulty": 2,
+      "q": "KKTC'de 15 Kasım'da kutlanan millî bayram hangisidir?",
+      "options": [
+        "Cumhuriyet Bayramı",
+        "Çocuk Bayramı",
+        "Barış ve Özgürlük Bayramı",
+        "Gençlik ve Spor Bayramı"
+      ],
+      "answer": "A",
+      "explanation": "15 Kasım, KKTC'nin ilan edildiği gündür ve Cumhuriyet Bayramı olarak kutlanır."
+    },
+    {
+      "id": "SOS-0055",
+      "topic": "kultur-koruma-bayramlar",
+      "difficulty": 2,
+      "q": "20 Temmuz'da kutlanan bayram hangisidir?",
+      "options": [
+        "Barış ve Özgürlük Bayramı",
+        "Cumhuriyet Bayramı",
+        "Ulusal Egemenlik Bayramı",
+        "Zafer Bayramı"
+      ],
+      "answer": "A",
+      "explanation": "20 Temmuz, KKTC'de Barış ve Özgürlük Bayramı olarak kutlanır."
+    },
+    {
+      "id": "SOS-0056",
+      "topic": "kultur-koruma-bayramlar",
+      "difficulty": 2,
+      "q": "23 Nisan hangi bayram olarak kutlanır?",
+      "options": [
+        "Ulusal Egemenlik ve Çocuk Bayramı",
+        "Cumhuriyet Bayramı",
+        "İşçi Bayramı",
+        "Öğretmenler Günü"
+      ],
+      "answer": "A",
+      "explanation": "23 Nisan, Ulusal Egemenlik ve Çocuk Bayramı'dır; Atatürk tarafından çocuklara armağan edilmiştir."
+    },
+    {
+      "id": "SOS-0057",
+      "topic": "kultur-koruma-bayramlar",
+      "difficulty": 3,
+      "q": "Millî bayramların kutlanmasının topluma en önemli katkısı hangisidir?",
+      "options": [
+        "Millî birlik ve beraberlik duygusunu güçlendirmesi",
+        "Okulların tatil olması",
+        "Alışverişin artması",
+        "Trafiğin azalması"
+      ],
+      "answer": "A",
+      "explanation": "Millî bayramlar ortak tarihimizi hatırlatır, millî birlik ve beraberlik duygusunu güçlendirir."
+    },
+    {
+      "id": "SOS-0058",
+      "topic": "kultur-koruma-bayramlar",
+      "difficulty": 3,
+      "q": "Eski bir Kıbrıs evinde bulunan tarihî eşyaları koruma altına almak isteyen biri hangi kuruma başvurmalıdır?",
+      "options": [
+        "Müzeler ve eski eserlerle ilgili resmî kurumlara",
+        "Spor kulübüne",
+        "Süpermarkete",
+        "Otobüs terminaline"
+      ],
+      "answer": "A",
+      "explanation": "Tarihî eserlerin korunmasından müzeler ve eski eserler ile ilgili resmî daireler sorumludur."
+    },
+    {
+      "id": "SOS-0059",
+      "topic": "kultur-koruma-bayramlar",
+      "difficulty": 2,
+      "q": "Geleneksel festivaller (portakal festivali, hellim festivali gibi) hangi amaca hizmet eder?",
+      "options": [
+        "Kültürel değerleri tanıtmak ve yaşatmak",
+        "İnsanları evde tutmak",
+        "Geleneksel ürünleri unutturmak",
+        "Yalnızca ticaret yapmak"
+      ],
+      "answer": "A",
+      "explanation": "Festivaller, yöresel ürünleri ve kültürel değerleri tanıtır, yaşatır ve gelecek kuşaklara aktarır."
+    },
+    {
+      "id": "SOS-0060",
+      "topic": "kultur-koruma-bayramlar",
+      "difficulty": 1,
+      "q": "Aşağıdakilerden hangisi bayram kutlamalarımızın ortak ögelerinden biri DEĞİLDİR?",
+      "options": ["Tören ve gösteriler", "Bayrak asmak", "Şiirler okumak", "Okula gitmek (ders işlemek)"],
+      "answer": "D",
+      "explanation": "Millî bayramlar resmî tatildir; törenler yapılır, bayraklar asılır, şiirler okunur."
+    },
+    {
+      "id": "SOS-0061",
+      "topic": "grup-rol-sorumluluk",
+      "difficulty": 1,
+      "q": "Ortak bir amaç için bir araya gelen insan topluluğuna ne ad verilir?",
+      "options": ["Grup", "Rol", "Kurum binası", "Sorumluluk"],
+      "answer": "A",
+      "explanation": "Ortak bir amaç çevresinde bir araya gelen insanlar grup oluşturur (aile, sınıf, takım gibi)."
+    },
+    {
+      "id": "SOS-0062",
+      "topic": "grup-rol-sorumluluk",
+      "difficulty": 1,
+      "q": "Bir grup içinde kişiden beklenen görev ve davranışlara ne ad verilir?",
+      "options": ["Rol", "Hak", "Kural", "Ceza"],
+      "answer": "A",
+      "explanation": "Rol, kişinin grup içindeki konumunun gerektirdiği görev ve davranışlardır."
+    },
+    {
+      "id": "SOS-0063",
+      "topic": "grup-rol-sorumluluk",
+      "difficulty": 2,
+      "q": "Bir öğrencinin ailedeki rolü \"evlat\", okuldaki rolü hangisidir?",
+      "options": ["Öğrenci", "Öğretmen", "Müdür", "Veli"],
+      "answer": "A",
+      "explanation": "Aynı kişi farklı gruplarda farklı roller üstlenir: evde evlat, okulda öğrenci, takımda oyuncu gibi."
+    },
+    {
+      "id": "SOS-0064",
+      "topic": "grup-rol-sorumluluk",
+      "difficulty": 2,
+      "q": "Aşağıdakilerden hangisi bir öğrencinin okuldaki sorumluluklarından biridir?",
+      "options": [
+        "Derslere zamanında girmek ve ödevlerini yapmak",
+        "Okulun tüm kurallarını belirlemek",
+        "Öğretmenlere not vermek",
+        "Karne dağıtmak"
+      ],
+      "answer": "A",
+      "explanation": "Öğrencinin sorumlulukları arasında derse zamanında girmek, ödev yapmak ve okul kurallarına uymak vardır."
+    },
+    {
+      "id": "SOS-0065",
+      "topic": "grup-rol-sorumluluk",
+      "difficulty": 2,
+      "q": "Bir futbol takımındaki kalecinin topu elle tutabilmesi ama diğer oyuncuların tutamaması neyi gösterir?",
+      "options": [
+        "Gruplarda farklı rollerin farklı görev ve hakları olduğunu",
+        "Kalecinin daha önemli olduğunu",
+        "Kuralların gereksiz olduğunu",
+        "Futbolun bir grup oyunu olmadığını"
+      ],
+      "answer": "A",
+      "explanation": "Her rolün kendine özgü görevleri ve hakları vardır; kaleci rolü topu elle tutma hakkı verir."
+    },
+    {
+      "id": "SOS-0066",
+      "topic": "grup-rol-sorumluluk",
+      "difficulty": 3,
+      "q": "Sınıf başkanı seçilen Ali görevlerini yerine getirmezse ne olur?",
+      "options": [
+        "Sınıf düzeni bozulur, arkadaşlarının güveni azalır",
+        "Hiçbir şey değişmez",
+        "Sınıf daha düzenli olur",
+        "Öğretmen sınıfı kapatır"
+      ],
+      "answer": "A",
+      "explanation": "Sorumlulukların yerine getirilmemesi grubun düzenini bozar ve güven kaybına yol açar."
+    },
+    {
+      "id": "SOS-0067",
+      "topic": "grup-rol-sorumluluk",
+      "difficulty": 2,
+      "q": "Aşağıdakilerden hangisi bir kişinin aynı anda içinde bulunabileceği gruplara örnek DEĞİLDİR?",
+      "options": ["Aile", "Sınıf", "İzcilik kulübü", "Otobüs durağında bekleyen kalabalık"],
+      "answer": "D",
+      "explanation": "Durakta bekleyenlerin ortak amacı ve sürekli ilişkisi yoktur; grup için ortak amaç ve etkileşim gerekir."
+    },
+    {
+      "id": "SOS-0068",
+      "topic": "grup-rol-sorumluluk",
+      "difficulty": 3,
+      "q": "Geçmişte yalnızca ev işleriyle ilgilenmesi beklenen kadınların bugün her meslekte çalışması neyi gösterir?",
+      "options": [
+        "Sosyal rollerin zaman içinde değişebildiğini",
+        "Rollerin hiç değişmediğini",
+        "Mesleklerin azaldığını",
+        "Ev işlerinin bittiğini"
+      ],
+      "answer": "A",
+      "explanation": "Toplum değiştikçe roller de değişir; bugün kadınlar ve erkekler her meslekte görev alabilmektedir."
+    },
+    {
+      "id": "SOS-0069",
+      "topic": "grup-rol-sorumluluk",
+      "difficulty": 2,
+      "q": "Evde çöpü dökme görevi verilen bir çocuğun bu görevi sürekli unutması durumunda aşağıdakilerden hangisi YAŞANMAZ?",
+      "options": [
+        "Evdeki düzenin aksaması",
+        "Aile bireylerinin işinin artması",
+        "Çocuğa duyulan güvenin artması",
+        "Çöplerin birikmesi"
+      ],
+      "answer": "C",
+      "explanation": "Sorumluluğunu yerine getirmeyen kişiye duyulan güven artmaz, azalır."
+    },
+    {
+      "id": "SOS-0070",
+      "topic": "grup-rol-sorumluluk",
+      "difficulty": 1,
+      "q": "Bir izcilik grubuna katılan öğrencinin bu gruptaki rolü hangisidir?",
+      "options": ["İzci", "Öğretmen", "Veli", "Antrenör"],
+      "answer": "A",
+      "explanation": "İzcilik grubuna katılan kişi izci rolünü üstlenir ve bu rolün gerektirdiği sorumlulukları taşır."
+    },
+    {
+      "id": "SOS-0071",
+      "topic": "cocuk-haklari",
+      "difficulty": 1,
+      "q": "İnsanların doğuştan sahip olduğu, kimsenin elinden alamayacağı haklara ne ad verilir?",
+      "options": ["Temel haklar", "Ödevler", "Cezalar", "Kurallar"],
+      "answer": "A",
+      "explanation": "Yaşama, eğitim, sağlık gibi haklar doğuştan kazanılan temel haklardır."
+    },
+    {
+      "id": "SOS-0072",
+      "topic": "cocuk-haklari",
+      "difficulty": 1,
+      "q": "Aşağıdakilerden hangisi çocukların temel haklarından biridir?",
+      "options": ["Eğitim hakkı", "Araba kullanma hakkı", "Oy verme hakkı", "Çalıştırılma zorunluluğu"],
+      "answer": "A",
+      "explanation": "Eğitim, her çocuğun temel hakkıdır; oy verme ve araç kullanma yetişkin haklarıdır."
+    },
+    {
+      "id": "SOS-0073",
+      "topic": "cocuk-haklari",
+      "difficulty": 2,
+      "q": "Çocukların haklarını güvence altına alan uluslararası belge hangisidir?",
+      "options": [
+        "Çocuk Hakları Sözleşmesi",
+        "Trafik Kanunu",
+        "Alışveriş Sözleşmesi",
+        "Spor Tüzüğü"
+      ],
+      "answer": "A",
+      "explanation": "Birleşmiş Milletler Çocuk Hakları Sözleşmesi, çocukların haklarını güvence altına alan uluslararası belgedir."
+    },
+    {
+      "id": "SOS-0074",
+      "topic": "cocuk-haklari",
+      "difficulty": 2,
+      "q": "Aşağıdakilerden hangisi çocuk hakkı ihlaline örnektir?",
+      "options": [
+        "Okul çağındaki bir çocuğun okula gönderilmeyip çalıştırılması",
+        "Çocuğun okula kayıt edilmesi",
+        "Hasta çocuğun doktora götürülmesi",
+        "Çocuğa oyun alanı sağlanması"
+      ],
+      "answer": "A",
+      "explanation": "Eğitim hakkından mahrum bırakmak ve çocuk yaşta çalıştırmak hak ihlalidir."
+    },
+    {
+      "id": "SOS-0075",
+      "topic": "cocuk-haklari",
+      "difficulty": 2,
+      "q": "Hakları ihlal edilen bir çocuk aşağıdakilerden hangisini YAPMAMALIDIR?",
+      "options": [
+        "Güvendiği bir büyüğüne durumu anlatmak",
+        "Öğretmenine bilgi vermek",
+        "Sessiz kalıp kimseye söylememek",
+        "İlgili kurumlardan yardım istemek"
+      ],
+      "answer": "C",
+      "explanation": "Hak ihlali karşısında sessiz kalınmamalı; güvenilir bir yetişkinden veya ilgili kurumlardan yardım istenmelidir."
+    },
+    {
+      "id": "SOS-0076",
+      "topic": "cocuk-haklari",
+      "difficulty": 2,
+      "q": "Çocukların korunmasıyla ilgilenen devlet kurumlarından biri hangisidir?",
+      "options": ["Sosyal Hizmetler Dairesi", "Liman Dairesi", "Meteoroloji Dairesi", "Posta Dairesi"],
+      "answer": "A",
+      "explanation": "Sosyal Hizmetler Dairesi, korunmaya muhtaç çocuklarla ve ailelerle ilgilenen resmî kurumdur."
+    },
+    {
+      "id": "SOS-0077",
+      "topic": "cocuk-haklari",
+      "difficulty": 3,
+      "q": "\"Benim oyun oynama hakkım var, bu yüzden istediğim zaman arkadaşımın oyuncağını alabilirim.\" diyen bir çocuk hangi konuda yanılmaktadır?",
+      "options": [
+        "Başkalarının da hakları olduğunu unutmaktadır",
+        "Oyun hakkının olmadığını bilmemektedir",
+        "Oyuncaklarla oynanamayacağını bilmemektedir",
+        "Hiçbir konuda yanılmamaktadır"
+      ],
+      "answer": "A",
+      "explanation": "Haklarımızı kullanırken başkalarının haklarına saygı göstermek zorundayız; arkadaşının eşyası onun hakkıdır."
+    },
+    {
+      "id": "SOS-0078",
+      "topic": "cocuk-haklari",
+      "difficulty": 2,
+      "q": "Aşağıdakilerden hangisi çocuğun sağlık hakkı kapsamındadır?",
+      "options": [
+        "Hastalandığında tedavi edilmesi ve aşılarının yapılması",
+        "İstediği kadar şeker yemesi",
+        "Okula gitmemesi",
+        "Geç saatlere kadar uyumaması"
+      ],
+      "answer": "A",
+      "explanation": "Sağlık hakkı; tedavi, aşı ve sağlıklı yaşam koşullarına erişimi kapsar."
+    },
+    {
+      "id": "SOS-0079",
+      "topic": "cocuk-haklari",
+      "difficulty": 3,
+      "q": "Sınıfta düşüncesini söyleyen arkadaşıyla alay eden bir öğrenci, arkadaşının hangi hakkına saygı göstermemiştir?",
+      "options": [
+        "Düşüncesini özgürce açıklama hakkına",
+        "Beslenme hakkına",
+        "Barınma hakkına",
+        "Seyahat hakkına"
+      ],
+      "answer": "A",
+      "explanation": "Her çocuğun görüşünü özgürce açıklama hakkı vardır; alay etmek bu hakka saygısızlıktır."
+    },
+    {
+      "id": "SOS-0080",
+      "topic": "cocuk-haklari",
+      "difficulty": 1,
+      "q": "Çocuk Hakları Sözleşmesi'ne göre kaç yaşına kadar herkes çocuk sayılır?",
+      "options": ["18", "12", "15", "21"],
+      "answer": "A",
+      "explanation": "Sözleşmeye göre 18 yaşına kadar her birey çocuk sayılır ve sözleşmedeki haklardan yararlanır."
+    },
+    {
+      "id": "SOS-0081",
+      "topic": "vatandaslik",
+      "difficulty": 1,
+      "q": "Bir devlete vatandaşlık bağı ile bağlı olan kişiye ne ad verilir?",
+      "options": ["Vatandaş", "Turist", "Misafir", "Seyyah"],
+      "answer": "A",
+      "explanation": "Vatandaş, bir devlete hukuki bağ ile bağlı olan ve o devletin hak ve sorumluluklarını taşıyan kişidir."
+    },
+    {
+      "id": "SOS-0082",
+      "topic": "vatandaslik",
+      "difficulty": 2,
+      "q": "Aşağıdakilerden hangisi vatandaşlık sorumluluklarından biridir?",
+      "options": ["Vergi vermek", "Tatile çıkmak", "Televizyon izlemek", "Alışveriş yapmak"],
+      "answer": "A",
+      "explanation": "Vergi vermek, kurallara uymak ve seçimlere katılmak vatandaşlık sorumluluklarındandır."
+    },
+    {
+      "id": "SOS-0083",
+      "topic": "vatandaslik",
+      "difficulty": 2,
+      "q": "Aşağıdakilerden hangisi KKTC vatandaşının haklarından biridir?",
+      "options": [
+        "Seçme ve seçilme hakkı (yaşı gelince)",
+        "Başkalarının eşyasını alma hakkı",
+        "Kurallara uymama hakkı",
+        "Vergi vermeme hakkı"
+      ],
+      "answer": "A",
+      "explanation": "Vatandaşlar yasaların belirlediği yaşa gelince seçme ve seçilme hakkını kullanır."
+    },
+    {
+      "id": "SOS-0084",
+      "topic": "vatandaslik",
+      "difficulty": 2,
+      "q": "Millî egemenlik ve bağımsızlık sembollerimizden ikisi hangileridir?",
+      "options": [
+        "Bayrak ve İstiklâl Marşı",
+        "Para ve pul",
+        "Okul ve hastane",
+        "Dağ ve deniz"
+      ],
+      "answer": "A",
+      "explanation": "Bayrak ve İstiklâl Marşı, bağımsızlığımızın ve millî egemenliğimizin en önemli sembolleridir."
+    },
+    {
+      "id": "SOS-0085",
+      "topic": "vatandaslik",
+      "difficulty": 2,
+      "q": "İstiklâl Marşı okunurken aşağıdakilerden hangisi yapılmalıdır?",
+      "options": [
+        "Saygı duruşunda bulunmak",
+        "Oturmaya devam etmek",
+        "Konuşmak",
+        "Telefonla oynamak"
+      ],
+      "answer": "A",
+      "explanation": "İstiklâl Marşı okunurken ayağa kalkılır ve saygı duruşunda bulunulur."
+    },
+    {
+      "id": "SOS-0086",
+      "topic": "vatandaslik",
+      "difficulty": 3,
+      "q": "Sosyal Bilgiler dersinin öğrencilere en önemli katkısı aşağıdakilerden hangisidir?",
+      "options": [
+        "Etkin ve sorumlu birer vatandaş olarak yetişmelerini sağlamak",
+        "Yalnızca harita çizmeyi öğretmek",
+        "Spor yapmayı öğretmek",
+        "Yabancı dil öğretmek"
+      ],
+      "answer": "A",
+      "explanation": "Sosyal Bilgiler; haklarını bilen, sorumluluklarını yerine getiren etkin vatandaşlar yetiştirmeyi amaçlar."
+    },
+    {
+      "id": "SOS-0087",
+      "topic": "vatandaslik",
+      "difficulty": 2,
+      "q": "Aşağıdakilerden hangisi iyi bir vatandaşın davranışlarından DEĞİLDİR?",
+      "options": [
+        "Çevreyi temiz tutmak",
+        "Trafik kurallarına uymak",
+        "Kamu mallarına zarar vermek",
+        "Vergisini zamanında ödemek"
+      ],
+      "answer": "C",
+      "explanation": "Kamu malları herkesindir; onlara zarar vermek vatandaşlık sorumluluğuna aykırıdır."
+    },
+    {
+      "id": "SOS-0088",
+      "topic": "vatandaslik",
+      "difficulty": 3,
+      "q": "Vatandaşlık hak ve sorumluluklarının kaynağı aşağıdakilerden hangisidir?",
+      "options": ["Anayasa ve yasalar", "Gelenekler yalnızca", "Reklamlar", "Kişisel istekler"],
+      "answer": "A",
+      "explanation": "Vatandaşların hakları ve sorumlulukları anayasa ve yasalarla belirlenir ve güvence altına alınır."
+    },
+    {
+      "id": "SOS-0089",
+      "topic": "vatandaslik",
+      "difficulty": 2,
+      "q": "Okulda sınıf başkanlığı seçimine katılan bir öğrenci hangi vatandaşlık davranışını öğrenmektedir?",
+      "options": [
+        "Seçme ve seçilme (demokratik katılım)",
+        "Vergi ödeme",
+        "Askerlik yapma",
+        "Pasaport alma"
+      ],
+      "answer": "A",
+      "explanation": "Sınıf seçimleri, demokratik katılımın ve seçme-seçilme hakkının okuldaki ilk uygulamasıdır."
+    },
+    {
+      "id": "SOS-0090",
+      "topic": "vatandaslik",
+      "difficulty": 1,
+      "q": "Bayrağımıza karşı aşağıdaki davranışlardan hangisi doğrudur?",
+      "options": [
+        "Saygı göstermek ve özenle korumak",
+        "Yere atmak",
+        "Üzerine yazı yazmak",
+        "Önemsememek"
+      ],
+      "answer": "A",
+      "explanation": "Bayrak bağımsızlığımızın sembolüdür; ona saygı göstermek her vatandaşın görevidir."
+    },
+    {
+      "id": "SOS-0091",
+      "topic": "toplumsal-kurumlar-stk",
+      "difficulty": 1,
+      "q": "Toplumun eğitim ihtiyacını karşılayan kurum hangisidir?",
+      "options": ["Okul", "Hastane", "Mahkeme", "Banka"],
+      "answer": "A",
+      "explanation": "Okullar toplumun eğitim ihtiyacını karşılamak için kurulmuş kurumlardır."
+    },
+    {
+      "id": "SOS-0092",
+      "topic": "toplumsal-kurumlar-stk",
+      "difficulty": 1,
+      "q": "Toplumun sağlık ihtiyacını karşılayan kurum hangisidir?",
+      "options": ["Mahkeme", "Hastane", "Okul", "Müze"],
+      "answer": "B",
+      "explanation": "Hastaneler ve sağlık ocakları toplumun sağlık ihtiyacını karşılar."
+    },
+    {
+      "id": "SOS-0093",
+      "topic": "toplumsal-kurumlar-stk",
+      "difficulty": 2,
+      "q": "İnsanlar arasındaki anlaşmazlıkları yasalara göre çözen ve adalet ihtiyacını karşılayan kurum hangisidir?",
+      "options": ["Mahkeme", "Okul", "Postane", "Stadyum"],
+      "answer": "A",
+      "explanation": "Mahkemeler, adalet ihtiyacını karşılayan ve anlaşmazlıkları yasalara göre çözen kurumlardır."
+    },
+    {
+      "id": "SOS-0094",
+      "topic": "toplumsal-kurumlar-stk",
+      "difficulty": 2,
+      "q": "Gönüllü kişilerin topluma hizmet amacıyla bir araya gelerek kurdukları kuruluşlara ne ad verilir?",
+      "options": [
+        "Sivil toplum kuruluşu",
+        "Resmî kurum",
+        "Ticarî şirket",
+        "Banka"
+      ],
+      "answer": "A",
+      "explanation": "Sivil toplum kuruluşları (STK), gönüllülerin topluma hizmet için kurduğu, kâr amacı gütmeyen kuruluşlardır."
+    },
+    {
+      "id": "SOS-0095",
+      "topic": "toplumsal-kurumlar-stk",
+      "difficulty": 2,
+      "q": "Aşağıdakilerden hangisi sivil toplum kuruluşuna örnektir?",
+      "options": [
+        "Hayvanları koruma derneği",
+        "Polis teşkilatı",
+        "Devlet hastanesi",
+        "Vergi dairesi"
+      ],
+      "answer": "A",
+      "explanation": "Dernekler gönüllülükle çalışan sivil toplum kuruluşlarıdır; polis, hastane ve vergi dairesi resmî kurumlardır."
+    },
+    {
+      "id": "SOS-0096",
+      "topic": "toplumsal-kurumlar-stk",
+      "difficulty": 2,
+      "q": "Resmî kurumlar ile sivil toplum kuruluşları arasındaki temel fark hangisidir?",
+      "options": [
+        "Resmî kurumlar devlete bağlıdır, STK'lar gönüllülük esasıyla çalışır",
+        "STK'lar devlete bağlıdır, resmî kurumlar gönüllüdür",
+        "İkisi de yalnızca kâr amacı güder",
+        "Aralarında hiçbir fark yoktur"
+      ],
+      "answer": "A",
+      "explanation": "Resmî kurumlar devlet tarafından kurulur ve yönetilir; STK'lar gönüllü vatandaşlarca kurulur."
+    },
+    {
+      "id": "SOS-0097",
+      "topic": "toplumsal-kurumlar-stk",
+      "difficulty": 3,
+      "q": "Çevre temizliği kampanyası düzenleyen bir derneğe gönüllü katılan öğrenci hangi davranışı sergilemiştir?",
+      "options": [
+        "Toplumsal sorumluluk ve dayanışma",
+        "Yalnızca eğlence",
+        "Zorunlu görev",
+        "Ticari faaliyet"
+      ],
+      "answer": "A",
+      "explanation": "Gönüllü çalışmalara katılmak toplumsal sorumluluk ve dayanışma örneğidir."
+    },
+    {
+      "id": "SOS-0098",
+      "topic": "toplumsal-kurumlar-stk",
+      "difficulty": 2,
+      "q": "Toplumun güvenlik ihtiyacını karşılayan kurum hangisidir?",
+      "options": ["Polis teşkilatı", "Kütüphane", "Tiyatro", "Lokanta"],
+      "answer": "A",
+      "explanation": "Polis ve güvenlik güçleri, toplumun can ve mal güvenliğini sağlamakla görevlidir."
+    },
+    {
+      "id": "SOS-0099",
+      "topic": "toplumsal-kurumlar-stk",
+      "difficulty": 3,
+      "q": "Sporda federasyonların görevi aşağıdakilerden hangisidir?",
+      "options": [
+        "Spor dallarını düzenlemek ve yarışmalar organize etmek",
+        "Hastalara bakmak",
+        "Ders vermek",
+        "Yol yapmak"
+      ],
+      "answer": "A",
+      "explanation": "Spor federasyonları, ilgili spor dalının kurallarını uygular, yarışmalar ve ligler düzenler."
+    },
+    {
+      "id": "SOS-0100",
+      "topic": "toplumsal-kurumlar-stk",
+      "difficulty": 2,
+      "q": "Okulundaki kütüphaneden ödünç kitap alan bir öğrencinin sorumluluğu hangisidir?",
+      "options": [
+        "Kitabı zamanında ve zarar vermeden geri getirmek",
+        "Kitabı istediği kadar tutmak",
+        "Kitaba notlar yazmak",
+        "Kitabı arkadaşına satmak"
+      ],
+      "answer": "A",
+      "explanation": "Toplumsal kurum hizmetlerinden yararlanırken üzerimize düşen sorumlulukları yerine getirmeliyiz."
+    }
+  ]
+}

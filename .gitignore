@@ -14,3 +14,10 @@ _work/
 
 # Python
 __pycache__/
+
+# 5. Sinif ders kitaplari: harici sunucudan (ttd.mebnet.net) servis edilir,
+# repoya alinmaz (dosyalar >100MB, GitHub siniri). Bkz. data/books.json
+/Turkce-5.-Sinif-*.pdf
+/Matematik-5.-Sinif-*.pdf
+/Fen-ve-Teknoloji-5.-Sinif-*.pdf
+/Sosyal-Bilgiler-5.-Sinif.pdf

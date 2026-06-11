@@ -1,0 +1,1112 @@
+{
+  "subject": "turkce",
+  "questions": [
+    {
+      "id": "TUR-0001",
+      "topic": "es-zit-es-sesli",
+      "difficulty": 1,
+      "q": "\"Okul\" sözcüğünün eş anlamlısı hangisidir?",
+      "options": ["Mektep", "Sınıf", "Ders", "Öğrenci"],
+      "answer": "A",
+      "explanation": "Eş anlamlı sözcükler aynı anlamı taşır: okul = mektep."
+    },
+    {
+      "id": "TUR-0002",
+      "topic": "es-zit-es-sesli",
+      "difficulty": 1,
+      "q": "\"Cevap\" sözcüğünün eş anlamlısı hangisidir?",
+      "options": ["Soru", "Yanıt", "Sınav", "Konuşma"],
+      "answer": "B",
+      "explanation": "Cevap ile yanıt aynı anlamdadır; soru ise zıt yönlü bir kavramdır."
+    },
+    {
+      "id": "TUR-0003",
+      "topic": "es-zit-es-sesli",
+      "difficulty": 1,
+      "q": "\"Cömert\" sözcüğünün zıt (karşıt) anlamlısı hangisidir?",
+      "options": ["Eli açık", "Cimri", "Yardımsever", "İyiliksever"],
+      "answer": "B",
+      "explanation": "Cömert, malını paylaşan kişidir; zıttı cimridir."
+    },
+    {
+      "id": "TUR-0004",
+      "topic": "es-zit-es-sesli",
+      "difficulty": 2,
+      "q": "Aşağıdaki sözcük çiftlerinden hangisi zıt anlamlıdır?",
+      "options": ["Siyah - kara", "Hızlı - yavaş", "Doktor - hekim", "Misafir - konuk"],
+      "answer": "B",
+      "explanation": "Hızlı ve yavaş karşıt anlamlıdır; diğer çiftler eş anlamlıdır."
+    },
+    {
+      "id": "TUR-0005",
+      "topic": "es-zit-es-sesli",
+      "difficulty": 2,
+      "q": "\"Gül\" sözcüğü aşağıdaki cümlelerin hangisinde bir çiçek anlamında kullanılmıştır?",
+      "options": [
+        "Bahçedeki gül bu yıl erken açtı.",
+        "Bu fıkraya çok gül dedi arkadaşım.",
+        "Gül artık, surat asma!",
+        "Ona bakıp bakıp gülüyordu."
+      ],
+      "answer": "A",
+      "explanation": "\"Gül\" eş sesli bir sözcüktür: hem çiçek adı hem gülmek fiilidir. İlk cümlede çiçek anlamındadır."
+    },
+    {
+      "id": "TUR-0006",
+      "topic": "es-zit-es-sesli",
+      "difficulty": 2,
+      "q": "\"Yüz\" sözcüğü hangi cümlede sayı anlamında kullanılmıştır?",
+      "options": [
+        "Denizde yüzmeyi çok severim.",
+        "Yüz lira biriktirdim.",
+        "Yüzünü güneşe döndü.",
+        "Bana gülen yüzüyle baktı."
+      ],
+      "answer": "B",
+      "explanation": "\"Yüz\" eş seslidir: sayı (100), surat ve yüzmek anlamları vardır. İkinci cümlede sayı anlamındadır."
+    },
+    {
+      "id": "TUR-0007",
+      "topic": "es-zit-es-sesli",
+      "difficulty": 2,
+      "q": "Aşağıdaki sözcük çiftlerinden hangisi eş anlamlıdır?",
+      "options": ["Uzak - yakın", "Sözcük - kelime", "Gece - gündüz", "Sıcak - soğuk"],
+      "answer": "B",
+      "explanation": "Sözcük ve kelime aynı anlama gelir; diğer çiftler zıt anlamlıdır."
+    },
+    {
+      "id": "TUR-0008",
+      "topic": "es-zit-es-sesli",
+      "difficulty": 3,
+      "q": "\"Çay\" sözcüğünün eş sesli olduğunu gösteren cümle çifti hangisidir?",
+      "options": [
+        "\"Çay demledim.\" - \"Köyün yanından bir çay akıyor.\"",
+        "\"Çay içtim.\" - \"Çay demledim.\"",
+        "\"Çay sıcaktı.\" - \"Çay tatlıydı.\"",
+        "\"Çay bitti.\" - \"Çay kalmadı.\""
+      ],
+      "answer": "A",
+      "explanation": "İlk çiftte \"çay\" hem içecek hem akarsu anlamında kullanılmıştır; eş seslilik budur."
+    },
+    {
+      "id": "TUR-0009",
+      "topic": "es-zit-es-sesli",
+      "difficulty": 3,
+      "q": "\"Bu soruyu çözmek çok kolaydı.\" cümlesindeki \"kolay\" sözcüğünün zıt anlamlısı ile kurulmuş cümle hangisidir?",
+      "options": [
+        "Bu soru gerçekten zordu.",
+        "Bu soru çok basitti.",
+        "Bu soruyu hemen çözdüm.",
+        "Bu soru kısaydı."
+      ],
+      "answer": "A",
+      "explanation": "Kolay sözcüğünün zıt anlamlısı zordur."
+    },
+    {
+      "id": "TUR-0010",
+      "topic": "es-zit-es-sesli",
+      "difficulty": 1,
+      "q": "\"Beyaz\" sözcüğünün eş anlamlısı hangisidir?",
+      "options": ["Siyah", "Ak", "Kara", "Gri"],
+      "answer": "B",
+      "explanation": "Beyaz = ak. Siyah ve kara ise birbirinin eş anlamlısı, beyazın zıttıdır."
+    },
+    {
+      "id": "TUR-0011",
+      "topic": "gercek-mecaz-terim",
+      "difficulty": 1,
+      "q": "\"Soğuk\" sözcüğü hangi cümlede GERÇEK anlamında kullanılmıştır?",
+      "options": [
+        "Bize çok soğuk davrandı.",
+        "Buzdolabından soğuk su aldım.",
+        "Aralarında soğuk rüzgârlar esiyor.",
+        "Soğuk bir bakış attı."
+      ],
+      "answer": "B",
+      "explanation": "Gerçek anlam, sözcüğün ilk akla gelen anlamıdır; soğuk su gerçek anlamdır, soğuk davranış mecazdır."
+    },
+    {
+      "id": "TUR-0012",
+      "topic": "gercek-mecaz-terim",
+      "difficulty": 2,
+      "q": "\"Burnu havada bir çocuktu.\" cümlesindeki \"burnu havada\" sözü hangi anlamda kullanılmıştır?",
+      "options": ["Gerçek anlamda", "Mecaz anlamda", "Terim anlamda", "Sayısal anlamda"],
+      "answer": "B",
+      "explanation": "\"Burnu havada\" kibirli demektir; sözcükler gerçek anlamından uzaklaştığı için mecazdır."
+    },
+    {
+      "id": "TUR-0013",
+      "topic": "gercek-mecaz-terim",
+      "difficulty": 2,
+      "q": "\"Üçgenin iç açıları toplamı 180 derecedir.\" cümlesindeki \"açı\" sözcüğü hangi anlamda kullanılmıştır?",
+      "options": ["Mecaz anlamda", "Gerçek anlamın dışında", "Terim anlamda", "Deyim olarak"],
+      "answer": "C",
+      "explanation": "\"Açı\" burada matematik dersine özgü bir kavramdır; bir bilim dalına özgü anlamlar terim anlamdır."
+    },
+    {
+      "id": "TUR-0014",
+      "topic": "gercek-mecaz-terim",
+      "difficulty": 2,
+      "q": "\"Tatlı\" sözcüğü hangi cümlede MECAZ anlamda kullanılmıştır?",
+      "options": [
+        "Annem tatlı yaptı.",
+        "Bu baklava çok tatlı olmuş.",
+        "Tatlı dilli bir insandı.",
+        "Tatlıyı buzdolabına koydum."
+      ],
+      "answer": "C",
+      "explanation": "\"Tatlı dilli\" ifadesinde tatlı, lezzet değil hoş ve kibar konuşma anlamındadır; mecazdır."
+    },
+    {
+      "id": "TUR-0015",
+      "topic": "gercek-mecaz-terim",
+      "difficulty": 2,
+      "q": "Aşağıdaki cümlelerin hangisinde altı çizili sözcük TERİM anlamıyla kullanılmıştır? (Terim: bir bilim, sanat veya spor dalına özgü sözcük)",
+      "options": [
+        "Maçta hakem PENALTI kararı verdi.",
+        "Kapının KOLU kırıldı.",
+        "Yemeğin TADI güzeldi.",
+        "Sabah erkenden YOLA çıktık."
+      ],
+      "answer": "A",
+      "explanation": "\"Penaltı\" futbola özgü bir terimdir."
+    },
+    {
+      "id": "TUR-0016",
+      "topic": "gercek-mecaz-terim",
+      "difficulty": 3,
+      "q": "\"Bu haber yüreğimi yaktı.\" cümlesindeki \"yakmak\" sözcüğü için hangisi söylenebilir?",
+      "options": [
+        "Gerçek anlamda kullanılmıştır",
+        "Mecaz anlamda kullanılmış, çok üzülmek anlamı katmıştır",
+        "Terim anlamda kullanılmıştır",
+        "Ateşle ilgili gerçek bir olay anlatmaktadır"
+      ],
+      "answer": "B",
+      "explanation": "Haber yüreği gerçekten yakmaz; \"yakmak\" burada derin üzüntüyü anlatan mecazdır."
+    },
+    {
+      "id": "TUR-0017",
+      "topic": "gercek-mecaz-terim",
+      "difficulty": 3,
+      "q": "\"Nota\" sözcüğü hangi alana ait bir terimdir?",
+      "options": ["Matematik", "Müzik", "Coğrafya", "Spor"],
+      "answer": "B",
+      "explanation": "Nota, müzik alanına özgü bir terimdir."
+    },
+    {
+      "id": "TUR-0018",
+      "topic": "gercek-mecaz-terim",
+      "difficulty": 2,
+      "q": "\"Kara\" sözcüğü hangi cümlede MECAZ anlamda kullanılmıştır?",
+      "options": [
+        "Kara bir kedi gördüm.",
+        "Kara günlerimde hep yanımdaydı.",
+        "Kara tahtaya yazı yazdı.",
+        "Saçları simsiyahtı, kapkaraydı."
+      ],
+      "answer": "B",
+      "explanation": "\"Kara günler\" kötü, sıkıntılı günler demektir; renk anlamından uzaklaşıldığı için mecazdır."
+    },
+    {
+      "id": "TUR-0019",
+      "topic": "gercek-mecaz-terim",
+      "difficulty": 1,
+      "q": "Bir sözcüğün akla ilk gelen, temel anlamına ne ad verilir?",
+      "options": ["Mecaz anlam", "Gerçek anlam", "Terim anlam", "Yan anlam"],
+      "answer": "B",
+      "explanation": "Sözcüğün sözlükteki ilk, temel anlamı gerçek anlamdır."
+    },
+    {
+      "id": "TUR-0020",
+      "topic": "gercek-mecaz-terim",
+      "difficulty": 2,
+      "q": "\"Işık\" sözcüğü hangi cümlede mecaz anlamda kullanılmıştır?",
+      "options": [
+        "Odanın ışığını açtım.",
+        "Güneş ışığı camdan giriyordu.",
+        "Öğretmenim hayatıma ışık tuttu.",
+        "Fenerin ışığı çok parlaktı."
+      ],
+      "answer": "C",
+      "explanation": "\"Hayatıma ışık tuttu\" yol gösterdi anlamında mecazdır; diğerlerinde ışık gerçek anlamdadır."
+    },
+    {
+      "id": "TUR-0021",
+      "topic": "deyim-atasozu",
+      "difficulty": 1,
+      "q": "\"Etekleri zil çalmak\" deyiminin anlamı nedir?",
+      "options": ["Çok sevinmek", "Çok üzülmek", "Çok korkmak", "Çok yorulmak"],
+      "answer": "A",
+      "explanation": "\"Etekleri zil çalmak\", çok sevinçli ve neşeli olmak demektir."
+    },
+    {
+      "id": "TUR-0022",
+      "topic": "deyim-atasozu",
+      "difficulty": 1,
+      "q": "\"Kulak misafiri olmak\" deyiminin anlamı nedir?",
+      "options": [
+        "Konuşulanları istemeden ya da gizlice dinlemek",
+        "Misafirliğe gitmek",
+        "Kulağı ağrımak",
+        "Yüksek sesle konuşmak"
+      ],
+      "answer": "A",
+      "explanation": "\"Kulak misafiri olmak\", yanında konuşulanları dinlemek anlamına gelen bir deyimdir."
+    },
+    {
+      "id": "TUR-0023",
+      "topic": "deyim-atasozu",
+      "difficulty": 2,
+      "q": "\"Damlaya damlaya göl olur.\" atasözü bize neyi öğütler?",
+      "options": [
+        "Az az biriktirmenin zamanla büyük birikim sağlayacağını",
+        "Su içmenin önemini",
+        "Göllerin nasıl oluştuğunu",
+        "Yağmurun yararlarını"
+      ],
+      "answer": "A",
+      "explanation": "Bu atasözü tutumlu olmayı, küçük birikimlerin zamanla büyüyeceğini öğütler."
+    },
+    {
+      "id": "TUR-0024",
+      "topic": "deyim-atasozu",
+      "difficulty": 2,
+      "q": "\"Ağaç yaşken eğilir.\" atasözünün verdiği öğüt hangisidir?",
+      "options": [
+        "Eğitim küçük yaşta verilmelidir",
+        "Ağaçlar küçükken kesilmelidir",
+        "Yaşlı ağaçlar eğilmez",
+        "Ormanlar korunmalıdır"
+      ],
+      "answer": "A",
+      "explanation": "İnsan, tıpkı yaş ağaç gibi, küçük yaşta eğitilir; alışkanlıklar küçükken kazanılır."
+    },
+    {
+      "id": "TUR-0025",
+      "topic": "deyim-atasozu",
+      "difficulty": 2,
+      "q": "\"Sınavı kazanınca ağzı kulaklarına vardı.\" cümlesindeki deyimin anlamı nedir?",
+      "options": ["Çok sevindi", "Çok şaşırdı", "Çok konuştu", "Çok güldü diye kızdı"],
+      "answer": "A",
+      "explanation": "\"Ağzı kulaklarına varmak\", çok sevinmek demektir."
+    },
+    {
+      "id": "TUR-0026",
+      "topic": "deyim-atasozu",
+      "difficulty": 2,
+      "q": "\"Göz kulak olmak\" deyimi hangi cümlede doğru kullanılmıştır?",
+      "options": [
+        "Ben gelene kadar kardeşine göz kulak ol.",
+        "Gözlerine kulaklık taktı.",
+        "Gözü kulağına değdi.",
+        "Göz kulak hastanesine gitti."
+      ],
+      "answer": "A",
+      "explanation": "\"Göz kulak olmak\", korumak ve ilgilenmek anlamındadır; ilk cümle bu anlama uygundur."
+    },
+    {
+      "id": "TUR-0027",
+      "topic": "deyim-atasozu",
+      "difficulty": 3,
+      "q": "\"İşleyen demir ışıldar.\" atasözü ile anlatılmak istenen nedir?",
+      "options": [
+        "Çalışan insan gelişir ve başarılı olur",
+        "Demir parlak bir madendir",
+        "Demircilik zor bir meslektir",
+        "Makineler bakım ister"
+      ],
+      "answer": "A",
+      "explanation": "Çalışan, üreten insan tıpkı işlenen demir gibi parlar; tembellik ise köreltir."
+    },
+    {
+      "id": "TUR-0028",
+      "topic": "deyim-atasozu",
+      "difficulty": 3,
+      "q": "Deyimler ile atasözleri arasındaki temel fark hangisidir?",
+      "options": [
+        "Atasözleri öğüt veren tamamlanmış cümlelerdir, deyimler ise kalıplaşmış söz öbekleridir",
+        "Deyimler öğüt verir, atasözleri vermez",
+        "Atasözleri yenidir, deyimler eskidir",
+        "Aralarında hiçbir fark yoktur"
+      ],
+      "answer": "A",
+      "explanation": "Atasözü yargı bildiren, öğüt veren tam cümledir; deyim ise bir durumu anlatan kalıplaşmış sözdür."
+    },
+    {
+      "id": "TUR-0029",
+      "topic": "deyim-atasozu",
+      "difficulty": 2,
+      "q": "\"Vakit nakittir.\" atasözü bize neyi anlatır?",
+      "options": [
+        "Zamanın çok değerli olduğunu",
+        "Paranın önemsiz olduğunu",
+        "Saatlerin pahalı olduğunu",
+        "Bankaya gitmek gerektiğini"
+      ],
+      "answer": "A",
+      "explanation": "Bu atasözü zamanın para kadar değerli olduğunu, boşa harcanmaması gerektiğini öğütler."
+    },
+    {
+      "id": "TUR-0030",
+      "topic": "deyim-atasozu",
+      "difficulty": 2,
+      "q": "Yazısını deyim ve atasözleriyle zenginleştiren bir öğrencinin yazısı için hangisi söylenebilir?",
+      "options": [
+        "Anlatımı daha etkili ve renkli olur",
+        "Yazısı anlaşılmaz olur",
+        "Yazısı kısalır",
+        "Yazım yanlışları artar"
+      ],
+      "answer": "A",
+      "explanation": "Deyim ve atasözleri anlatımı güçlendirir, yazıya akıcılık ve etki katar."
+    },
+    {
+      "id": "TUR-0031",
+      "topic": "ana-fikir-konu",
+      "difficulty": 2,
+      "passage": "Ormanlar yeryüzünün akciğerleridir. Havayı temizler, erozyonu önler, sayısız canlıya yuva olur. Ne yazık ki her yıl binlerce ağaç yangınlar ve bilinçsiz kesimler yüzünden yok oluyor. Ormanlarımızı korumak, geleceğimizi korumaktır.",
+      "q": "Bu metnin ana fikri aşağıdakilerden hangisidir?",
+      "options": [
+        "Ormanlar yaşam için çok önemlidir ve korunmalıdır",
+        "Yangınlar yazın çıkar",
+        "Ağaç kesmek serbesttir",
+        "Hayvanlar ormanda yaşar"
+      ],
+      "answer": "A",
+      "explanation": "Metin, ormanların önemini anlatıp korunmaları gerektiğini vurgulamaktadır; ana fikir budur."
+    },
+    {
+      "id": "TUR-0032",
+      "topic": "ana-fikir-konu",
+      "difficulty": 1,
+      "passage": "Kitap okumak insanın kelime dağarcığını geliştirir. Düzenli kitap okuyan kişiler kendilerini daha iyi ifade eder, derslerinde daha başarılı olur. Üstelik kitaplar bizi hiç gitmediğimiz yerlere götürür, hiç tanımadığımız insanlarla tanıştırır.",
+      "q": "Bu metnin konusu nedir?",
+      "options": [
+        "Kitap okumanın yararları",
+        "Kütüphanelerin tarihi",
+        "Yazar olmanın zorlukları",
+        "Ders çalışma yöntemleri"
+      ],
+      "answer": "A",
+      "explanation": "Metin baştan sona kitap okumanın insana kazandırdıklarını anlatmaktadır."
+    },
+    {
+      "id": "TUR-0033",
+      "topic": "ana-fikir-konu",
+      "difficulty": 2,
+      "passage": "Küçük serçe yuvasından düşmüştü. Ayşe onu yavaşça avucuna aldı, evine götürüp besledi. Günler sonra serçe iyileşti. Ayşe pencereyi açtı ve serçeyi gökyüzüne uğurladı. İçinde tarifsiz bir mutluluk vardı.",
+      "q": "Bu metnin ana duygusu hangisidir?",
+      "options": [
+        "Yardımlaşmanın ve iyiliğin verdiği mutluluk",
+        "Kuşlardan korkma",
+        "Yalnızlık ve üzüntü",
+        "Kışın zorlukları"
+      ],
+      "answer": "A",
+      "explanation": "Metinde bir canlıya yardım etmenin insana yaşattığı mutluluk duygusu işlenmektedir."
+    },
+    {
+      "id": "TUR-0034",
+      "topic": "ana-fikir-konu",
+      "difficulty": 2,
+      "q": "Bir metnin \"konusu\" ile \"ana fikri\" arasındaki fark hangisidir?",
+      "options": [
+        "Konu metinde anlatılan şeydir, ana fikir ise verilmek istenen mesajdır",
+        "Konu ve ana fikir aynı şeydir",
+        "Ana fikir metnin başlığıdır",
+        "Konu yalnızca şiirlerde bulunur"
+      ],
+      "answer": "A",
+      "explanation": "Konu \"ne anlatılıyor?\" sorusunun, ana fikir \"verilmek istenen mesaj ne?\" sorusunun cevabıdır."
+    },
+    {
+      "id": "TUR-0035",
+      "topic": "ana-fikir-konu",
+      "difficulty": 2,
+      "passage": "Sabahları kahvaltı yapmadan okula gelen öğrenciler derslerde zorlanıyor. Dikkatleri çabuk dağılıyor, enerjileri düşüyor. Oysa güne sağlıklı bir kahvaltıyla başlayan öğrenciler hem daha dikkatli hem daha neşeli oluyor.",
+      "q": "Bu metne en uygun başlık hangisidir?",
+      "options": [
+        "Kahvaltının Önemi",
+        "Okul Servisleri",
+        "Ders Programı",
+        "Oyun Saatleri"
+      ],
+      "answer": "A",
+      "explanation": "Metin kahvaltının öğrenciler üzerindeki etkisini anlattığı için en uygun başlık \"Kahvaltının Önemi\"dir."
+    },
+    {
+      "id": "TUR-0036",
+      "topic": "ana-fikir-konu",
+      "difficulty": 3,
+      "passage": "Dedem her akşam bahçesindeki zeytin ağaçlarını sulardı. \"Bu ağaçlar benden yaşlı.\" derdi gülümseyerek. \"Onları büyükbabam dikmiş. Ben de torunlarıma bırakacağım.\" Dedem geçen yıl aramızdan ayrıldı ama ağaçları hâlâ meyve veriyor.",
+      "q": "Bu metnin ana fikri hangisidir?",
+      "options": [
+        "Yapılan güzel işler insandan sonra da yaşamaya devam eder",
+        "Zeytin ağaçları çok su ister",
+        "Bahçe işleri yorucudur",
+        "Yaşlılar bahçeyle uğraşmamalıdır"
+      ],
+      "answer": "A",
+      "explanation": "Metin, insanın diktiği ağaçların (yaptığı iyi işlerin) kendisinden sonra da yaşadığını anlatır."
+    },
+    {
+      "id": "TUR-0037",
+      "topic": "ana-fikir-konu",
+      "difficulty": 2,
+      "passage": "Su, canlıların yaşam kaynağıdır. Ancak dünyadaki temiz su kaynakları hızla azalmaktadır. Dişlerimizi fırçalarken musluğu kapatmak, kısa duş almak, bahçeyi damlama yöntemiyle sulamak gibi küçük önlemler büyük fark yaratır.",
+      "q": "Bu metinde verilmek istenen mesaj hangisidir?",
+      "options": [
+        "Su kaynaklarını korumak için tasarruf etmeliyiz",
+        "Duş almak zararlıdır",
+        "Bahçeler sulanmamalıdır",
+        "Su her zaman bol olacaktır"
+      ],
+      "answer": "A",
+      "explanation": "Metin, suyun azaldığını belirtip tasarruf yollarını önermektedir; mesaj su tasarrufudur."
+    },
+    {
+      "id": "TUR-0038",
+      "topic": "ana-fikir-konu",
+      "difficulty": 1,
+      "q": "Bir metnin ana fikrini bulmak için kendimize hangi soruyu sormalıyız?",
+      "options": [
+        "Yazar bu metni hangi mesajı vermek için yazmış?",
+        "Metin kaç paragraf?",
+        "Metinde kaç kelime var?",
+        "Metni kim yazmış?"
+      ],
+      "answer": "A",
+      "explanation": "Ana fikir, yazarın okuyucuya iletmek istediği temel mesajdır."
+    },
+    {
+      "id": "TUR-0039",
+      "topic": "ana-fikir-konu",
+      "difficulty": 3,
+      "passage": "Karıncayı izledim bütün öğleden sonra. Kendinden kat kat büyük bir ekmek kırıntısını taşıyordu. Defalarca düştü kırıntı, defalarca yeniden kaldırdı. Sonunda yuvasına ulaştı. O an anladım ki küçük olmak, güçsüz olmak demek değildir.",
+      "q": "Bu metnin ana fikri hangisidir?",
+      "options": [
+        "Azim ve kararlılıkla her zorluk aşılabilir",
+        "Karıncalar ekmek sever",
+        "Böcekleri izlemek eğlencelidir",
+        "Yuvalar önemlidir"
+      ],
+      "answer": "A",
+      "explanation": "Karıncanın vazgeçmeden çabalaması, azmin gücünü anlatmaktadır."
+    },
+    {
+      "id": "TUR-0040",
+      "topic": "ana-fikir-konu",
+      "difficulty": 2,
+      "passage": "Lefkoşa'nın ara sokaklarında dolaşırken kendinizi bir zaman yolculuğunda hissedersiniz. Eski evlerin ahşap cumbaları, taş kemerli kapıları size yüzyıllar öncesini anlatır. Her köşe başında tarihin bir izi vardır.",
+      "q": "Bu metnin konusu hangisidir?",
+      "options": [
+        "Lefkoşa'nın tarihî dokusu",
+        "Modern alışveriş merkezleri",
+        "Trafik sorunu",
+        "Deniz turizmi"
+      ],
+      "answer": "A",
+      "explanation": "Metin, Lefkoşa'nın eski sokaklarını ve tarihî yapısını anlatmaktadır."
+    },
+    {
+      "id": "TUR-0041",
+      "topic": "hikaye-unsurlari",
+      "difficulty": 1,
+      "q": "Bir hikâyede olayın geçtiği yere ne ad verilir?",
+      "options": ["Zaman", "Mekân (yer)", "Anlatıcı", "Ana fikir"],
+      "answer": "B",
+      "explanation": "Hikâyede olayın geçtiği yer mekân olarak adlandırılır."
+    },
+    {
+      "id": "TUR-0042",
+      "topic": "hikaye-unsurlari",
+      "difficulty": 1,
+      "q": "Hikâyedeki kişilere ve varlıklara ne ad verilir?",
+      "options": ["Şahıs ve varlık kadrosu", "Mekân", "Zaman", "Başlık"],
+      "answer": "A",
+      "explanation": "Hikâyede yer alan kişiler ve varlıklar, şahıs ve varlık kadrosunu oluşturur."
+    },
+    {
+      "id": "TUR-0043",
+      "topic": "hikaye-unsurlari",
+      "difficulty": 2,
+      "passage": "Geçen yaz tatilinde Alsancak'taki büyükannemin evine gitmiştim. Bir sabah erkenden, komşunun oğlu Mehmet ile denize açıldık. Birden rüzgâr çıktı, küçük sandalımız sallanmaya başladı. Mehmet hiç telaşlanmadan kürekleri kıyıya çevirdi ve bizi güvenle karaya çıkardı.",
+      "q": "Bu hikâyenin mekânı (geçtiği yer) neresidir?",
+      "options": [
+        "Alsancak ve deniz",
+        "Okul bahçesi",
+        "Lefkoşa çarşısı",
+        "Dağ evi"
+      ],
+      "answer": "A",
+      "explanation": "Olay, Alsancak'ta ve denizde geçmektedir."
+    },
+    {
+      "id": "TUR-0044",
+      "topic": "hikaye-unsurlari",
+      "difficulty": 2,
+      "passage": "Geçen yaz tatilinde Alsancak'taki büyükannemin evine gitmiştim. Bir sabah erkenden, komşunun oğlu Mehmet ile denize açıldık. Birden rüzgâr çıktı, küçük sandalımız sallanmaya başladı. Mehmet hiç telaşlanmadan kürekleri kıyıya çevirdi ve bizi güvenle karaya çıkardı.",
+      "q": "Bu hikâyenin zamanı hangisidir?",
+      "options": [
+        "Geçen yaz tatili, bir sabah",
+        "Kış gecesi",
+        "Sonbahar akşamı",
+        "Bayram günü öğleden sonra"
+      ],
+      "answer": "A",
+      "explanation": "Metinde olay \"geçen yaz tatilinde, bir sabah erkenden\" yaşanmıştır."
+    },
+    {
+      "id": "TUR-0045",
+      "topic": "hikaye-unsurlari",
+      "difficulty": 2,
+      "passage": "Geçen yaz tatilinde Alsancak'taki büyükannemin evine gitmiştim. Bir sabah erkenden, komşunun oğlu Mehmet ile denize açıldık. Birden rüzgâr çıktı, küçük sandalımız sallanmaya başladı. Mehmet hiç telaşlanmadan kürekleri kıyıya çevirdi ve bizi güvenle karaya çıkardı.",
+      "q": "Bu hikâyenin şahıs kadrosunda kimler vardır?",
+      "options": [
+        "Anlatıcı çocuk ve Mehmet",
+        "Büyükanne ve dede",
+        "Öğretmen ve öğrenciler",
+        "Balıkçılar"
+      ],
+      "answer": "A",
+      "explanation": "Olayı yaşayanlar, anlatıcı çocuk ile komşunun oğlu Mehmet'tir; büyükanne yalnızca anılır, olayda yer almaz."
+    },
+    {
+      "id": "TUR-0046",
+      "topic": "hikaye-unsurlari",
+      "difficulty": 2,
+      "q": "Hikâyede olayları anlatan kişiye ne ad verilir?",
+      "options": ["Anlatıcı", "Kahraman", "Yazarın arkadaşı", "Okuyucu"],
+      "answer": "A",
+      "explanation": "Hikâyedeki olayları bize aktaran sese anlatıcı denir."
+    },
+    {
+      "id": "TUR-0047",
+      "topic": "hikaye-unsurlari",
+      "difficulty": 3,
+      "q": "\"Sabah erken kalktım, çantamı hazırladım ve okula koştum.\" cümlelerinde olaylar kimin ağzından anlatılmaktadır?",
+      "options": [
+        "Olayı yaşayan kişinin (birinci kişi) ağzından",
+        "Olayı dışarıdan izleyen birinin (üçüncü kişi) ağzından",
+        "Öğretmenin ağzından",
+        "Hayvanların ağzından"
+      ],
+      "answer": "A",
+      "explanation": "\"Kalktım, hazırladım, koştum\" diyerek olayı yaşayan kişi kendisi anlatmaktadır; bu birinci kişili anlatımdır."
+    },
+    {
+      "id": "TUR-0048",
+      "topic": "hikaye-unsurlari",
+      "difficulty": 3,
+      "q": "\"Ali sabah erken kalktı, çantasını hazırladı ve okula koştu.\" cümlelerindeki anlatıcı için hangisi doğrudur?",
+      "options": [
+        "Olayları dışarıdan gözlemleyen üçüncü kişi anlatıcıdır",
+        "Olayı yaşayan Ali'nin kendisidir",
+        "Ali'nin annesidir",
+        "Anlatıcı yoktur"
+      ],
+      "answer": "A",
+      "explanation": "\"Kalktı, hazırladı, koştu\" ifadeleri olayın dışarıdan, üçüncü kişi ağzından anlatıldığını gösterir."
+    },
+    {
+      "id": "TUR-0049",
+      "topic": "hikaye-unsurlari",
+      "difficulty": 2,
+      "q": "Bir hikâyede olayların başlangıçtan sonuca doğru sıralanışına ne ad verilir?",
+      "options": ["Olay örgüsü", "Mekân", "Başlık", "Konu dışı bilgi"],
+      "answer": "A",
+      "explanation": "Olayların birbirine bağlanarak gelişmesi olay örgüsünü oluşturur."
+    },
+    {
+      "id": "TUR-0050",
+      "topic": "hikaye-unsurlari",
+      "difficulty": 1,
+      "q": "Aşağıdakilerden hangisi hikâye unsurlarından biri DEĞİLDİR?",
+      "options": ["Olay", "Mekân", "Zaman", "Kafiye"],
+      "answer": "D",
+      "explanation": "Kafiye (uyak) şiir unsurudur; hikâyenin unsurları olay, mekân, zaman, şahıs kadrosu ve anlatıcıdır."
+    },
+    {
+      "id": "TUR-0051",
+      "topic": "metin-turleri",
+      "difficulty": 1,
+      "q": "Yaşanmış ya da yaşanabilecek olayları kişi, yer ve zamana bağlı anlatan kısa yazı türü hangisidir?",
+      "options": ["Hikâye", "Şiir", "Haber metni", "Bilmece"],
+      "answer": "A",
+      "explanation": "Hikâye, yaşanmış veya yaşanabilir olayları anlatan kısa yazı türüdür."
+    },
+    {
+      "id": "TUR-0052",
+      "topic": "metin-turleri",
+      "difficulty": 1,
+      "q": "Kahramanları genellikle konuşan hayvanlar olan ve sonunda ders veren metin türü hangisidir?",
+      "options": ["Fabl", "Haber metni", "Günlük", "Mektup"],
+      "answer": "A",
+      "explanation": "Fabl, kahramanları çoğunlukla hayvan olan, ders (öğüt) veren metin türüdür."
+    },
+    {
+      "id": "TUR-0053",
+      "topic": "metin-turleri",
+      "difficulty": 2,
+      "q": "\"Bir varmış bir yokmuş, develer tellal iken...\" diye başlayan, olağanüstü olayların anlatıldığı metin türü hangisidir?",
+      "options": ["Masal", "Haber metni", "Anı", "Deneme"],
+      "answer": "A",
+      "explanation": "Masallar tekerlemeyle başlar ve olağanüstü olaylar ile kahramanlar içerir."
+    },
+    {
+      "id": "TUR-0054",
+      "topic": "metin-turleri",
+      "difficulty": 2,
+      "q": "Günlük olayları halka duyurmak amacıyla yazılan, gerçek bilgilere dayanan metin türü hangisidir?",
+      "options": ["Haber metni", "Masal", "Fabl", "Şiir"],
+      "answer": "A",
+      "explanation": "Haber metinleri gerçek olayları, kim-ne-nerede-ne zaman sorularına cevap vererek duyurur."
+    },
+    {
+      "id": "TUR-0055",
+      "topic": "metin-turleri",
+      "difficulty": 2,
+      "q": "Duygu ve düşüncelerin dizeler hâlinde, ahenkli biçimde anlatıldığı tür hangisidir?",
+      "options": ["Şiir", "Hikâye", "Haber metni", "Fabl"],
+      "answer": "A",
+      "explanation": "Şiir, duyguların dizelerle ve ahenkle anlatıldığı edebî türdür."
+    },
+    {
+      "id": "TUR-0056",
+      "topic": "metin-turleri",
+      "difficulty": 2,
+      "passage": "Aç tilki, bağdaki olgun üzümleri görünce ağzı sulandı. Sıçradı, zıpladı ama üzümlere bir türlü ulaşamadı. Sonunda vazgeçip giderken kendi kendine söylendi: \"Zaten ekşiydi onlar!\"",
+      "q": "Bu metin hangi türde yazılmıştır?",
+      "options": ["Fabl", "Haber metni", "Günlük", "Şiir"],
+      "answer": "A",
+      "explanation": "Kahramanı konuşan bir hayvan olan ve ders veren bu kısa metin bir fabldır."
+    },
+    {
+      "id": "TUR-0057",
+      "topic": "metin-turleri",
+      "difficulty": 3,
+      "passage": "Dün akşam Girne'de şiddetli yağış nedeniyle bazı yolları su bastı. Belediye ekipleri gece boyunca çalışarak yolları temizledi. Yetkililer, sürücüleri dikkatli olmaları konusunda uyardı.",
+      "q": "Bu metin hangi türdedir?",
+      "options": ["Haber metni", "Masal", "Fabl", "Şiir"],
+      "answer": "A",
+      "explanation": "Gerçek bir olayı yer, zaman ve kaynak belirterek duyuran bu metin haber metnidir."
+    },
+    {
+      "id": "TUR-0058",
+      "topic": "metin-turleri",
+      "difficulty": 2,
+      "q": "Masal ile hikâye arasındaki en önemli fark hangisidir?",
+      "options": [
+        "Masalda olağanüstü olaylar bulunur, hikâye gerçeğe uygundur",
+        "Hikâyeler her zaman manzumdur",
+        "Masallar gerçek olayları anlatır",
+        "Hikâyelerde kahraman olmaz"
+      ],
+      "answer": "A",
+      "explanation": "Masallar olağanüstü ögeler içerir; hikâyeler yaşanmış ya da yaşanabilecek olayları anlatır."
+    },
+    {
+      "id": "TUR-0059",
+      "topic": "metin-turleri",
+      "difficulty": 3,
+      "q": "Aşağıdaki başlangıçlardan hangisi bir MASALA ait olabilir?",
+      "options": [
+        "Evvel zaman içinde, kalbur saman içinde, bir padişahın üç kızı varmış.",
+        "Dün saat 14.00'te Lefkoşa'da toplantı yapıldı.",
+        "Sevgili günlüğüm, bugün çok yoruldum.",
+        "Sayın Müdür Bey, size bu mektubu yazıyorum."
+      ],
+      "answer": "A",
+      "explanation": "\"Evvel zaman içinde\" tekerlemesi ve \"varmış\" anlatımı masal başlangıcının tipik özelliğidir."
+    },
+    {
+      "id": "TUR-0060",
+      "topic": "metin-turleri",
+      "difficulty": 1,
+      "q": "Fabl türündeki metinlerin sonunda genellikle ne bulunur?",
+      "options": ["Bir ders (öğüt)", "Bilmece", "Tarif", "Adres"],
+      "answer": "A",
+      "explanation": "Fablların sonunda okuyucuya verilmek istenen bir ders ya da öğüt yer alır."
+    },
+    {
+      "id": "TUR-0061",
+      "topic": "okudugunu-anlama",
+      "difficulty": 2,
+      "passage": "Hellim, Kıbrıs'ın dünyaca ünlü peyniridir. Koyun, keçi veya inek sütünden yapılır. Taze hellim salatalarla yenir; ızgarada pişirilince ise dışı kızarır, içi yumuşacık kalır. Kıbrıs kahvaltısının vazgeçilmezi olan hellim, artık pek çok ülkeye ihraç edilmektedir.",
+      "q": "Metne göre hellim hangi sütlerden yapılabilir?",
+      "options": [
+        "Koyun, keçi veya inek sütünden",
+        "Yalnızca inek sütünden",
+        "Yalnızca keçi sütünden",
+        "Deve sütünden"
+      ],
+      "answer": "A",
+      "explanation": "Metinde hellimin koyun, keçi veya inek sütünden yapıldığı açıkça belirtilmektedir."
+    },
+    {
+      "id": "TUR-0062",
+      "topic": "okudugunu-anlama",
+      "difficulty": 2,
+      "passage": "Hellim, Kıbrıs'ın dünyaca ünlü peyniridir. Koyun, keçi veya inek sütünden yapılır. Taze hellim salatalarla yenir; ızgarada pişirilince ise dışı kızarır, içi yumuşacık kalır. Kıbrıs kahvaltısının vazgeçilmezi olan hellim, artık pek çok ülkeye ihraç edilmektedir.",
+      "q": "Metinden aşağıdaki çıkarımlardan hangisi yapılabilir?",
+      "options": [
+        "Hellim yalnızca Kıbrıs'ta tüketilen bir peynirdir",
+        "Hellim başka ülkelerde de tanınan ve satılan bir üründür",
+        "Hellim sadece çiğ yenir",
+        "Hellim bir tatlı çeşididir"
+      ],
+      "answer": "B",
+      "explanation": "\"Pek çok ülkeye ihraç edilmektedir\" cümlesinden hellimin yurt dışında da tanındığı çıkarılır."
+    },
+    {
+      "id": "TUR-0063",
+      "topic": "okudugunu-anlama",
+      "difficulty": 2,
+      "passage": "Deniz kaplumbağaları yumurtalarını gece, kumsala bıraktıkları çukurlara gömer. Yavrular yumurtadan çıkınca ay ışığını izleyerek denize ulaşır. Ancak kumsallardaki yapay ışıklar yavruların yönünü şaşırtabilir. Bu yüzden Alagadi gibi kumsallarda yuvalama mevsiminde geceleri ışık yakılması yasaktır.",
+      "q": "Metne göre yavru kaplumbağalar denizi nasıl bulur?",
+      "options": [
+        "Ay ışığını izleyerek",
+        "Annelerini takip ederek",
+        "Ses dinleyerek",
+        "Rüzgârı koklayarak"
+      ],
+      "answer": "A",
+      "explanation": "Metinde yavruların ay ışığını izleyerek denize ulaştığı belirtilmektedir."
+    },
+    {
+      "id": "TUR-0064",
+      "topic": "okudugunu-anlama",
+      "difficulty": 3,
+      "passage": "Deniz kaplumbağaları yumurtalarını gece, kumsala bıraktıkları çukurlara gömer. Yavrular yumurtadan çıkınca ay ışığını izleyerek denize ulaşır. Ancak kumsallardaki yapay ışıklar yavruların yönünü şaşırtabilir. Bu yüzden Alagadi gibi kumsallarda yuvalama mevsiminde geceleri ışık yakılması yasaktır.",
+      "q": "Alagadi kumsalında geceleri ışık yakılmasının yasak olmasının nedeni hangisidir?",
+      "options": [
+        "Elektrik tasarrufu yapmak",
+        "Yapay ışıkların yavru kaplumbağaların yönünü şaşırtması",
+        "Turistlerin rahatsız olması",
+        "Kumsalın karanlıkta daha güzel görünmesi"
+      ],
+      "answer": "B",
+      "explanation": "Metin, yapay ışıkların yavruları şaşırttığını ve yasağın bu yüzden konduğunu açıklamaktadır; bu bir neden-sonuç ilişkisidir."
+    },
+    {
+      "id": "TUR-0065",
+      "topic": "okudugunu-anlama",
+      "difficulty": 2,
+      "passage": "Ali her sabah saat yedide kalkar. Önce yatağını düzeltir, sonra elini yüzünü yıkar. Kahvaltısını yaptıktan sonra dişlerini fırçalar ve çantasını alıp okula gider.",
+      "q": "Ali kahvaltıdan hemen sonra ne yapar?",
+      "options": [
+        "Dişlerini fırçalar",
+        "Yatağını düzeltir",
+        "Elini yüzünü yıkar",
+        "Uyur"
+      ],
+      "answer": "A",
+      "explanation": "Metindeki sıralamaya göre Ali kahvaltıdan sonra dişlerini fırçalar."
+    },
+    {
+      "id": "TUR-0066",
+      "topic": "okudugunu-anlama",
+      "difficulty": 2,
+      "q": "\"Önce, sonra, daha sonra, sonunda\" gibi ifadeler metne ne kazandırır?",
+      "options": [
+        "Olayların oluş sırasını gösterir",
+        "Metni kısaltır",
+        "Metnin konusunu değiştirir",
+        "Yazım yanlışlarını düzeltir"
+      ],
+      "answer": "A",
+      "explanation": "Bu geçiş ve bağlantı ifadeleri olayların hangi sırayla gerçekleştiğini anlamamızı sağlar."
+    },
+    {
+      "id": "TUR-0067",
+      "topic": "okudugunu-anlama",
+      "difficulty": 3,
+      "passage": "Hava çok sıcaktı. Buz gibi limonatayı bir dikişte içtim. Akşama doğru boğazım ağrımaya başladı. Annem \"Sıcakta soğuk içersen böyle olur.\" dedi.",
+      "q": "Metindeki olayların neden-sonuç ilişkisi hangisinde doğru verilmiştir?",
+      "options": [
+        "Sıcak havada çok soğuk içecek içmek → boğaz ağrısı",
+        "Boğaz ağrısı → limonata içmek",
+        "Annenin konuşması → havanın ısınması",
+        "Limonata içmek → havanın soğuması"
+      ],
+      "answer": "A",
+      "explanation": "Boğaz ağrısının nedeni, sıcakta buz gibi limonatanın hızla içilmesidir."
+    },
+    {
+      "id": "TUR-0068",
+      "topic": "okudugunu-anlama",
+      "difficulty": 2,
+      "passage": "\"Yarın sabah erken kalkacağım.\" dedi Ayşe. \"Çünkü okulda fen sergisi var. Projemi en güzel şekilde sunmak istiyorum. Haftalardır bu gün için çalışıyorum.\"",
+      "q": "Ayşe'nin erken kalkmak istemesinin nedeni hangisidir?",
+      "options": [
+        "Fen sergisinde projesini sunacak olması",
+        "Pikniğe gidecek olması",
+        "Misafir gelecek olması",
+        "Televizyon izlemek istemesi"
+      ],
+      "answer": "A",
+      "explanation": "Ayşe \"çünkü\" diyerek nedenini açıklıyor: okuldaki fen sergisinde projesini sunmak."
+    },
+    {
+      "id": "TUR-0069",
+      "topic": "okudugunu-anlama",
+      "difficulty": 3,
+      "passage": "Karpaz Yarımadası'nın ücra köşelerinde yabani eşekler özgürce dolaşır. Yolda onlara rastlayan sürücüler yavaşlar, bazen de durup onları izler. Eşekleri beslemek isteyenler olur; ancak uzmanlar, insan yiyeceklerinin hayvanlara zarar verebileceğini söyleyerek bunu önermez.",
+      "q": "Metne göre uzmanların eşeklerin beslenmesini önermemesinin nedeni nedir?",
+      "options": [
+        "Eşeklerin saldırgan olması",
+        "İnsan yiyeceklerinin hayvanlara zarar verebilmesi",
+        "Eşeklerin aç olmaması",
+        "Yolun trafiğe kapanması"
+      ],
+      "answer": "B",
+      "explanation": "Metinde uzmanların gerekçesi açıkça \"insan yiyeceklerinin hayvanlara zarar verebileceği\" olarak verilmiştir."
+    },
+    {
+      "id": "TUR-0070",
+      "topic": "okudugunu-anlama",
+      "difficulty": 2,
+      "passage": "Karpaz Yarımadası'nın ücra köşelerinde yabani eşekler özgürce dolaşır. Yolda onlara rastlayan sürücüler yavaşlar, bazen de durup onları izler. Eşekleri beslemek isteyenler olur; ancak uzmanlar, insan yiyeceklerinin hayvanlara zarar verebileceğini söyleyerek bunu önermez.",
+      "q": "Metindeki \"ücra\" sözcüğünün anlamı, cümlenin gelişinden hangisi olabilir?",
+      "options": [
+        "Kalabalık",
+        "Uzak, kuytu",
+        "Gürültülü",
+        "Aydınlık"
+      ],
+      "answer": "B",
+      "explanation": "Yabani eşeklerin özgürce dolaştığı yerlerin insanlardan uzak köşeler olduğu anlaşılır; ücra, uzak ve kuytu demektir."
+    },
+    {
+      "id": "TUR-0071",
+      "topic": "noktalama",
+      "difficulty": 1,
+      "q": "Tamamlanmış cümlelerin sonuna hangi noktalama işareti konur?",
+      "options": ["Nokta (.)", "Virgül (,)", "Soru işareti (?)", "İki nokta (:)"],
+      "answer": "A",
+      "explanation": "Anlamca tamamlanmış cümlelerin sonuna nokta konur."
+    },
+    {
+      "id": "TUR-0072",
+      "topic": "noktalama",
+      "difficulty": 1,
+      "q": "Soru bildiren cümlelerin sonuna hangi işaret konur?",
+      "options": ["Ünlem (!)", "Soru işareti (?)", "Nokta (.)", "Tırnak (\" \")"],
+      "answer": "B",
+      "explanation": "Soru cümlelerinin sonuna soru işareti konur: \"Okula geldin mi?\""
+    },
+    {
+      "id": "TUR-0073",
+      "topic": "noktalama",
+      "difficulty": 2,
+      "q": "\"Çantama defter ( ) kalem ( ) silgi ve cetvel koydum.\" cümlesindeki boşluklara hangi işaret gelmelidir?",
+      "options": ["Virgül (,)", "Nokta (.)", "Soru işareti (?)", "Ünlem (!)"],
+      "answer": "A",
+      "explanation": "Eş görevli sözcükler (sıralanan eşyalar) arasına virgül konur."
+    },
+    {
+      "id": "TUR-0074",
+      "topic": "noktalama",
+      "difficulty": 2,
+      "q": "\"İmdat ( ) Yangın var ( )\" cümlelerindeki boşluklara hangi işaret gelmelidir?",
+      "options": ["Ünlem (!)", "Nokta (.)", "Virgül (,)", "Soru işareti (?)"],
+      "answer": "A",
+      "explanation": "Korku, heyecan, sevinç gibi güçlü duygular bildiren cümlelerin sonuna ünlem konur."
+    },
+    {
+      "id": "TUR-0075",
+      "topic": "noktalama",
+      "difficulty": 2,
+      "q": "Başkasından alınan sözler hangi işaret içinde yazılır?",
+      "options": ["Tırnak işareti (\" \")", "Virgül (,)", "Nokta (.)", "Kesme (')"],
+      "answer": "A",
+      "explanation": "Başkasına ait sözler tırnak içinde verilir: Öğretmen \"Yarın sınav var.\" dedi."
+    },
+    {
+      "id": "TUR-0076",
+      "topic": "noktalama",
+      "difficulty": 2,
+      "q": "Özel adlara gelen ekleri ayırmak için hangi işaret kullanılır?",
+      "options": ["Kesme işareti (')", "Virgül (,)", "İki nokta (:)", "Tire (-)"],
+      "answer": "A",
+      "explanation": "Özel adlara gelen ekler kesme işaretiyle ayrılır: Lefkoşa'da, Ayşe'nin."
+    },
+    {
+      "id": "TUR-0077",
+      "topic": "noktalama",
+      "difficulty": 3,
+      "q": "Aşağıdaki cümlelerin hangisinde noktalama YANLIŞI vardır?",
+      "options": [
+        "Yarın Girne'ye gideceğiz.",
+        "Hangi kitabı okuyorsun?",
+        "Eyvah, anahtarı evde unuttum?",
+        "Ali, Veli ve Ayşe geldi."
+      ],
+      "answer": "C",
+      "explanation": "\"Eyvah, anahtarı evde unuttum\" duygu bildiren bir cümledir; sonuna soru işareti değil ünlem (ya da nokta) gelmelidir."
+    },
+    {
+      "id": "TUR-0078",
+      "topic": "noktalama",
+      "difficulty": 3,
+      "q": "\"Saat 14 30 da buluşalım\" ifadesinin doğru yazılışı hangisidir?",
+      "options": [
+        "Saat 14.30'da buluşalım.",
+        "Saat 14'30 da buluşalım.",
+        "Saat 14,30'da buluşalım?",
+        "Saat 1430 da buluşalım!"
+      ],
+      "answer": "A",
+      "explanation": "Saat ve dakika arasına nokta konur (14.30); sayıya gelen ek kesme ile ayrılır ('da); cümle sonuna nokta gelir."
+    },
+    {
+      "id": "TUR-0079",
+      "topic": "noktalama",
+      "difficulty": 2,
+      "q": "İki nokta (:) işareti hangi durumda kullanılır?",
+      "options": [
+        "Açıklama yapılacak veya örnekler sıralanacak cümleden sonra",
+        "Her cümlenin başında",
+        "Soru cümlelerinin sonunda",
+        "Özel adların içinde"
+      ],
+      "answer": "A",
+      "explanation": "İki nokta, kendisinden sonra açıklama ya da örnek verilecek cümlenin sonuna konur."
+    },
+    {
+      "id": "TUR-0080",
+      "topic": "noktalama",
+      "difficulty": 1,
+      "q": "\"Bugün hava çok güzel( )\" cümlesinin sonuna hangi işaret gelmelidir?",
+      "options": ["Nokta (.)", "Soru işareti (?)", "Virgül (,)", "İki nokta (:)"],
+      "answer": "A",
+      "explanation": "Bu, tamamlanmış bir bildirme cümlesidir; sonuna nokta konur."
+    },
+    {
+      "id": "TUR-0081",
+      "topic": "buyuk-harf-yazim",
+      "difficulty": 1,
+      "q": "Aşağıdakilerden hangisi her zaman büyük harfle başlar?",
+      "options": [
+        "Kişi adları",
+        "Eşya adları",
+        "Renk adları",
+        "Sayılar"
+      ],
+      "answer": "A",
+      "explanation": "Kişi adları (Ayşe, Mehmet) özel addır ve her zaman büyük harfle başlar."
+    },
+    {
+      "id": "TUR-0082",
+      "topic": "buyuk-harf-yazim",
+      "difficulty": 1,
+      "q": "Cümleler hangi harfle başlar?",
+      "options": ["Büyük harfle", "Küçük harfle", "İstenilen harfle", "Rakamla"],
+      "answer": "A",
+      "explanation": "Her cümle büyük harfle başlar."
+    },
+    {
+      "id": "TUR-0083",
+      "topic": "buyuk-harf-yazim",
+      "difficulty": 2,
+      "q": "Aşağıdaki cümlelerin hangisinde büyük harf YANLIŞ kullanılmıştır?",
+      "options": [
+        "Yarın Lefkoşa'ya gideceğiz.",
+        "Kardeşim ali okula başladı.",
+        "Kıbrıs bir Akdeniz adasıdır.",
+        "Ayşe ile parkta oynadık."
+      ],
+      "answer": "B",
+      "explanation": "\"Ali\" kişi adıdır, büyük harfle başlamalıdır: \"Kardeşim Ali okula başladı.\""
+    },
+    {
+      "id": "TUR-0084",
+      "topic": "buyuk-harf-yazim",
+      "difficulty": 2,
+      "q": "Aşağıdakilerden hangisinin yazımı DOĞRUDUR?",
+      "options": [
+        "girne kalesi çok güzeldi.",
+        "Girne Kalesi çok güzeldi.",
+        "girne Kalesi Çok güzeldi.",
+        "GİRNE kalesi çok Güzeldi."
+      ],
+      "answer": "B",
+      "explanation": "Cümle büyük harfle başlar; \"Girne Kalesi\" özel ad olduğu için her iki sözcüğü de büyük harfle yazılır."
+    },
+    {
+      "id": "TUR-0085",
+      "topic": "buyuk-harf-yazim",
+      "difficulty": 2,
+      "q": "Ulus, dil ve ülke adlarının yazımıyla ilgili hangisi doğrudur?",
+      "options": [
+        "Hepsi büyük harfle başlar (Türkçe, Kıbrıs, İngiltere)",
+        "Hepsi küçük harfle yazılır",
+        "Yalnızca cümle başında büyük yazılır",
+        "Yalnızca ülke adları büyük yazılır"
+      ],
+      "answer": "A",
+      "explanation": "Ulus, dil, ülke ve şehir adları özel addır; her zaman büyük harfle başlar."
+    },
+    {
+      "id": "TUR-0086",
+      "topic": "buyuk-harf-yazim",
+      "difficulty": 2,
+      "q": "Sayıların yazımıyla ilgili hangisi DOĞRUDUR?",
+      "options": [
+        "Beş yüz altmış üç → 563",
+        "Beş yüz altmış üç → 5063",
+        "Beş yüz altmış üç → 50063",
+        "Beş yüz altmış üç → 653"
+      ],
+      "answer": "A",
+      "explanation": "Beş yüz = 500, altmış = 60, üç = 3; birleşince 563 olur."
+    },
+    {
+      "id": "TUR-0087",
+      "topic": "buyuk-harf-yazim",
+      "difficulty": 3,
+      "q": "Aşağıdaki cümlelerin hangisinde yazım yanlışı YOKTUR?",
+      "options": [
+        "salı günü sinemaya gittik.",
+        "Salı günü sinemaya gittik.",
+        "Salı Günü sinemaya gittik.",
+        "salı Günü Sinemaya gittik."
+      ],
+      "answer": "B",
+      "explanation": "Cümle büyük harfle başlar; \"Salı\" gün adı olarak büyük, \"günü\" sözcüğü küçük yazılır."
+    },
+    {
+      "id": "TUR-0088",
+      "topic": "buyuk-harf-yazim",
+      "difficulty": 2,
+      "q": "Dilimize yabancı dillerden giren \"feedback\" sözcüğü yerine hangi Türkçe karşılığı kullanmalıyız?",
+      "options": ["Geri bildirim", "İleri bakış", "Ön izleme", "Son düzlük"],
+      "answer": "A",
+      "explanation": "Yabancı sözcükler yerine Türkçe karşılıkları tercih edilmelidir: feedback = geri bildirim."
+    },
+    {
+      "id": "TUR-0089",
+      "topic": "buyuk-harf-yazim",
+      "difficulty": 3,
+      "q": "\"okula giderken ahmet'i gördüm\" cümlesinin doğru yazılışı hangisidir?",
+      "options": [
+        "Okula giderken Ahmet'i gördüm.",
+        "Okula Giderken ahmet'i gördüm.",
+        "okula giderken Ahmet'i gördüm",
+        "OKULA GİDERKEN ahmeti gördüm."
+      ],
+      "answer": "A",
+      "explanation": "Cümle büyük harfle başlar, kişi adı (Ahmet) büyük yazılır, eki kesmeyle ayrılır ve cümle noktayla biter."
+    },
+    {
+      "id": "TUR-0090",
+      "topic": "buyuk-harf-yazim",
+      "difficulty": 1,
+      "q": "Dilimize yabancı dillerden giren \"download etmek\" yerine hangisini kullanmak daha doğrudur?",
+      "options": ["İndirmek", "Karşıya yüklemek", "Bağlanmak", "Yazdırmak"],
+      "answer": "A",
+      "explanation": "\"Download etmek\" yerine Türkçesi olan \"indirmek\" kullanılmalıdır."
+    }
+  ]
+}

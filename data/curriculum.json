@@ -1,0 +1,495 @@
+{
+  "grade": 5,
+  "source": "KKTC Talim ve Terbiye Dairesi 2023-2024 yıllık plan örnekleri (I. Dönem)",
+  "subjects": [
+    {
+      "id": "matematik",
+      "name": "Matematik",
+      "icon": "➗",
+      "units": [
+        {
+          "id": "dogal-sayilar-islemler",
+          "name": "Doğal Sayılar ve İşlemler",
+          "topics": [
+            {
+              "id": "dogal-sayilar",
+              "name": "Doğal Sayılarla İlgili Temel Kavramlar",
+              "kazanimlar": [
+                "En çok dokuz basamaklı bir doğal sayıyı okur, yazar ve çözümler",
+                "Doğal sayıyı en yakın onluğa, yüzlüğe veya binliğe yuvarlar",
+                "Bir sayıda kaç adet onluk, yüzlük, binlik, milyonluk olduğunu bulur",
+                "Doğal sayıları karşılaştırır ve sıralar",
+                "Ardışık tek ve çift doğal sayıların özelliklerini ifade eder"
+              ]
+            },
+            {
+              "id": "toplama",
+              "name": "Doğal Sayılarla Toplama İşlemi",
+              "kazanimlar": [
+                "En çok dokuz basamaklı doğal sayıları toplar",
+                "Toplama işleminde verilmeyen toplananı ve rakamları bulur",
+                "Toplama işleminde değişme özelliğini kullanır",
+                "Zihinden gruplama ve yuvarlama ile toplar, tahminde bulunur",
+                "Toplama işlemi gerektiren çok adımlı problem çözer"
+              ]
+            },
+            {
+              "id": "cikarma",
+              "name": "Doğal Sayılarla Çıkarma İşlemi",
+              "kazanimlar": [
+                "Onluk bozarak çıkarma işlemi yapar",
+                "Çıkarma işleminde çıkanı, eksileni ve verilmeyen rakamları bulur",
+                "Yuvarlamadan yararlanarak çıkarma sonucunu tahmin eder",
+                "Toplama ve çıkarma ile ilgili problem çözer"
+              ]
+            },
+            {
+              "id": "carpma",
+              "name": "Doğal Sayılarla Çarpma İşlemi",
+              "kazanimlar": [
+                "En çok üç basamaklı iki doğal sayıyı çarpar",
+                "10, 100, 1000 ile kısa yoldan çarpar",
+                "5 veya 25 ile kolay çarpma yöntemlerini kullanır",
+                "Çarpma işleminde sonucu tahmin eder, eksik rakamları bulur",
+                "Çarpma işlemi gerektiren kat problemlerini çözer"
+              ]
+            },
+            {
+              "id": "bolme",
+              "name": "Doğal Sayılarla Bölme İşlemi",
+              "kazanimlar": [
+                "En çok dört basamaklı sayıları bir ve iki basamaklı sayılara böler",
+                "Bölme işleminde bölenle kalan arasında ilişki kurar",
+                "Çarpma ile bölme arasında ilişki kurar",
+                "10, 100, 1000 ile kısa yoldan böler",
+                "Problem bağlamına göre kalanı yorumlar (ihmal/yuvarlama)"
+              ]
+            },
+            {
+              "id": "dort-islem-problemleri",
+              "name": "Dört İşlem Problemleri",
+              "kazanimlar": [
+                "En çok iki işlem içeren parantezli işlemlerin sonucunu bulur",
+                "Biri bölme olan en çok üç işlemli problemleri çözer",
+                "Dört işlem içeren problemleri çözer (en çok üç işlem)"
+              ]
+            },
+            {
+              "id": "zaman-olcme",
+              "name": "Zamanı Ölçme",
+              "kazanimlar": [
+                "Dakika ile saniye arasındaki ilişkiyi açıklar",
+                "Saat-dakika, dakika-saniye dönüşümleri yapar",
+                "Yıl-ay-hafta-gün-saat arasındaki ilişkileri açıklar",
+                "Zaman ölçme birimleriyle problem çözer"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "geometri",
+          "name": "Geometri",
+          "topics": [
+            {
+              "id": "nokta-dogru-isin",
+              "name": "Nokta, Doğru, Doğru Parçası ve Işın",
+              "kazanimlar": [
+                "Noktaların birbirine göre konumlarını belirler",
+                "Doğru, ışın ve doğru parçasını ifade eder",
+                "İki doğrunun birbirine göre durumunu ifade eder (paralel, kesişen, dik)",
+                "Bir doğruya paralel doğru parçası ve dikme çizer"
+              ]
+            },
+            {
+              "id": "aci",
+              "name": "Açı",
+              "kazanimlar": [
+                "Açının kollarını ve köşesini belirtir, açıyı isimlendirir ve sembolle gösterir",
+                "Açıları dar, dik, geniş, doğru ve tam açı olarak isimlendirir",
+                "Açıların ölçülerini tahmin eder ve ölçerek kontrol eder",
+                "Ölçüsü verilen bir açıyı çizer, açılarla problem çözer"
+              ]
+            },
+            {
+              "id": "ucgen",
+              "name": "Üçgen ve Çokgenler",
+              "kazanimlar": [
+                "Çokgeni tanımlar",
+                "Üçgenin kenar ve açı özelliklerini belirler",
+                "Üçgenleri kenar uzunluklarına ve açı ölçülerine göre sınıflandırır",
+                "Üçgenin iç açılarının ölçüleri toplamını belirler, verilmeyen açıyı hesaplar"
+              ]
+            },
+            {
+              "id": "simetri-oruntu",
+              "name": "Simetri, Örüntü ve Süslemeler",
+              "kazanimlar": [
+                "Düzlemsel şekillerdeki simetri doğrularını belirler ve çizer",
+                "Kuralı verilen bir örüntüyü genişletir",
+                "Örüntüyle ilgili problem çözer"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fen",
+      "name": "Fen ve Teknoloji",
+      "icon": "🔬",
+      "units": [
+        {
+          "id": "vucudum",
+          "name": "Vücudum",
+          "topics": [
+            {
+              "id": "besin-icerikleri",
+              "name": "Besinlerin İçerikleri ve İşlevleri",
+              "kazanimlar": [
+                "Besinlerin gerekliliğini tartışır",
+                "Besin içeriklerini (karbonhidrat, protein, yağ, vitamin, su, mineral) ve işlevlerini saptar",
+                "A, B, C, D, E ve K vitaminlerini bilir"
+              ]
+            },
+            {
+              "id": "dengeli-beslenme",
+              "name": "Dengeli Beslenme",
+              "kazanimlar": [
+                "Dengeli beslenmenin, besinlerin tazeliğinin ve temizliğinin önemini kavrar",
+                "Bilinçli tüketici olarak üretim ve son kullanma tarihlerini kontrol eder",
+                "Besinlerdeki katkı maddelerinin sağlığa etkilerini tartışır"
+              ]
+            },
+            {
+              "id": "sindirim",
+              "name": "Besinlerin Sindirimi",
+              "kazanimlar": [
+                "Vücuduna giren besinlerin izlediği yolu açıklar",
+                "Sindirimde görevli yapı ve organları kavrar"
+              ]
+            },
+            {
+              "id": "disler-dis-sagligi",
+              "name": "Dişler ve Diş Sağlığı",
+              "kazanimlar": [
+                "Dişleri şekil ve görevlerine göre ayırt eder (kesici, köpek, azı)",
+                "Diş sağlığını korumak için yapılması gerekenleri bilir"
+              ]
+            },
+            {
+              "id": "bosaltim",
+              "name": "Vücudumuzda Boşaltım",
+              "kazanimlar": [
+                "Boşaltımda görevli yapı ve organları kavrar (böbrekler, idrar kesesi, akciğer, deri)",
+                "Böbrek sağlığı için nelere dikkat edilmesi gerektiğini bilir",
+                "Sindirilmemiş besinlerin atılmasının boşaltım olmadığını kavrar"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kuvvet-hareket",
+          "name": "Kuvvet ve Hareket",
+          "topics": [
+            {
+              "id": "kuvvet-nedir",
+              "name": "Yaşamımızdaki Kuvvetler",
+              "kazanimlar": [
+                "Kuvvetin ne olduğunu kavrar (itme-çekme)",
+                "Günlük yaşamda kullanılan kuvvetlere örnek verir",
+                "Temas gerektiren ve gerektirmeyen kuvvetleri ayırt eder (mıknatıs, yer çekimi)"
+              ]
+            },
+            {
+              "id": "kuvvet-olcme",
+              "name": "Kuvvetin Ölçülmesi, Kütle ve Ağırlık",
+              "kazanimlar": [
+                "Kuvvetin dinamometre ile ölçüldüğünü bilir",
+                "Kütle ve ağırlık ilişkisini kavrar (ağırlık = yer çekimi kuvveti)",
+                "Kütle değişmeden ağırlığın değişebileceği durumları bilir"
+              ]
+            },
+            {
+              "id": "surtunme-kuvveti",
+              "name": "Sürtünme Kuvveti",
+              "kazanimlar": [
+                "Sürtünme kuvvetinin harekete etkisini kavrar",
+                "Sürtünmenin bir temas kuvveti olduğunu bilir",
+                "Karada, denizde ve havada sürtünme kuvvetinin etkilerini örneklerle açıklar",
+                "Sürtünmenin günlük yaşamdaki yararlı ve zararlı yönlerini ayırt eder"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "madde-ozellikleri",
+          "name": "Madde ve Özellikleri",
+          "topics": [
+            {
+              "id": "hal-degisimi",
+              "name": "Maddenin Hâl Değişimi",
+              "kazanimlar": [
+                "Maddelerin bir hâlden başka bir hâle geçebileceğini açıklar",
+                "Katıların ısı alarak eridiğini, sıvıların ısı vererek donduğunu kavrar",
+                "Erime, donma, buharlaşma, yoğuşma kavramlarını günlük hayatla ilişkilendirir",
+                "Dondurulmuş besinlerin kullanım koşullarını bilir"
+              ]
+            },
+            {
+              "id": "ayirt-edici-ozellikler",
+              "name": "Maddenin Ayırt Edici Özellikleri",
+              "kazanimlar": [
+                "Erime, donma ve kaynama noktasının ayırt edici özellik olduğunu kavrar",
+                "Suyun kaynama esnasında sıcaklığının sabit kaldığını bilir",
+                "Aynı maddenin erime ve donma sıcaklığının eşit olduğunu bilir",
+                "Madde miktarının erime/donma/kaynama noktasını değiştirmediğini, süresini değiştirdiğini açıklar"
+              ]
+            },
+            {
+              "id": "isi-ve-sicaklik",
+              "name": "Isı ve Sıcaklık",
+              "kazanimlar": [
+                "Isınmak için kullanılan yakıtları bilir",
+                "Güneş'in ısı ve ışık kaynağı olduğunu açıklar",
+                "Isı ve sıcaklık kavramlarını doğru kullanır ve birbirinden ayırt eder",
+                "Yakıtlardan elde edilen ısının harekete dönüşebildiğini bilir"
+              ]
+            },
+            {
+              "id": "isinin-etkileri",
+              "name": "Isı Maddeyi Etkiler",
+              "kazanimlar": [
+                "Isının maddeler üzerindeki temel etkisinin ısınma-soğuma olduğunu bilir",
+                "Genleşme ve büzülme olaylarını günlük hayattan örneklerle açıklar",
+                "Buharlaşmanın her sıcaklıkta olabileceğini, kaynamanın belli sıcaklıkta olduğunu ayırt eder",
+                "Sıcaklık arttıkça buharlaşmanın hızlandığını bilir"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sosyal",
+      "name": "Sosyal Bilgiler",
+      "icon": "🌍",
+      "units": [
+        {
+          "id": "ulkemizin-konumu",
+          "name": "Ülkemizin Konumu",
+          "topics": [
+            {
+              "id": "harita-plan-olcek",
+              "name": "Harita, Plan ve Ölçek",
+              "kazanimlar": [
+                "Harita, plan ve ölçek kavramlarını tanımlar",
+                "Harita ve plan arasındaki farkları açıklar",
+                "Ölçek çeşitlerine örnek verir",
+                "Ölçekten yararlanarak iki nokta arasındaki gerçek mesafeyi bulur",
+                "Fiziki ve siyasi haritalar arasındaki farkları açıklar"
+              ]
+            },
+            {
+              "id": "harita-isaretleri-konum",
+              "name": "Harita İşaretleri ve Konum Kavramları",
+              "kazanimlar": [
+                "Haritalardaki sembol ve işaretlerin anlamlarını açıklar",
+                "Meridyen, paralel, ekvator, yarım küre, kutup kavramlarını açıklar",
+                "Kıtaların ve okyanusların konumunu tanımlar"
+              ]
+            },
+            {
+              "id": "kktc-konumu",
+              "name": "KKTC'nin Konumu",
+              "kazanimlar": [
+                "KKTC'nin dünya haritasındaki matematiksel konumunu söyler",
+                "KKTC'nin hangi yarım kürede olduğunu bilir",
+                "KKTC'nin konumunun avantaj ve dezavantajlarını karşılaştırır (iklim, ulaşım, jeopolitik)"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kulturel-mirasimiz",
+          "name": "Geçmişten Günümüze Kültürel Mirasımız",
+          "topics": [
+            {
+              "id": "tarihi-varliklar",
+              "name": "Tarihî Varlıklarımız",
+              "kazanimlar": [
+                "Ülkemizin tarihî mimari yapılarını tanır",
+                "Tarihî yapıları yapılış zamanlarına göre zaman çizelgesinde gösterir",
+                "Doğal varlıklar ile tarihî mekânları ve eserleri tanıtır"
+              ]
+            },
+            {
+              "id": "kulturel-varliklar",
+              "name": "Kültürel Varlıklarımız",
+              "kazanimlar": [
+                "Kültürel varlıklarımızı oluşturan öğelere örnek verir (halk dansları, yemekler, el sanatları)",
+                "Kültürel varlıkların bir arada yaşamaya katkısını açıklar",
+                "Komşu ülkelerin kültürleriyle benzerlik ve farklılıkları karşılaştırır",
+                "Kültürel varlıkların zaman içindeki değişimini açıklar"
+              ]
+            },
+            {
+              "id": "kultur-koruma-bayramlar",
+              "name": "Kültürü Koruma ve Bayramlarımız",
+              "kazanimlar": [
+                "Kültürel varlıkların korunması için öneriler sunar",
+                "Millî bayramlarımızın oluşum sürecini açıklar"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "birey-vatandas",
+          "name": "Birey ve Vatandaş Olarak Sorumluluklarımız",
+          "topics": [
+            {
+              "id": "grup-rol-sorumluluk",
+              "name": "Gruplar, Roller ve Sorumluluklar",
+              "kazanimlar": [
+                "Grup, rol, sorumluluk kavramlarını açıklar",
+                "İçinde bulunduğu gruplardaki rollerini sıralar",
+                "Sorumluluklar yerine getirilmediğinde ortaya çıkacak sonuçları örneklendirir"
+              ]
+            },
+            {
+              "id": "cocuk-haklari",
+              "name": "Temel Haklar ve Çocuk Hakları",
+              "kazanimlar": [
+                "Temel hakları ve önemini açıklar",
+                "Çocuk haklarının yasalarla korunduğunu bilir",
+                "Hak ihlali durumlarına örnek verir ve hakkını arama yollarını bilir",
+                "Başkalarının haklarına saygı gösterir"
+              ]
+            },
+            {
+              "id": "vatandaslik",
+              "name": "Etkin Vatandaşlık ve Egemenlik Sembollerimiz",
+              "kazanimlar": [
+                "Vatandaşlık kavramını açıklar",
+                "KKTC vatandaşı olarak hak ve sorumluluklarına örnek verir",
+                "Millî egemenlik ve bağımsızlık sembollerini (Bayrak, İstiklâl Marşı) bilir"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "toplumsal-kurumlar",
+          "name": "Toplumsal Kurumlar",
+          "topics": [
+            {
+              "id": "toplumsal-kurumlar-stk",
+              "name": "Toplumsal Kurumlar ve Sivil Toplum Kuruluşları",
+              "kazanimlar": [
+                "Temel ihtiyaçlarla bu ihtiyaçlara hizmet veren kurumları ilişkilendirir (okul, hastane, mahkeme)",
+                "Sivil toplum kuruluşlarını çalışma alanlarına göre sınıflandırır",
+                "Resmî kurumlar ile sivil toplum kuruluşlarını karşılaştırır"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "turkce",
+      "name": "Türkçe",
+      "icon": "📖",
+      "units": [
+        {
+          "id": "sozcuk-bilgisi",
+          "name": "Sözcük Bilgisi",
+          "topics": [
+            {
+              "id": "es-zit-es-sesli",
+              "name": "Eş Anlamlı, Zıt Anlamlı ve Eş Sesli Sözcükler",
+              "kazanimlar": [
+                "Kelimelerin eş anlamlılarını bulur",
+                "Kelimelerin zıt anlamlılarını bulur",
+                "Eş sesli kelimelerin anlamlarını ayırt eder"
+              ]
+            },
+            {
+              "id": "gercek-mecaz-terim",
+              "name": "Gerçek, Mecaz ve Terim Anlam",
+              "kazanimlar": [
+                "Okuduğu metindeki gerçek, mecaz ve terim anlamlı sözcükleri ayırt eder"
+              ]
+            },
+            {
+              "id": "deyim-atasozu",
+              "name": "Deyimler ve Atasözleri",
+              "kazanimlar": [
+                "Deyim ve atasözlerinin metne katkısını belirler",
+                "Deyim ve atasözlerinin anlamlarını bilir"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "okuma-anlama",
+          "name": "Okuma ve Anlama",
+          "topics": [
+            {
+              "id": "ana-fikir-konu",
+              "name": "Ana Fikir, Ana Duygu ve Konu",
+              "kazanimlar": [
+                "Metnin ana fikrini/ana duygusunu belirler",
+                "Metnin konusunu belirler",
+                "Metne uygun başlık belirler"
+              ]
+            },
+            {
+              "id": "hikaye-unsurlari",
+              "name": "Hikâye Unsurları",
+              "kazanimlar": [
+                "Metindeki hikâye unsurlarını belirler (olay örgüsü, mekân, zaman, şahıs kadrosu, anlatıcı)"
+              ]
+            },
+            {
+              "id": "metin-turleri",
+              "name": "Metin Türleri",
+              "kazanimlar": [
+                "Metin türlerini ayırt eder (hikâye, fabl, masal, haber metni, şiir)"
+              ]
+            },
+            {
+              "id": "okudugunu-anlama",
+              "name": "Okuduğunu Anlama",
+              "kazanimlar": [
+                "Okudukları ile ilgili çıkarımlarda bulunur",
+                "Metinle ilgili sorulara cevap verir",
+                "Geçiş ve bağlantı ifadelerinin anlama katkısını değerlendirir",
+                "Neden-sonuç ilişkileri kurar"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "yazim-noktalama",
+          "name": "Yazım ve Noktalama",
+          "topics": [
+            {
+              "id": "noktalama",
+              "name": "Noktalama İşaretleri",
+              "kazanimlar": [
+                "Noktalama işaretlerini uygun yerlerde kullanır (nokta, virgül, soru işareti, ünlem, tırnak, kesme)"
+              ]
+            },
+            {
+              "id": "buyuk-harf-yazim",
+              "name": "Büyük Harflerin Kullanımı ve Yazım Kuralları",
+              "kazanimlar": [
+                "Büyük harfleri uygun yerlerde kullanır",
+                "Sayıları doğru yazar",
+                "Yabancı kelimeler yerine Türkçelerini kullanır"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

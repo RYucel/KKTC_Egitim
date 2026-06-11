@@ -21,8 +21,15 @@
         <span class="pill">2. Oturum: İngilizce 22 + Matematik 27 soru</span>
         <span class="pill">Süre: 90 dakika</span>
       </p>
+      <nav class="home-nav">
+        <a class="nav-link" href="#exam-list">📝 Sınavlar</a>
+        <a class="nav-link" href="#quiz-home">🎯 Konu Testleri</a>
+        <a class="nav-link" href="#books">📚 Ders Kitapları</a>
+      </nav>
     </header>
     <main id="exam-list" class="exam-list"></main>
+    <section id="quiz-home" class="quiz-home" hidden></section>
+    <section id="books" class="books-section"></section>
     <footer class="home-footer">
       <p>Sorular ve cevap anahtarları <a href="https://www.mebnet.net/MEBDuyurular" target="_blank" rel="noopener">KKTC Milli Eğitim Bakanlığı</a>'na aittir ve yalnızca eğitim amaçlı sunulmaktadır. Bu site resmî bir kaynak değildir; hesaplanan puanlar yalnızca pratik amaçlıdır.</p>
     </footer>
@@ -59,6 +66,25 @@
     </div>
   </div>
 
+  <!-- Topic picker view (konu testleri) -->
+  <div id="view-topics" class="view" hidden>
+    <header class="exam-topbar">
+      <button id="btn-topics-back" class="btn ghost" title="Ana sayfa">←</button>
+      <div class="exam-title" id="topics-title"></div>
+    </header>
+    <main class="topics-main" id="topics-main"></main>
+  </div>
+
+  <!-- Quiz view (tek soru + anında geri bildirim) -->
+  <div id="view-quiz" class="view" hidden>
+    <header class="exam-topbar">
+      <button id="btn-quiz-exit" class="btn ghost" title="Konulara dön">←</button>
+      <div class="exam-title" id="quiz-title"></div>
+      <div class="quiz-progress" id="quiz-progress"></div>
+    </header>
+    <main class="quiz-main" id="quiz-main"></main>
+  </div>
+
   <!-- Result view -->
   <div id="view-result" class="view" hidden>
     <header class="exam-topbar">
@@ -71,5 +97,6 @@
   </div>
 </div>
 <script src="assets/app.js"></script>
+<script src="assets/quiz.js"></script>
 </body>
 </html>

@@ -1,0 +1,38 @@
+{
+  "grade": "5. Sınıf",
+  "source": "KKTC Millî Eğitim Bakanlığı",
+  "note": "Resmî ders kitapları KKTC MEB'e aittir; harici sunucudan (ttd.mebnet.net) açılır.",
+  "subjects": [
+    {
+      "name": "Türkçe",
+      "icon": "📖",
+      "books": [
+        { "title": "1. Kitap", "url": "https://ttd.mebnet.net/wp-content/uploads/2025/09/Turkce-5.-Sinif-1.-Kitap.pdf" },
+        { "title": "2. Kitap", "url": "https://ttd.mebnet.net/wp-content/uploads/2025/09/Turkce-5.-Sinif-2.-Kitap.pdf" }
+      ]
+    },
+    {
+      "name": "Matematik",
+      "icon": "➗",
+      "books": [
+        { "title": "1. Kitap", "url": "https://ttd.mebnet.net/wp-content/uploads/2025/09/Matematik-5.-Sinif-1.-Kitap.pdf" },
+        { "title": "2. Kitap", "url": "https://ttd.mebnet.net/wp-content/uploads/2025/09/Matematik-5.-Sinif-2.-Kitap.pdf" }
+      ]
+    },
+    {
+      "name": "Fen ve Teknoloji",
+      "icon": "🔬",
+      "books": [
+        { "title": "1. Kitap", "url": "https://ttd.mebnet.net/wp-content/uploads/2025/09/Fen-ve-Teknoloji-5.-Sinif-1.-Kitap.pdf" },
+        { "title": "2. Kitap", "url": "https://ttd.mebnet.net/wp-content/uploads/2025/09/Fen-ve-Teknoloji-5.-Sinif-2.-kitap.pdf" }
+      ]
+    },
+    {
+      "name": "Sosyal Bilgiler",
+      "icon": "🌍",
+      "books": [
+        { "title": "Ders Kitabı", "url": "https://ttd.mebnet.net/wp-content/uploads/2025/09/Sosyal-Bilgiler-5.-Sinif.pdf" }
+      ]
+    }
+  ]
+}

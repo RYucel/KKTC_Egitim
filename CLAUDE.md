@@ -16,6 +16,10 @@ index.html            SPA (ana sayfa + sinav + sonuc gorunumleri)
 assets/app.js         Uygulama mantigi (PDF.js CDN, localStorage, puanlama)
 assets/style.css      Stiller (turuncu optik form temasi)
 data/exams.json       TEK VERI KAYNAGI: 34 oturum, cevap anahtarlari, PDF yollari
+data/books.json       5. Sinif resmi ders kitaplari (ana sayfa "Ders Kitaplari" bolumu)
+data/curriculum.json  Konu taksonomisi: 4 ders / unite / konu / kazanimlar (I. Donem)
+data/questions/       Ders basina soru havuzu (matematik|fen|sosyal|turkce.json)
+assets/quiz.js        Konu testleri mantigi (konu secimi, test akisi, istatistik)
 YYYY/N.Basamak/       Orijinal sinav PDF'leri ve taranmis cevap anahtarlari
 tools/                OMR betikleri (anahtarlarin cikarilmasi/dogrulanmasi)
 _work/                Gecici uretilen dosyalar — gitignore'da, silinebilir
@@ -65,6 +69,29 @@ Anahtar degisikligi/eklemede ZORUNLU adimlar:
 - localStorage anahtari: `kgs-state-<id>`; sema degisirse eski kayitlarla uyumlulugu dusun.
 - `keys: null` olan sinavlar listelenir ama puanlanamaz ("cevap anahtari yok" rozeti).
 - PDF.js 3.11.174 UMD (CDN); 4.x'e gecis ESM gerektirir, gerekmedikce dokunma.
+- `books.json` semasi: `{grade, source, note, subjects:[{name, icon, books:[{title, url}]}]}`.
+  Ders kitabi PDF'leri repoya ALINMAZ (>100MB, GitHub siniri) — `ttd.mebnet.net`
+  uzerinden tam URL ile servis edilir; yerel kopyalar `.gitignore`'da. `renderBooks()`
+  ana sayfaya basar, yuklenemezse `#books` gizlenir (sinav akisini etkilemez).
+
+## Soru bankasi (data/curriculum.json + data/questions/) — gunluk buyuyen icerik
+
+- `curriculum.json`: ders → unite → konu taksonomisi. Konu `id`'leri aksansiz kebab-case
+  ve KALICIDIR — degistirme (soru dosyalari ve localStorage istatistikleri referans verir).
+  II. Donem plani gelince yeni konu eklemek yeterli; sema degismez.
+- Soru semasi: `{id, topic, difficulty: 1-3, q, options: [4], answer: "A-D", explanation}`
+  ve opsiyonel `passage` (okuma metni; ardisik sorular ayni metni paylasabilir), `image` (rezerve).
+- ID kurali: `MAT|FEN|SOS|TUR-NNNN`, monoton artar, ASLA yeniden numaralanmaz/kullanilmaz.
+- Gunluk soru ekleme akisi: ilgili `data/questions/<ders>.json` sonuna ekle →
+  `python tools/check_questions.py` → "DONE, 0 errors" gormeden commit etme.
+- Icerik kurallari mufredat `[!]` kisitlarina uyar (or. Fen'de vitamin hastaliklari/enzim
+  yok, Mat'ta bolmede ondalik yok, aritmetik dizi yok). Kaynak: kok dizindeki yillik plan
+  PDF'leri (`5.-sinif-*-yillik*.pdf`, `TURKCE-YILLIK-hy.pdf`).
+- `assets/quiz.js` kendi icinde kapali IIFE; app.js'in global `show()` ve `$`'ina dayanir
+  (script sirasi onemli: app.js → quiz.js). Istatistik anahtari: `kgs-quiz-stats-v1`
+  (`{qid: {c, w}}`). Soru secimi: once hic dogru cevaplanmamislar, sonra rastgele, max 10.
+- Quiz E2E: `%TEMP%\kgs_e2e\quiz_e2e.js` (15 assertion: gorunurluk, anlik geri bildirim,
+  skor tutarliligi, yenileme sonrasi kalicilik, sinav akisinin bozulmadigi).
 
 ## Yerlesim kurallari (assets/style.css) — gecmis hatadan ders
 

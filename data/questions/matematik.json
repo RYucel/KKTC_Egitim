@@ -1,0 +1,1015 @@
+{
+  "subject": "matematik",
+  "questions": [
+    {
+      "id": "MAT-0001",
+      "topic": "dogal-sayilar",
+      "difficulty": 1,
+      "q": "\"Dört yüz beş milyon yetmiş bin iki yüz üç\" sayısının rakamlarla yazılışı hangisidir?",
+      "options": ["405.070.203", "405.700.203", "45.070.203", "405.070.230"],
+      "answer": "A",
+      "explanation": "Dört yüz beş milyon = 405.000.000, yetmiş bin = 70.000, iki yüz üç = 203. Birleştirince 405.070.203 olur."
+    },
+    {
+      "id": "MAT-0002",
+      "topic": "dogal-sayilar",
+      "difficulty": 1,
+      "q": "7.856 sayısının en yakın yüzlüğe yuvarlanmış hâli hangisidir?",
+      "options": ["7.800", "7.900", "7.850", "8.000"],
+      "answer": "B",
+      "explanation": "Onlar basamağı 5 olduğu için yukarı yuvarlanır: 7.856 → 7.900."
+    },
+    {
+      "id": "MAT-0003",
+      "topic": "dogal-sayilar",
+      "difficulty": 1,
+      "q": "63.475 sayısının en yakın binliğe yuvarlanmış hâli hangisidir?",
+      "options": ["63.000", "64.000", "63.500", "60.000"],
+      "answer": "A",
+      "explanation": "Yüzler basamağı 4 (5'ten küçük) olduğu için aşağı yuvarlanır: 63.475 → 63.000."
+    },
+    {
+      "id": "MAT-0004",
+      "topic": "dogal-sayilar",
+      "difficulty": 2,
+      "q": "8.426.917 sayısında binler basamağındaki rakam kaçtır?",
+      "options": ["2", "4", "6", "9"],
+      "answer": "C",
+      "explanation": "Sağdan dördüncü basamak binler basamağıdır: 8.426.917 sayısında bu rakam 6'dır."
+    },
+    {
+      "id": "MAT-0005",
+      "topic": "dogal-sayilar",
+      "difficulty": 2,
+      "q": "52.748 sayısında kaç adet onluk vardır?",
+      "options": ["4", "74", "5.274", "527"],
+      "answer": "C",
+      "explanation": "Kaç adet onluk olduğunu bulmak için sayının birler basamağı atılır: 52.748 sayısında 5.274 adet onluk vardır."
+    },
+    {
+      "id": "MAT-0006",
+      "topic": "dogal-sayilar",
+      "difficulty": 2,
+      "q": "Aşağıdaki sıralamalardan hangisi küçükten büyüğe doğrudur?",
+      "options": [
+        "98.567 < 98.675 < 98.756 < 98.765",
+        "98.675 < 98.567 < 98.756 < 98.765",
+        "98.567 < 98.756 < 98.675 < 98.765",
+        "98.765 < 98.756 < 98.675 < 98.567"
+      ],
+      "answer": "A",
+      "explanation": "Basamak sayıları eşit olduğunda soldan başlayarak rakamlar karşılaştırılır: 98.567 < 98.675 < 98.756 < 98.765."
+    },
+    {
+      "id": "MAT-0007",
+      "topic": "dogal-sayilar",
+      "difficulty": 3,
+      "q": "Ardışık iki çift doğal sayının toplamı 46'dır. Küçük olan sayı kaçtır?",
+      "options": ["20", "22", "24", "26"],
+      "answer": "B",
+      "explanation": "Ardışık çift sayılar arasında 2 fark vardır: 22 + 24 = 46, küçük olan 22'dir."
+    },
+    {
+      "id": "MAT-0008",
+      "topic": "dogal-sayilar",
+      "difficulty": 3,
+      "q": "Ardışık üç tek doğal sayının toplamı 45'tir. En büyük sayı kaçtır?",
+      "options": ["15", "13", "17", "19"],
+      "answer": "C",
+      "explanation": "Ortadaki sayı 45 ÷ 3 = 15'tir. Sayılar 13, 15, 17 olur; en büyüğü 17'dir."
+    },
+    {
+      "id": "MAT-0009",
+      "topic": "dogal-sayilar",
+      "difficulty": 2,
+      "q": "2, 0, 5, 9 rakamlarının her biri bir kez kullanılarak yazılabilecek dört basamaklı en büyük doğal sayı hangisidir?",
+      "options": ["9.052", "9.250", "9.520", "9.502"],
+      "answer": "C",
+      "explanation": "En büyük sayı için rakamlar büyükten küçüğe sıralanır: 9.520."
+    },
+    {
+      "id": "MAT-0010",
+      "topic": "dogal-sayilar",
+      "difficulty": 2,
+      "q": "6 × 100.000 + 4 × 1.000 + 7 × 100 + 2 × 1 şeklinde çözümlenen sayı hangisidir?",
+      "options": ["64.702", "604.702", "640.702", "604.720"],
+      "answer": "B",
+      "explanation": "600.000 + 4.000 + 700 + 2 = 604.702. On binler ve onlar basamağı 0 olur."
+    },
+    {
+      "id": "MAT-0011",
+      "topic": "toplama",
+      "difficulty": 1,
+      "q": "45.678 + 23.456 işleminin sonucu kaçtır?",
+      "options": ["68.134", "69.134", "69.034", "68.034"],
+      "answer": "B",
+      "explanation": "Basamaklar alt alta toplanır, gereken yerlerde elde aktarılır: 45.678 + 23.456 = 69.134."
+    },
+    {
+      "id": "MAT-0012",
+      "topic": "toplama",
+      "difficulty": 2,
+      "q": "▲ + 36.475 = 80.000 işleminde ▲ yerine hangi sayı gelmelidir?",
+      "options": ["43.525", "44.525", "43.625", "53.525"],
+      "answer": "A",
+      "explanation": "Verilmeyen toplanan, toplamdan bilinen toplananı çıkararak bulunur: 80.000 − 36.475 = 43.525."
+    },
+    {
+      "id": "MAT-0013",
+      "topic": "toplama",
+      "difficulty": 3,
+      "q": "28.□46 + 31.250 = 59.396 işleminde □ yerine hangi rakam gelmelidir?",
+      "options": ["0", "1", "2", "3"],
+      "answer": "B",
+      "explanation": "59.396 − 31.250 = 28.146 olduğundan □ = 1 olmalıdır."
+    },
+    {
+      "id": "MAT-0014",
+      "topic": "toplama",
+      "difficulty": 1,
+      "q": "348 + 576 = 576 + ▲ eşitliğinde ▲ kaçtır?",
+      "options": ["348", "576", "924", "228"],
+      "answer": "A",
+      "explanation": "Toplama işleminde değişme özelliği vardır: toplananların yeri değişse de sonuç değişmez, ▲ = 348."
+    },
+    {
+      "id": "MAT-0015",
+      "topic": "toplama",
+      "difficulty": 2,
+      "q": "47 + 38 işlemini zihinden yapmak için onlukları ve birlikleri ayırarak toplayan bir öğrenci hangi sonucu bulur?",
+      "options": ["75", "84", "85", "86"],
+      "answer": "C",
+      "explanation": "40 + 30 = 70 ve 7 + 8 = 15; 70 + 15 = 85."
+    },
+    {
+      "id": "MAT-0016",
+      "topic": "toplama",
+      "difficulty": 2,
+      "q": "4.286 + 3.719 işleminin sonucu, sayılar en yakın binliğe yuvarlanarak tahmin edilirse kaç bulunur?",
+      "options": ["7.000", "8.000", "9.000", "7.500"],
+      "answer": "B",
+      "explanation": "4.286 → 4.000 ve 3.719 → 4.000 olarak yuvarlanır; tahmin 4.000 + 4.000 = 8.000."
+    },
+    {
+      "id": "MAT-0017",
+      "topic": "toplama",
+      "difficulty": 3,
+      "q": "Bir kütüphanede 1.250 hikâye kitabı vardır. Masal kitaplarının sayısı hikâye kitaplarından 380 fazladır. Kütüphanede toplam kaç hikâye ve masal kitabı vardır?",
+      "options": ["2.880", "2.500", "1.630", "2.760"],
+      "answer": "A",
+      "explanation": "Masal kitabı: 1.250 + 380 = 1.630. Toplam: 1.250 + 1.630 = 2.880."
+    },
+    {
+      "id": "MAT-0018",
+      "topic": "toplama",
+      "difficulty": 2,
+      "q": "Bir okulda 456 kız ve 478 erkek öğrenci vardır. Okula 250 yeni öğrenci daha kaydolursa toplam öğrenci sayısı kaç olur?",
+      "options": ["934", "1.084", "1.184", "1.284"],
+      "answer": "C",
+      "explanation": "456 + 478 = 934; 934 + 250 = 1.184."
+    },
+    {
+      "id": "MAT-0019",
+      "topic": "toplama",
+      "difficulty": 2,
+      "q": "199 + 199 + 199 işlemini zihinden en kısa yoldan yapmak isteyen bir öğrenci hangisini yapmalıdır?",
+      "options": [
+        "200 × 3 yapıp sonuçtan 3 çıkarmalı",
+        "200 × 3 yapıp sonuca 3 eklemeli",
+        "100 × 3 yapıp sonuca 99 eklemeli",
+        "199 × 2 yapıp sonucu 2 ile çarpmalı"
+      ],
+      "answer": "A",
+      "explanation": "Her 199, 200'den 1 eksiktir: 200 × 3 = 600, 600 − 3 = 597."
+    },
+    {
+      "id": "MAT-0020",
+      "topic": "toplama",
+      "difficulty": 1,
+      "q": "Toplamları 9.000 olan iki sayıdan biri 3.755 ise diğeri kaçtır?",
+      "options": ["5.245", "5.345", "6.245", "5.255"],
+      "answer": "A",
+      "explanation": "9.000 − 3.755 = 5.245."
+    },
+    {
+      "id": "MAT-0021",
+      "topic": "cikarma",
+      "difficulty": 1,
+      "q": "60.000 − 24.387 işleminin sonucu kaçtır?",
+      "options": ["35.613", "36.613", "35.713", "34.613"],
+      "answer": "A",
+      "explanation": "Onluk bozarak çıkarma yapılır: 60.000 − 24.387 = 35.613."
+    },
+    {
+      "id": "MAT-0022",
+      "topic": "cikarma",
+      "difficulty": 2,
+      "q": "▲ − 18.250 = 41.750 işleminde eksilen (▲) kaçtır?",
+      "options": ["23.500", "59.000", "60.000", "59.500"],
+      "answer": "C",
+      "explanation": "Eksilen, fark ile çıkanın toplamıdır: 41.750 + 18.250 = 60.000."
+    },
+    {
+      "id": "MAT-0023",
+      "topic": "cikarma",
+      "difficulty": 2,
+      "q": "75.300 − ▲ = 28.900 işleminde çıkan (▲) kaçtır?",
+      "options": ["46.400", "47.400", "46.600", "104.200"],
+      "answer": "A",
+      "explanation": "Çıkan, eksilen ile farkın farkıdır: 75.300 − 28.900 = 46.400."
+    },
+    {
+      "id": "MAT-0024",
+      "topic": "cikarma",
+      "difficulty": 3,
+      "q": "5□.476 − 23.185 = 29.291 işleminde □ yerine hangi rakam gelmelidir?",
+      "options": ["1", "2", "3", "4"],
+      "answer": "B",
+      "explanation": "29.291 + 23.185 = 52.476 olduğundan □ = 2 olmalıdır."
+    },
+    {
+      "id": "MAT-0025",
+      "topic": "cikarma",
+      "difficulty": 1,
+      "q": "8.123 − 2.897 işleminin sonucu, sayılar en yakın binliğe yuvarlanarak tahmin edilirse kaç bulunur?",
+      "options": ["6.000", "5.000", "4.000", "5.500"],
+      "answer": "B",
+      "explanation": "8.123 → 8.000 ve 2.897 → 3.000; tahmin 8.000 − 3.000 = 5.000."
+    },
+    {
+      "id": "MAT-0026",
+      "topic": "cikarma",
+      "difficulty": 2,
+      "q": "600 − 298 işlemini zihinden yapmak için 298 yerine 300 çıkaran bir öğrenci, sonucu bulmak için ne yapmalıdır?",
+      "options": ["Sonuçtan 2 çıkarmalı", "Sonuca 2 eklemeli", "Sonuca 3 eklemeli", "Hiçbir şey yapmamalı"],
+      "answer": "B",
+      "explanation": "298 yerine 300 çıkarınca 2 fazla çıkarılmış olur; bu yüzden sonuca 2 eklenir: 600 − 300 = 300, 300 + 2 = 302."
+    },
+    {
+      "id": "MAT-0027",
+      "topic": "cikarma",
+      "difficulty": 2,
+      "q": "Ayşe'nin 12.500 TL'si vardı. 4.750 TL harcadı. Ayşe'nin kaç TL'si kaldı?",
+      "options": ["7.750", "8.750", "7.250", "8.250"],
+      "answer": "A",
+      "explanation": "12.500 − 4.750 = 7.750 TL."
+    },
+    {
+      "id": "MAT-0028",
+      "topic": "cikarma",
+      "difficulty": 3,
+      "q": "Bir kütüphanede 2.340 kitap vardı. 560 yeni kitap geldi, 425 kitap ödünç verildi. Kütüphanede kaç kitap kaldı?",
+      "options": ["2.475", "2.375", "2.575", "2.905"],
+      "answer": "A",
+      "explanation": "2.340 + 560 = 2.900; 2.900 − 425 = 2.475."
+    },
+    {
+      "id": "MAT-0029",
+      "topic": "cikarma",
+      "difficulty": 2,
+      "q": "İki şehir arası 1.485 km'dir. 637 km yol giden bir araç hedefe varmak için kaç km daha gitmelidir?",
+      "options": ["848", "858", "948", "838"],
+      "answer": "A",
+      "explanation": "1.485 − 637 = 848 km."
+    },
+    {
+      "id": "MAT-0030",
+      "topic": "cikarma",
+      "difficulty": 2,
+      "q": "4.000 − 1.999 işlemini zihinden yapmak için 4.000 − 2.000 = 2.000 hesabını yapan öğrenci, doğru sonuca ulaşmak için ne yapmalıdır?",
+      "options": ["Sonuca 1 eklemeli", "Sonuçtan 1 çıkarmalı", "Sonuca 2 eklemeli", "İşlem zaten doğrudur"],
+      "answer": "A",
+      "explanation": "1.999 yerine 2.000 çıkarınca 1 fazla çıkarılmıştır; sonuca 1 eklenir: 2.001."
+    },
+    {
+      "id": "MAT-0031",
+      "topic": "carpma",
+      "difficulty": 2,
+      "q": "245 × 36 işleminin sonucu kaçtır?",
+      "options": ["8.820", "8.720", "7.820", "8.920"],
+      "answer": "A",
+      "explanation": "245 × 30 = 7.350 ve 245 × 6 = 1.470; toplam 7.350 + 1.470 = 8.820."
+    },
+    {
+      "id": "MAT-0032",
+      "topic": "carpma",
+      "difficulty": 1,
+      "q": "47 × 1.000 işleminin sonucu kaçtır?",
+      "options": ["4.700", "47.000", "470", "470.000"],
+      "answer": "B",
+      "explanation": "Bir doğal sayı 1.000 ile çarpılırken sonuna üç sıfır eklenir: 47.000."
+    },
+    {
+      "id": "MAT-0033",
+      "topic": "carpma",
+      "difficulty": 2,
+      "q": "32 × 25 işlemini kısa yoldan yapmak isteyen bir öğrenci hangisini yapabilir?",
+      "options": [
+        "32'yi 100 ile çarpıp 4'e böler",
+        "32'yi 4 ile çarpıp 100'e böler",
+        "32'yi 10 ile çarpıp 25 ekler",
+        "32'yi 50 ile çarpıp 2 ile çarpar"
+      ],
+      "answer": "A",
+      "explanation": "25 = 100 ÷ 4 olduğundan 32 × 100 = 3.200, 3.200 ÷ 4 = 800."
+    },
+    {
+      "id": "MAT-0034",
+      "topic": "carpma",
+      "difficulty": 1,
+      "q": "86 × 5 işlemini kısa yoldan yapmak için sayının sonuna 0 ekleyip yarısını alan öğrenci hangi sonucu bulur?",
+      "options": ["430", "440", "420", "860"],
+      "answer": "A",
+      "explanation": "86 × 10 = 860; 860 ÷ 2 = 430."
+    },
+    {
+      "id": "MAT-0035",
+      "topic": "carpma",
+      "difficulty": 1,
+      "q": "41 × 19 işleminin sonucu, sayılar en yakın onluğa yuvarlanarak tahmin edilirse kaç bulunur?",
+      "options": ["600", "700", "800", "900"],
+      "answer": "C",
+      "explanation": "41 → 40 ve 19 → 20; tahmin 40 × 20 = 800."
+    },
+    {
+      "id": "MAT-0036",
+      "topic": "carpma",
+      "difficulty": 2,
+      "q": "3□ × 4 = 144 işleminde □ yerine hangi rakam gelmelidir?",
+      "options": ["4", "5", "6", "8"],
+      "answer": "C",
+      "explanation": "144 ÷ 4 = 36 olduğundan □ = 6'dır."
+    },
+    {
+      "id": "MAT-0037",
+      "topic": "carpma",
+      "difficulty": 1,
+      "q": "Bir kutuda 24 kalem vardır. 15 kutuda toplam kaç kalem vardır?",
+      "options": ["360", "350", "340", "390"],
+      "answer": "A",
+      "explanation": "24 × 15 = 360 kalem."
+    },
+    {
+      "id": "MAT-0038",
+      "topic": "carpma",
+      "difficulty": 2,
+      "q": "308 × 50 işleminin sonucu kaçtır?",
+      "options": ["15.400", "15.040", "1.540", "16.400"],
+      "answer": "A",
+      "explanation": "308 × 5 = 1.540; 50 ile çarpmak için bir sıfır daha eklenir: 15.400."
+    },
+    {
+      "id": "MAT-0039",
+      "topic": "carpma",
+      "difficulty": 2,
+      "q": "Bir fırın günde 85 ekmek satmaktadır. Bu fırın bir haftada kaç ekmek satar?",
+      "options": ["595", "585", "605", "565"],
+      "answer": "A",
+      "explanation": "Bir hafta 7 gündür: 85 × 7 = 595."
+    },
+    {
+      "id": "MAT-0040",
+      "topic": "carpma",
+      "difficulty": 3,
+      "q": "Bir bahçede 25 sıra fidan vardır ve her sırada 8 fidan bulunmaktadır. Bahçeye 40 fidan daha dikilirse toplam fidan sayısı kaç olur?",
+      "options": ["240", "200", "260", "280"],
+      "answer": "A",
+      "explanation": "25 × 8 = 200; 200 + 40 = 240."
+    },
+    {
+      "id": "MAT-0041",
+      "topic": "bolme",
+      "difficulty": 1,
+      "q": "3.456 ÷ 8 işleminin sonucu kaçtır?",
+      "options": ["432", "423", "442", "433"],
+      "answer": "A",
+      "explanation": "8 × 432 = 3.456 olduğundan bölüm 432'dir."
+    },
+    {
+      "id": "MAT-0042",
+      "topic": "bolme",
+      "difficulty": 2,
+      "q": "1.250 ÷ 25 işleminin sonucu kaçtır?",
+      "options": ["55", "40", "50", "45"],
+      "answer": "C",
+      "explanation": "25 × 50 = 1.250 olduğundan bölüm 50'dir."
+    },
+    {
+      "id": "MAT-0043",
+      "topic": "bolme",
+      "difficulty": 1,
+      "q": "7.200 ÷ 100 işleminin sonucu kaçtır?",
+      "options": ["720", "72", "7,2", "7.200"],
+      "answer": "B",
+      "explanation": "100 ile bölerken sayının sonundan iki sıfır atılır: 72."
+    },
+    {
+      "id": "MAT-0044",
+      "topic": "bolme",
+      "difficulty": 2,
+      "q": "250 ÷ 7 işleminde bölüm ve kalan kaçtır?",
+      "options": ["Bölüm 35, kalan 5", "Bölüm 35, kalan 0", "Bölüm 36, kalan 2", "Bölüm 34, kalan 6"],
+      "answer": "A",
+      "explanation": "7 × 35 = 245; 250 − 245 = 5. Bölüm 35, kalan 5'tir."
+    },
+    {
+      "id": "MAT-0045",
+      "topic": "bolme",
+      "difficulty": 1,
+      "q": "Bir doğal sayı 6'ya bölündüğünde kalan en çok kaç olabilir?",
+      "options": ["6", "5", "7", "0"],
+      "answer": "B",
+      "explanation": "Kalan her zaman bölenden küçüktür; 6'ya bölmede kalan en çok 5 olabilir."
+    },
+    {
+      "id": "MAT-0046",
+      "topic": "bolme",
+      "difficulty": 2,
+      "q": "9 × ▲ = 153 eşitliğinde ▲ kaçtır?",
+      "options": ["16", "17", "18", "19"],
+      "answer": "B",
+      "explanation": "Çarpma ile bölme arasındaki ilişkiden ▲ = 153 ÷ 9 = 17."
+    },
+    {
+      "id": "MAT-0047",
+      "topic": "bolme",
+      "difficulty": 2,
+      "q": "1.789 ÷ 6 işleminin sonucu yuvarlama yapılarak tahmin edilirse aşağıdakilerden hangisi en uygun tahmindir?",
+      "options": ["200", "300", "400", "500"],
+      "answer": "B",
+      "explanation": "1.789 sayısı 1.800'e yuvarlanır: 1.800 ÷ 6 = 300."
+    },
+    {
+      "id": "MAT-0048",
+      "topic": "bolme",
+      "difficulty": 3,
+      "q": "Bir bölme işleminde bölüm 24, bölen 15 ve kalan 7'dir. Bölünen sayı kaçtır?",
+      "options": ["360", "367", "353", "375"],
+      "answer": "B",
+      "explanation": "Bölünen = bölüm × bölen + kalan = 24 × 15 + 7 = 360 + 7 = 367."
+    },
+    {
+      "id": "MAT-0049",
+      "topic": "bolme",
+      "difficulty": 3,
+      "q": "50 öğrenci, 8 kişilik minibüslerle gezeye gidecektir. Tüm öğrencilerin taşınabilmesi için en az kaç minibüs gereklidir?",
+      "options": ["6", "7", "8", "5"],
+      "answer": "B",
+      "explanation": "50 ÷ 8 = 6 kalan 2. Kalan 2 öğrenci için bir minibüs daha gerekir; toplam 7 minibüs."
+    },
+    {
+      "id": "MAT-0050",
+      "topic": "bolme",
+      "difficulty": 2,
+      "q": "75 TL'si olan Ali, tanesi 9 TL olan oyuncak arabalardan en çok kaç tane alabilir?",
+      "options": ["7", "8", "9", "6"],
+      "answer": "B",
+      "explanation": "75 ÷ 9 = 8 kalan 3. Kalan 3 TL bir araba almaya yetmez; en çok 8 araba alabilir."
+    },
+    {
+      "id": "MAT-0051",
+      "topic": "dort-islem-problemleri",
+      "difficulty": 1,
+      "q": "(36 + 24) ÷ 6 işleminin sonucu kaçtır?",
+      "options": ["10", "12", "40", "6"],
+      "answer": "A",
+      "explanation": "Önce parantez içi yapılır: 36 + 24 = 60; sonra 60 ÷ 6 = 10."
+    },
+    {
+      "id": "MAT-0052",
+      "topic": "dort-islem-problemleri",
+      "difficulty": 1,
+      "q": "100 − (4 × 15) işleminin sonucu kaçtır?",
+      "options": ["40", "60", "85", "44"],
+      "answer": "A",
+      "explanation": "Önce parantez içi: 4 × 15 = 60; sonra 100 − 60 = 40."
+    },
+    {
+      "id": "MAT-0053",
+      "topic": "dort-islem-problemleri",
+      "difficulty": 1,
+      "q": "8 × (45 − 38) işleminin sonucu kaçtır?",
+      "options": ["56", "64", "48", "318"],
+      "answer": "A",
+      "explanation": "Önce parantez içi: 45 − 38 = 7; sonra 8 × 7 = 56."
+    },
+    {
+      "id": "MAT-0054",
+      "topic": "dort-islem-problemleri",
+      "difficulty": 2,
+      "q": "Bir manav her birinde 12 kg elma bulunan 5 kasa elma aldı. Gün sonunda 18 kg elma sattı. Manavda kaç kg elma kaldı?",
+      "options": ["42", "48", "60", "30"],
+      "answer": "A",
+      "explanation": "5 × 12 = 60 kg elma alındı; 60 − 18 = 42 kg kaldı."
+    },
+    {
+      "id": "MAT-0055",
+      "topic": "dort-islem-problemleri",
+      "difficulty": 2,
+      "q": "Bir kırtasiyeci 24'erli 3 paket mavi kalem ve 30'arlı 2 paket kırmızı kalem aldı. Toplam kaç kalem almıştır?",
+      "options": ["132", "122", "144", "120"],
+      "answer": "A",
+      "explanation": "3 × 24 = 72 ve 2 × 30 = 60; toplam 72 + 60 = 132."
+    },
+    {
+      "id": "MAT-0056",
+      "topic": "dort-islem-problemleri",
+      "difficulty": 2,
+      "q": "200 TL'si olan Zeynep, tanesi 45 TL olan 3 kitap aldı. Zeynep'in kaç TL'si kaldı?",
+      "options": ["65", "55", "75", "135"],
+      "answer": "A",
+      "explanation": "3 × 45 = 135 TL harcandı; 200 − 135 = 65 TL kaldı."
+    },
+    {
+      "id": "MAT-0057",
+      "topic": "dort-islem-problemleri",
+      "difficulty": 3,
+      "q": "96 ceviz 4 arkadaş arasında eşit paylaşıldı. Her biri kendi payından 6 ceviz yedi. Her birinin kaç cevizi kaldı?",
+      "options": ["18", "20", "24", "16"],
+      "answer": "A",
+      "explanation": "96 ÷ 4 = 24 ceviz pay düştü; 24 − 6 = 18 ceviz kaldı."
+    },
+    {
+      "id": "MAT-0058",
+      "topic": "dort-islem-problemleri",
+      "difficulty": 3,
+      "q": "Bir sinema salonunda 18 sıra vardır ve her sırada 22 koltuk bulunur. Bu salonda 350 bilet satıldığına göre kaç koltuk boş kalır?",
+      "options": ["46", "36", "56", "66"],
+      "answer": "A",
+      "explanation": "18 × 22 = 396 koltuk; 396 − 350 = 46 koltuk boş kalır."
+    },
+    {
+      "id": "MAT-0059",
+      "topic": "dort-islem-problemleri",
+      "difficulty": 2,
+      "q": "(72 ÷ 8) × 5 işleminin sonucu kaçtır?",
+      "options": ["45", "40", "35", "9"],
+      "answer": "A",
+      "explanation": "Önce parantez içi: 72 ÷ 8 = 9; sonra 9 × 5 = 45."
+    },
+    {
+      "id": "MAT-0060",
+      "topic": "dort-islem-problemleri",
+      "difficulty": 2,
+      "q": "\"Her kutuda 12 kalem bulunan 5 kutu kalem ile 8 tane de açık kalem vardır. Toplam kaç kalem vardır?\" probleminin çözümünü veren işlem hangisidir?",
+      "options": ["5 × 12 + 8", "5 + 12 × 8", "(5 + 8) × 12", "5 × (12 + 8)"],
+      "answer": "A",
+      "explanation": "Kutulardaki kalemler 5 × 12 = 60, açık kalemlerle birlikte 60 + 8 = 68. Doğru ifade 5 × 12 + 8'dir."
+    },
+    {
+      "id": "MAT-0061",
+      "topic": "zaman-olcme",
+      "difficulty": 1,
+      "q": "3 dakika kaç saniyedir?",
+      "options": ["30", "120", "180", "300"],
+      "answer": "C",
+      "explanation": "1 dakika 60 saniyedir: 3 × 60 = 180 saniye."
+    },
+    {
+      "id": "MAT-0062",
+      "topic": "zaman-olcme",
+      "difficulty": 1,
+      "q": "240 saniye kaç dakikadır?",
+      "options": ["3", "4", "5", "6"],
+      "answer": "B",
+      "explanation": "240 ÷ 60 = 4 dakika."
+    },
+    {
+      "id": "MAT-0063",
+      "topic": "zaman-olcme",
+      "difficulty": 2,
+      "q": "2 saat 25 dakika kaç dakikadır?",
+      "options": ["125", "145", "165", "225"],
+      "answer": "B",
+      "explanation": "2 saat = 120 dakika; 120 + 25 = 145 dakika."
+    },
+    {
+      "id": "MAT-0064",
+      "topic": "zaman-olcme",
+      "difficulty": 2,
+      "q": "200 dakika kaç saat kaç dakikadır?",
+      "options": ["2 saat 0 dakika", "3 saat 20 dakika", "3 saat 40 dakika", "2 saat 20 dakika"],
+      "answer": "B",
+      "explanation": "200 ÷ 60 = 3 kalan 20; yani 3 saat 20 dakika."
+    },
+    {
+      "id": "MAT-0065",
+      "topic": "zaman-olcme",
+      "difficulty": 2,
+      "q": "3 yıl 5 ay kaç aydır?",
+      "options": ["35", "41", "45", "38"],
+      "answer": "B",
+      "explanation": "1 yıl 12 aydır: 3 × 12 = 36; 36 + 5 = 41 ay."
+    },
+    {
+      "id": "MAT-0066",
+      "topic": "zaman-olcme",
+      "difficulty": 2,
+      "q": "4 hafta 3 gün kaç gündür?",
+      "options": ["31", "28", "27", "33"],
+      "answer": "A",
+      "explanation": "1 hafta 7 gündür: 4 × 7 = 28; 28 + 3 = 31 gün."
+    },
+    {
+      "id": "MAT-0067",
+      "topic": "zaman-olcme",
+      "difficulty": 3,
+      "q": "Saat 14.40'ta başlayan bir film 1 saat 35 dakika sürmüştür. Film saat kaçta bitmiştir?",
+      "options": ["16.15", "16.05", "15.75", "16.25"],
+      "answer": "A",
+      "explanation": "14.40 + 1 saat = 15.40; 15.40 + 35 dakika = 16.15."
+    },
+    {
+      "id": "MAT-0068",
+      "topic": "zaman-olcme",
+      "difficulty": 2,
+      "q": "Saat 09.15'te başlayan bir ders 40 dakika sürmektedir. Ders saat kaçta biter?",
+      "options": ["09.45", "09.55", "10.05", "09.50"],
+      "answer": "B",
+      "explanation": "09.15 + 40 dakika = 09.55."
+    },
+    {
+      "id": "MAT-0069",
+      "topic": "zaman-olcme",
+      "difficulty": 1,
+      "q": "5 dakika 30 saniye kaç saniyedir?",
+      "options": ["330", "300", "350", "530"],
+      "answer": "A",
+      "explanation": "5 × 60 = 300; 300 + 30 = 330 saniye."
+    },
+    {
+      "id": "MAT-0070",
+      "topic": "zaman-olcme",
+      "difficulty": 3,
+      "q": "Bir koşucu birinci turu 2 dakika 45 saniyede, ikinci turu 3 dakika 20 saniyede koşmuştur. İki turu toplam ne kadar sürede koşmuştur?",
+      "options": ["6 dakika 5 saniye", "5 dakika 65 saniye", "6 dakika 15 saniye", "5 dakika 55 saniye"],
+      "answer": "A",
+      "explanation": "2 dk 45 sn + 3 dk 20 sn = 5 dk 65 sn; 65 saniye = 1 dk 5 sn olduğundan toplam 6 dk 5 sn."
+    },
+    {
+      "id": "MAT-0071",
+      "topic": "nokta-dogru-isin",
+      "difficulty": 1,
+      "q": "İki ucu da sınırlı (başlangıcı ve bitişi belli) olan düz çizgi modeline ne ad verilir?",
+      "options": ["Doğru", "Işın", "Doğru parçası", "Açı"],
+      "answer": "C",
+      "explanation": "Doğru parçasının iki ucu da bellidir; doğru her iki yönde, ışın tek yönde sonsuza uzar."
+    },
+    {
+      "id": "MAT-0072",
+      "topic": "nokta-dogru-isin",
+      "difficulty": 1,
+      "q": "Bir başlangıç noktası olan ve tek yönde sonsuza uzayan düz çizgi modeline ne ad verilir?",
+      "options": ["Doğru parçası", "Işın", "Doğru", "Nokta"],
+      "answer": "B",
+      "explanation": "Işının bir başlangıç noktası vardır, diğer yönü sonsuza uzar."
+    },
+    {
+      "id": "MAT-0073",
+      "topic": "nokta-dogru-isin",
+      "difficulty": 1,
+      "q": "Her iki yönde de sonsuza uzayan düz çizgi modeline ne ad verilir?",
+      "options": ["Doğru", "Doğru parçası", "Işın", "Eğri"],
+      "answer": "A",
+      "explanation": "Doğrunun başlangıcı ve bitişi yoktur; her iki yönde sonsuza uzar."
+    },
+    {
+      "id": "MAT-0074",
+      "topic": "nokta-dogru-isin",
+      "difficulty": 2,
+      "q": "Farklı iki noktadan kaç tane doğru geçer?",
+      "options": ["Sonsuz", "2", "1", "Hiç geçmez"],
+      "answer": "C",
+      "explanation": "Farklı iki noktadan yalnızca bir doğru geçer."
+    },
+    {
+      "id": "MAT-0075",
+      "topic": "nokta-dogru-isin",
+      "difficulty": 2,
+      "q": "Aynı düzlemde olup hiçbir noktada kesişmeyen iki doğruya ne denir?",
+      "options": ["Dik doğrular", "Kesişen doğrular", "Paralel doğrular", "Çakışık doğrular"],
+      "answer": "C",
+      "explanation": "Aynı düzlemde kesişmeyen, aralarındaki uzaklık hep aynı kalan doğrular paraleldir."
+    },
+    {
+      "id": "MAT-0076",
+      "topic": "nokta-dogru-isin",
+      "difficulty": 2,
+      "q": "Dik kesişen iki doğrunun arasında oluşan açının ölçüsü kaç derecedir?",
+      "options": ["45", "60", "90", "180"],
+      "answer": "C",
+      "explanation": "Dik kesişen doğrular 90 derecelik (dik) açı oluşturur."
+    },
+    {
+      "id": "MAT-0077",
+      "topic": "nokta-dogru-isin",
+      "difficulty": 2,
+      "q": "A ve B noktaları arasındaki doğru parçası sembolle nasıl gösterilir?",
+      "options": ["[AB]", "AB ışını", "d doğrusu", "(AB)"],
+      "answer": "A",
+      "explanation": "Doğru parçası köşeli ayraçla gösterilir: [AB]."
+    },
+    {
+      "id": "MAT-0078",
+      "topic": "nokta-dogru-isin",
+      "difficulty": 2,
+      "q": "Kesişen iki doğrunun kaç ortak noktası vardır?",
+      "options": ["0", "1", "2", "Sonsuz"],
+      "answer": "B",
+      "explanation": "Kesişen iki doğru yalnızca bir noktada kesişir; bir ortak noktaları vardır."
+    },
+    {
+      "id": "MAT-0079",
+      "topic": "nokta-dogru-isin",
+      "difficulty": 3,
+      "q": "Aşağıdakilerden hangisi günlük hayatta ışın modeline örnek olabilir?",
+      "options": [
+        "El fenerinden çıkan ışık",
+        "Bir cetvelin kenarı",
+        "Defterdeki çizgiler",
+        "İp atlama ipi"
+      ],
+      "answer": "A",
+      "explanation": "El fenerinden çıkan ışığın başlangıç noktası bellidir ve tek yönde ilerler; bu, ışın modelidir."
+    },
+    {
+      "id": "MAT-0080",
+      "topic": "nokta-dogru-isin",
+      "difficulty": 3,
+      "q": "Bir doğru üzerinde kaç tane nokta bulunur?",
+      "options": ["2", "10", "100", "Sonsuz"],
+      "answer": "D",
+      "explanation": "Doğru, sonsuz sayıda noktanın yan yana gelmesiyle oluşur."
+    },
+    {
+      "id": "MAT-0081",
+      "topic": "aci",
+      "difficulty": 1,
+      "q": "Açıyı oluşturan iki ışının ortak başlangıç noktasına ne ad verilir?",
+      "options": ["Kol", "Köşe", "Kenar", "Doğru"],
+      "answer": "B",
+      "explanation": "İki ışının ortak başlangıç noktası açının köşesidir; ışınlara ise açının kolları denir."
+    },
+    {
+      "id": "MAT-0082",
+      "topic": "aci",
+      "difficulty": 1,
+      "q": "Ölçüsü 90 dereceden küçük olan açılara ne ad verilir?",
+      "options": ["Dar açı", "Dik açı", "Geniş açı", "Doğru açı"],
+      "answer": "A",
+      "explanation": "90°'den küçük açılar dar açıdır."
+    },
+    {
+      "id": "MAT-0083",
+      "topic": "aci",
+      "difficulty": 1,
+      "q": "Ölçüsü tam 90 derece olan açıya ne ad verilir?",
+      "options": ["Dar açı", "Geniş açı", "Dik açı", "Tam açı"],
+      "answer": "C",
+      "explanation": "90 derecelik açı dik açıdır; kareli kâğıtta gönye köşesi gibi görünür."
+    },
+    {
+      "id": "MAT-0084",
+      "topic": "aci",
+      "difficulty": 1,
+      "q": "Ölçüsü 90 dereceden büyük, 180 dereceden küçük olan açılara ne ad verilir?",
+      "options": ["Dar açı", "Geniş açı", "Doğru açı", "Dik açı"],
+      "answer": "B",
+      "explanation": "90° ile 180° arasındaki açılar geniş açıdır."
+    },
+    {
+      "id": "MAT-0085",
+      "topic": "aci",
+      "difficulty": 2,
+      "q": "Ölçüsü 180 derece olan açıya ne ad verilir?",
+      "options": ["Tam açı", "Geniş açı", "Doğru açı", "Dik açı"],
+      "answer": "C",
+      "explanation": "180 derecelik açı doğru açıdır; kolları aynı doğru üzerindedir."
+    },
+    {
+      "id": "MAT-0086",
+      "topic": "aci",
+      "difficulty": 2,
+      "q": "Ölçüsü 360 derece olan açıya ne ad verilir?",
+      "options": ["Doğru açı", "Tam açı", "Geniş açı", "Dik açı"],
+      "answer": "B",
+      "explanation": "360 derecelik açı tam açıdır; bir kol tam tur atarak başlangıç konumuna döner."
+    },
+    {
+      "id": "MAT-0087",
+      "topic": "aci",
+      "difficulty": 2,
+      "q": "Ölçüsü 75 derece olan bir açı hangi tür açıdır?",
+      "options": ["Dar açı", "Dik açı", "Geniş açı", "Doğru açı"],
+      "answer": "A",
+      "explanation": "75 < 90 olduğundan dar açıdır."
+    },
+    {
+      "id": "MAT-0088",
+      "topic": "aci",
+      "difficulty": 2,
+      "q": "Ölçüsü 138 derece olan bir açı hangi tür açıdır?",
+      "options": ["Dar açı", "Dik açı", "Geniş açı", "Tam açı"],
+      "answer": "C",
+      "explanation": "138, 90 ile 180 arasında olduğundan geniş açıdır."
+    },
+    {
+      "id": "MAT-0089",
+      "topic": "aci",
+      "difficulty": 1,
+      "q": "Açıların ölçüsünü ölçmek için kullanılan araç hangisidir?",
+      "options": ["Cetvel", "Pergel", "Açıölçer", "Gönye"],
+      "answer": "C",
+      "explanation": "Açı ölçmek için açıölçer (iletki) kullanılır."
+    },
+    {
+      "id": "MAT-0090",
+      "topic": "aci",
+      "difficulty": 3,
+      "q": "Bir doğru açı, içinden çizilen bir ışınla iki açıya ayrılıyor. Açılardan biri 65 derece ise diğeri kaç derecedir?",
+      "options": ["115", "125", "25", "135"],
+      "answer": "A",
+      "explanation": "Doğru açı 180 derecedir: 180 − 65 = 115 derece."
+    },
+    {
+      "id": "MAT-0091",
+      "topic": "ucgen",
+      "difficulty": 1,
+      "q": "Bir çokgenin en az kaç kenarı vardır?",
+      "options": ["2", "3", "4", "5"],
+      "answer": "B",
+      "explanation": "En az kenarlı çokgen üçgendir; üç kenarı ve üç köşesi vardır."
+    },
+    {
+      "id": "MAT-0092",
+      "topic": "ucgen",
+      "difficulty": 1,
+      "q": "Üç kenar uzunluğu da birbirine eşit olan üçgene ne ad verilir?",
+      "options": ["İkizkenar üçgen", "Çeşitkenar üçgen", "Eşkenar üçgen", "Dik üçgen"],
+      "answer": "C",
+      "explanation": "Tüm kenarları eş olan üçgen eşkenar üçgendir."
+    },
+    {
+      "id": "MAT-0093",
+      "topic": "ucgen",
+      "difficulty": 1,
+      "q": "Yalnızca iki kenar uzunluğu birbirine eşit olan üçgene ne ad verilir?",
+      "options": ["İkizkenar üçgen", "Eşkenar üçgen", "Çeşitkenar üçgen", "Geniş açılı üçgen"],
+      "answer": "A",
+      "explanation": "İki kenarı eş olan üçgen ikizkenar üçgendir."
+    },
+    {
+      "id": "MAT-0094",
+      "topic": "ucgen",
+      "difficulty": 2,
+      "q": "Kenar uzunlukları 5 cm, 7 cm ve 9 cm olan bir üçgen, kenarlarına göre hangi tür üçgendir?",
+      "options": ["Eşkenar üçgen", "İkizkenar üçgen", "Çeşitkenar üçgen", "Dik üçgen"],
+      "answer": "C",
+      "explanation": "Üç kenarın uzunluğu da farklı olduğundan çeşitkenar üçgendir."
+    },
+    {
+      "id": "MAT-0095",
+      "topic": "ucgen",
+      "difficulty": 2,
+      "q": "Bir açısının ölçüsü 90 derece olan üçgene ne ad verilir?",
+      "options": ["Dar açılı üçgen", "Dik üçgen", "Geniş açılı üçgen", "Eşkenar üçgen"],
+      "answer": "B",
+      "explanation": "Bir açısı dik (90°) olan üçgen dik üçgendir."
+    },
+    {
+      "id": "MAT-0096",
+      "topic": "ucgen",
+      "difficulty": 2,
+      "q": "Üç açısının ölçüsü de 90 dereceden küçük olan üçgene ne ad verilir?",
+      "options": ["Dar açılı üçgen", "Dik üçgen", "Geniş açılı üçgen", "İkizkenar üçgen"],
+      "answer": "A",
+      "explanation": "Tüm açıları dar olan üçgen dar açılı üçgendir."
+    },
+    {
+      "id": "MAT-0097",
+      "topic": "ucgen",
+      "difficulty": 1,
+      "q": "Bir üçgenin iç açılarının ölçüleri toplamı kaç derecedir?",
+      "options": ["90", "180", "270", "360"],
+      "answer": "B",
+      "explanation": "Her üçgende iç açıların ölçüleri toplamı 180 derecedir."
+    },
+    {
+      "id": "MAT-0098",
+      "topic": "ucgen",
+      "difficulty": 2,
+      "q": "Bir üçgenin iki açısının ölçüsü 65 ve 40 derecedir. Üçüncü açının ölçüsü kaç derecedir?",
+      "options": ["75", "85", "65", "105"],
+      "answer": "A",
+      "explanation": "65 + 40 = 105; 180 − 105 = 75 derece."
+    },
+    {
+      "id": "MAT-0099",
+      "topic": "ucgen",
+      "difficulty": 3,
+      "q": "Bir dik üçgenin dar açılarından biri 35 derecedir. Diğer dar açının ölçüsü kaç derecedir?",
+      "options": ["55", "65", "45", "145"],
+      "answer": "A",
+      "explanation": "Dik açı 90 derecedir: 90 + 35 = 125; 180 − 125 = 55 derece."
+    },
+    {
+      "id": "MAT-0100",
+      "topic": "ucgen",
+      "difficulty": 3,
+      "q": "Eşkenar bir üçgenin bir iç açısının ölçüsü kaç derecedir?",
+      "options": ["45", "60", "90", "120"],
+      "answer": "B",
+      "explanation": "Eşkenar üçgenin üç açısı da eşittir: 180 ÷ 3 = 60 derece."
+    },
+    {
+      "id": "MAT-0101",
+      "topic": "simetri-oruntu",
+      "difficulty": 1,
+      "q": "Bir karenin kaç tane simetri doğrusu vardır?",
+      "options": ["2", "3", "4", "1"],
+      "answer": "C",
+      "explanation": "Karenin 2 köşegen ve 2 kenar ortası olmak üzere 4 simetri doğrusu vardır."
+    },
+    {
+      "id": "MAT-0102",
+      "topic": "simetri-oruntu",
+      "difficulty": 2,
+      "q": "Kare olmayan bir dikdörtgenin kaç tane simetri doğrusu vardır?",
+      "options": ["1", "2", "3", "4"],
+      "answer": "B",
+      "explanation": "Dikdörtgenin kenarlarının orta noktalarından geçen 2 simetri doğrusu vardır; köşegenleri simetri doğrusu değildir."
+    },
+    {
+      "id": "MAT-0103",
+      "topic": "simetri-oruntu",
+      "difficulty": 2,
+      "q": "Eşkenar üçgenin kaç tane simetri doğrusu vardır?",
+      "options": ["1", "2", "3", "4"],
+      "answer": "C",
+      "explanation": "Eşkenar üçgenin her köşesinden karşı kenarın ortasına inen 3 simetri doğrusu vardır."
+    },
+    {
+      "id": "MAT-0104",
+      "topic": "simetri-oruntu",
+      "difficulty": 2,
+      "q": "Aşağıdaki şekillerden hangisinin sonsuz sayıda simetri doğrusu vardır?",
+      "options": ["Kare", "Eşkenar üçgen", "Daire", "Dikdörtgen"],
+      "answer": "C",
+      "explanation": "Dairenin merkezinden geçen her doğru bir simetri doğrusudur; bu yüzden sonsuz tanedir."
+    },
+    {
+      "id": "MAT-0105",
+      "topic": "simetri-oruntu",
+      "difficulty": 2,
+      "q": "Aşağıdaki harflerden hangisinin dikey (düşey) bir simetri doğrusu vardır?",
+      "options": ["A", "F", "G", "P"],
+      "answer": "A",
+      "explanation": "A harfi ortasından dikey bir çizgiyle ikiye katlandığında iki parça çakışır; F, G ve P için bu mümkün değildir."
+    },
+    {
+      "id": "MAT-0106",
+      "topic": "simetri-oruntu",
+      "difficulty": 1,
+      "q": "Kuralı \"3 artarak devam ediyor\" olan 7, 10, 13, ... örüntüsünde bir sonraki sayı kaçtır?",
+      "options": ["15", "16", "17", "14"],
+      "answer": "B",
+      "explanation": "13 + 3 = 16."
+    },
+    {
+      "id": "MAT-0107",
+      "topic": "simetri-oruntu",
+      "difficulty": 1,
+      "q": "Kare, üçgen, daire, kare, üçgen, ... şeklinde devam eden örüntüde bir sonraki şekil hangisidir?",
+      "options": ["Kare", "Üçgen", "Daire", "Dikdörtgen"],
+      "answer": "C",
+      "explanation": "Örüntünün tekrar birimi kare-üçgen-daire'dir; üçgenden sonra daire gelir."
+    },
+    {
+      "id": "MAT-0108",
+      "topic": "simetri-oruntu",
+      "difficulty": 3,
+      "q": "Aşağıdaki şekillerden hangisiyle, aralarında boşluk kalmayacak şekilde süsleme (döşeme) YAPILAMAZ?",
+      "options": ["Kare", "Eşkenar üçgen", "Daire", "Dikdörtgen"],
+      "answer": "C",
+      "explanation": "Daireler yan yana dizildiğinde aralarında boşluk kalır; kare, üçgen ve dikdörtgenle boşluksuz döşeme yapılabilir."
+    },
+    {
+      "id": "MAT-0109",
+      "topic": "simetri-oruntu",
+      "difficulty": 2,
+      "q": "Kuralı \"bir önceki sayının 2 katı\" olan 2, 4, 8, 16, ... örüntüsünde bir sonraki sayı kaçtır?",
+      "options": ["24", "30", "32", "18"],
+      "answer": "C",
+      "explanation": "16 × 2 = 32."
+    },
+    {
+      "id": "MAT-0110",
+      "topic": "simetri-oruntu",
+      "difficulty": 3,
+      "q": "Aşağıdaki rakamlardan hangisinin yatay bir simetri doğrusu vardır?",
+      "options": ["7", "3", "5", "4"],
+      "answer": "B",
+      "explanation": "3 rakamı ortasından yatay bir çizgiyle katlandığında üst ve alt parçaları çakışır; 7, 5 ve 4 için bu mümkün değildir."
+    }
+  ]
+}
