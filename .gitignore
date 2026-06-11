@@ -8,3 +8,9 @@ Desktop.ini
 
 # Belirsiz/dogrulanmamis dosyalar versiyon kontrolune dahil edilmez
 _Kontrol_Belirsiz/
+
+# OMR calisma alani (uretilen gorseller, ara ciktilar)
+_work/
+
+# Python
+__pycache__/

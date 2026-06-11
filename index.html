@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>KGS Arşivi — Geçmiş Yıl Sınavlarını Online Çöz</title>
+<meta name="description" content="KKTC Kolejlere Giriş Sınavı (KGS) geçmiş yıl sorularını orijinal kitapçıklarıyla online çözün, anında sonucunuzu görün. Ücretsiz.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🎓</text></svg>">
+<link rel="stylesheet" href="assets/style.css">
+<script src="https://cdn.jsdelivr.net/npm/pdfjs-dist@3.11.174/build/pdf.min.js"></script>
+</head>
+<body>
+<div id="app">
+  <!-- Home view -->
+  <div id="view-home" class="view">
+    <header class="home-header">
+      <h1>🎓 KGS Arşivi</h1>
+      <p class="subtitle">KKTC Kolejlere Giriş Sınavı — geçmiş yıl sınavlarını gerçek sınav koşullarında online çözün, anında sonucunuzu öğrenin. Tamamen ücretsiz.</p>
+      <p class="exam-info">
+        <span class="pill">1. Oturum: Türkçe 27 + Fen 14 + Sosyal 10 soru</span>
+        <span class="pill">2. Oturum: İngilizce 22 + Matematik 27 soru</span>
+        <span class="pill">Süre: 90 dakika</span>
+      </p>
+    </header>
+    <main id="exam-list" class="exam-list"></main>
+    <footer class="home-footer">
+      <p>Sorular ve cevap anahtarları <a href="https://www.mebnet.net/MEBDuyurular" target="_blank" rel="noopener">KKTC Milli Eğitim Bakanlığı</a>'na aittir ve yalnızca eğitim amaçlı sunulmaktadır. Bu site resmî bir kaynak değildir; hesaplanan puanlar yalnızca pratik amaçlıdır.</p>
+    </footer>
+  </div>
+
+  <!-- Exam view -->
+  <div id="view-exam" class="view" hidden>
+    <header class="exam-topbar">
+      <button id="btn-back" class="btn ghost" title="Ana sayfa">←</button>
+      <div class="exam-title" id="exam-title"></div>
+      <div class="timer" id="timer" hidden>90:00</div>
+      <button id="btn-start" class="btn primary">Sınavı Başlat</button>
+      <button id="btn-finish" class="btn danger" hidden>Sınavı Bitir</button>
+      <button id="btn-sheet-toggle" class="btn ghost only-mobile" title="Cevap kâğıdı">📝</button>
+    </header>
+    <div class="exam-body">
+      <div class="pdf-pane" id="pdf-pane">
+        <div class="pdf-toolbar">
+          <button id="zoom-out" class="btn ghost">−</button>
+          <span id="zoom-label">100%</span>
+          <button id="zoom-in" class="btn ghost">+</button>
+          <span class="spacer"></span>
+          <span id="page-indicator"></span>
+        </div>
+        <div class="pdf-scroll" id="pdf-scroll"></div>
+      </div>
+      <aside class="sheet-pane" id="sheet-pane">
+        <div class="sheet-head">
+          <strong>Cevap Kâğıdı</strong>
+          <span id="answer-progress"></span>
+        </div>
+        <div id="sheet-sections"></div>
+      </aside>
+    </div>
+  </div>
+
+  <!-- Result view -->
+  <div id="view-result" class="view" hidden>
+    <header class="exam-topbar">
+      <button id="btn-back2" class="btn ghost" title="Ana sayfa">←</button>
+      <div class="exam-title" id="result-title"></div>
+      <button id="btn-review" class="btn primary">İncele</button>
+      <button id="btn-retry" class="btn ghost">Tekrar Çöz</button>
+    </header>
+    <main class="result-main" id="result-main"></main>
+  </div>
+</div>
+<script src="assets/app.js"></script>
+</body>
+</html>

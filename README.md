@@ -1,6 +1,25 @@
-# KKTC Kolejlere Giris Sinavi (KGS) - Gecmis Yillar Arsivi
+# KKTC Kolejlere Giris Sinavi (KGS) - Gecmis Yillar Arsivi ve Online Deneme Uygulamasi
 
 Kuzey Kibris Turk Cumhuriyeti (KKTC) Milli Egitim Bakanligi tarafindan yapilan **Kolejlere Giris Sinavi (KGS)** gecmis yil sorulari ve cevap anahtarlari. Tum ogrencilerin ucretsiz erisimine acik bir kaynak olarak duzenlenmistir.
+
+## Online Deneme Uygulamasi
+
+Bu depo ayni zamanda gecmis yil sinavlarini **orijinal kitapciklariyla online cozme** uygulamasi icerir ([index.html](index.html)):
+
+- Orijinal soru kitapcigi tarayicida goruntulenir (sekiller/resimler aynen korunur, PDF.js).
+- Gercek optik form duzeninde dijital cevap kagidi (1. Oturum: Turkce 27 + Fen 14 + Sosyal 10; 2. Oturum: Ingilizce 22 + Matematik 27).
+- 90 dakikalik geri sayim, otomatik kaydetme (tarayici localStorage), yarim kalan sinava devam etme.
+- Sinav sonunda ders bazinda dogru/yanlis/bos dokumu, soru soru inceleme modu.
+- Tamamen statik site: GitHub Pages uzerinde dogrudan yayinlanabilir (Settings > Pages > main branch / root).
+
+Cevap anahtarlari [data/exams.json](data/exams.json) dosyasindadir; taranmis optik formlardan [tools/](tools/) altindaki OMR betikleriyle cikarilmis, tamami gorsel olarak ve otomatik capraz kontrol ile dogrulanmistir (`python tools/check_dataset.py`). Tek eksik anahtar: 2018 2. Basamak 2. Oturum (resmi anahtar yayinlanmamis).
+
+Yerel calistirma:
+
+```bash
+python -m http.server 8000
+# http://localhost:8000
+```
 
 ## Sinav Yapisi
 
@@ -151,6 +170,22 @@ YIL / BASAMAK / KGS_<yil>_<basamak>_<oturum>_<Sorular|Cevap>.<uzanti>
 |--------|---------|----------------|
 | 1. Oturum | [KGS_2025_2.Basamak_1.Oturum_Sorular.pdf](2025/2.Basamak/KGS_2025_2.Basamak_1.Oturum_Sorular.pdf) | [KGS_2025_2.Basamak_1.Oturum_Cevap.pdf](2025/2.Basamak/KGS_2025_2.Basamak_1.Oturum_Cevap.pdf) |
 | 2. Oturum | [KGS_2025_2.Basamak_2.Oturum_Sorular.pdf](2025/2.Basamak/KGS_2025_2.Basamak_2.Oturum_Sorular.pdf) | [KGS_2025_2.Basamak_2.Oturum_Cevap.pdf](2025/2.Basamak/KGS_2025_2.Basamak_2.Oturum_Cevap.pdf) |
+
+### 2026
+
+**1. Basamak (Ocak)**
+
+| Oturum | Sorular | Cevap Anahtari |
+|--------|---------|----------------|
+| 1. Oturum | [KGS_2026_1.Basamak_1.Oturum_Sorular.pdf](2026/1.Basamak/KGS_2026_1.Basamak_1.Oturum_Sorular.pdf) | [KGS_2026_1.Basamak_1.Oturum_Cevap.pdf](2026/1.Basamak/KGS_2026_1.Basamak_1.Oturum_Cevap.pdf) |
+| 2. Oturum | [KGS_2026_1.Basamak_2.Oturum_Sorular.pdf](2026/1.Basamak/KGS_2026_1.Basamak_2.Oturum_Sorular.pdf) | [KGS_2026_1.Basamak_2.Oturum_Cevap.pdf](2026/1.Basamak/KGS_2026_1.Basamak_2.Oturum_Cevap.pdf) |
+
+**2. Basamak (Haziran)**
+
+| Oturum | Sorular | Cevap Anahtari |
+|--------|---------|----------------|
+| 1. Oturum | [KGS_2026_2.Basamak_1.Oturum_Sorular.pdf](2026/2.Basamak/KGS_2026_2.Basamak_1.Oturum_Sorular.pdf) | [KGS_2026_2.Basamak_1.Oturum_Cevap.pdf](2026/2.Basamak/KGS_2026_2.Basamak_1.Oturum_Cevap.pdf) |
+| 2. Oturum | [KGS_2026_2.Basamak_2.Oturum_Sorular.pdf](2026/2.Basamak/KGS_2026_2.Basamak_2.Oturum_Sorular.pdf) | [KGS_2026_2.Basamak_2.Oturum_Cevap.pdf](2026/2.Basamak/KGS_2026_2.Basamak_2.Oturum_Cevap.pdf) |
 
 ## Ek Kaynaklar
 
