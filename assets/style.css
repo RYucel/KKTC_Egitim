@@ -15,6 +15,11 @@ button { font: inherit; cursor: pointer; }
 a { color: var(--orange); }
 
 .view { min-height: 100vh; display: flex; flex-direction: column; }
+.view[hidden] { display: none !important; }
+
+/* Sinav gorunumu tek ekran: PDF ve cevap kagidi kendi icinde kayar,
+   sayfa butunu kaymaz — cevap kagidi her zaman gorunur kalir. */
+#view-exam { height: 100vh; min-height: 0; overflow: hidden; }
 
 /* ---------- Home ---------- */
 .home-header { background: linear-gradient(135deg, #b23a02, var(--orange)); color: #fff; padding: 36px 20px 28px; text-align: center; }
