@@ -66,11 +66,30 @@ Anahtar degisikligi/eklemede ZORUNLU adimlar:
 - `keys: null` olan sinavlar listelenir ama puanlanamaz ("cevap anahtari yok" rozeti).
 - PDF.js 3.11.174 UMD (CDN); 4.x'e gecis ESM gerektirir, gerekmedikce dokunma.
 
+## Yerlesim kurallari (assets/style.css) — gecmis hatadan ders
+
+- Gorunum gecisi `hidden` ozniteligiyle yapilir. `.view { display:flex }` UA'nin
+  `[hidden]{display:none}` kuralini ezdigi icin `.view[hidden]{display:none !important}`
+  kurali SARTTIR — silinirse ana sayfa ile sinav ayni anda gorunur (yasanmis hata).
+- `#view-exam { height:100vh; overflow:hidden }`: sinav ekrani tek viewport'a kilitli;
+  PDF (`#pdf-scroll`) ve cevap kagidi (`#sheet-pane`) KENDI iclerinde bagimsiz kayar.
+  Bu sayede ogrenci kitapcikta ilerlerken optik form hep ekranda kalir. `body` sinav
+  gorunumunde KAYMAMALIDIR — E2E bunu assert eder.
+- ≤860px'de cevap kagidi sag kenardan acilan cekmeceye doner (`.sheet-pane.open`,
+  `#btn-sheet-toggle`). Masaustu testleri viewport ≥900px ile yapilmali.
+
 ## Test
 
 - E2E: `_work/e2e_test.js` (puppeteer-core + sistem Edge, `%TEMP%\kgs_e2e` icinde calistir;
-  once `python -m http.server 8421` baslat). Skor/inceleme/kalicilik asercion'lari var.
+  once `python -m http.server 8421` baslat). Viewport 1366x768 ayarlanir — varsayilan
+  800px mobil cekmece modunu tetikleyip yanlis negatif verir.
+- Asercion'lar: skor/inceleme/kalicilik + gercek gorunurluk (ana sayfa gizli, sinav
+  ekranin tepesinde, body kaymiyor, PDF 3000px kaydirilinca cevap kagidi hala gorunur).
+  `hidden` OZNITELIGINE degil gercek gorunurluge bak (offsetParent/getClientRects) —
+  ilk surumdeki yerlesim hatasi sadece oznitelik kontrolu yuzunden testten kacmisti.
 - Hizli kontrol: `node --check assets/app.js` + `python tools/check_dataset.py`
+- Gorsel dogrulama: ayni klasordeki `shot.js` benzeri betikle ekran goruntusu alip
+  Read araciyla incele (kanitsiz "duzeldi" deme).
 
 ## Stil/dil
 
