@@ -6,8 +6,13 @@
       "topic": "besin-icerikleri",
       "difficulty": 1,
       "q": "Aşağıdakilerden hangisi vücudumuzun temel enerji kaynağı olan besin içeriğidir?",
-      "options": ["Karbonhidrat", "Vitamin", "Su", "Mineral"],
-      "answer": "A",
+      "options": [
+        "Vitamin",
+        "Mineral",
+        "Karbonhidrat",
+        "Su"
+      ],
+      "answer": "C",
       "explanation": "Karbonhidratlar vücudumuzun birinci enerji kaynağıdır; ekmek, makarna ve pirinç gibi besinlerde bol bulunur."
     },
     {
@@ -15,8 +20,13 @@
       "topic": "besin-icerikleri",
       "difficulty": 1,
       "q": "Vücudumuzda yapıcı ve onarıcı görev üstlenen besin içeriği hangisidir?",
-      "options": ["Yağ", "Protein", "Karbonhidrat", "Su"],
-      "answer": "B",
+      "options": [
+        "Yağ",
+        "Su",
+        "Karbonhidrat",
+        "Protein"
+      ],
+      "answer": "D",
       "explanation": "Proteinler hücrelerin yapımında ve yaraların onarılmasında görev alır; et, yumurta, süt ve baklagillerde bol bulunur."
     },
     {
@@ -24,7 +34,12 @@
       "topic": "besin-icerikleri",
       "difficulty": 2,
       "q": "Aşağıdaki besinlerden hangisi protein bakımından en zengindir?",
-      "options": ["Ekmek", "Tereyağı", "Yumurta", "Elma"],
+      "options": [
+        "Ekmek",
+        "Elma",
+        "Yumurta",
+        "Tereyağı"
+      ],
       "answer": "C",
       "explanation": "Yumurta protein deposudur. Ekmek karbonhidrat, tereyağı yağ, elma ise vitamin bakımından zengindir."
     },
@@ -34,12 +49,12 @@
       "difficulty": 2,
       "q": "Yağlarla ilgili aşağıdaki bilgilerden hangisi doğrudur?",
       "options": [
-        "Vücudun en hızlı kullanılan enerji kaynağıdır",
         "En çok enerji veren besin içeriğidir",
+        "Vücudun en hızlı kullanılan enerji kaynağıdır",
         "Yalnızca bitkisel besinlerde bulunur",
         "Vücutta hiç depolanmaz"
       ],
-      "answer": "B",
+      "answer": "A",
       "explanation": "Yağlar en çok enerji veren besin içeriğidir ve vücutta depolanır; hem bitkisel hem hayvansal kaynakları vardır."
     },
     {
@@ -47,8 +62,13 @@
       "topic": "besin-icerikleri",
       "difficulty": 2,
       "q": "Vücudun düzenli çalışmasına yardımcı olan ve taze sebze ile meyvelerde bol bulunan besin içeriği hangisidir?",
-      "options": ["Vitamin", "Yağ", "Karbonhidrat", "Protein"],
-      "answer": "A",
+      "options": [
+        "Karbonhidrat",
+        "Protein",
+        "Vitamin",
+        "Yağ"
+      ],
+      "answer": "C",
       "explanation": "Vitaminler düzenleyici besin içerikleridir; taze sebze ve meyvelerde bol miktarda bulunur."
     },
     {
@@ -56,8 +76,13 @@
       "topic": "besin-icerikleri",
       "difficulty": 3,
       "q": "Güneş ışınlarının etkisiyle vücudumuzda üretilebilen vitamin hangisidir?",
-      "options": ["A vitamini", "C vitamini", "D vitamini", "K vitamini"],
-      "answer": "C",
+      "options": [
+        "A vitamini",
+        "K vitamini",
+        "C vitamini",
+        "D vitamini"
+      ],
+      "answer": "D",
       "explanation": "D vitamini güneş ışınlarının etkisiyle deride üretilebilir; kemik gelişimi için önemlidir."
     },
     {
@@ -65,8 +90,13 @@
       "topic": "besin-icerikleri",
       "difficulty": 2,
       "q": "Turunçgillerde (portakal, limon, mandalina) bol bulunan ve hastalıklara karşı direnci artıran vitamin hangisidir?",
-      "options": ["A vitamini", "B vitamini", "C vitamini", "E vitamini"],
-      "answer": "C",
+      "options": [
+        "E vitamini",
+        "C vitamini",
+        "A vitamini",
+        "B vitamini"
+      ],
+      "answer": "B",
       "explanation": "C vitamini turunçgillerde boldur ve vücudun hastalıklara karşı direncini artırır."
     },
     {
@@ -75,12 +105,12 @@
       "difficulty": 2,
       "q": "Su ve mineraller ile ilgili hangisi doğrudur?",
       "options": [
-        "Enerji verici besin içerikleridir",
         "Düzenleyici görev yapar, vücut için gereklidir",
-        "Yalnızca sporcular için gereklidir",
-        "Vücudumuzda hiç bulunmaz"
+        "Vücudumuzda hiç bulunmaz",
+        "Enerji verici besin içerikleridir",
+        "Yalnızca sporcular için gereklidir"
       ],
-      "answer": "B",
+      "answer": "A",
       "explanation": "Su ve mineraller enerji vermez; vücudun düzenli çalışması için gerekli düzenleyici içeriklerdir."
     },
     {
@@ -88,8 +118,13 @@
       "topic": "besin-icerikleri",
       "difficulty": 1,
       "q": "Süt ve süt ürünlerinde bol bulunan, kemik ve diş gelişimi için önemli mineral hangisidir?",
-      "options": ["Demir", "Kalsiyum", "İyot", "Çinko"],
-      "answer": "B",
+      "options": [
+        "Demir",
+        "İyot",
+        "Çinko",
+        "Kalsiyum"
+      ],
+      "answer": "D",
       "explanation": "Kalsiyum kemiklerin ve dişlerin gelişimi için gereklidir; süt ve süt ürünlerinde bol bulunur."
     },
     {
@@ -97,8 +132,13 @@
       "topic": "besin-icerikleri",
       "difficulty": 3,
       "q": "Bir sporcunun antrenman öncesi enerji kazanmak için makarna yemesi, hangi besin içeriğinin görevine uygun bir tercihtir?",
-      "options": ["Protein", "Vitamin", "Karbonhidrat", "Mineral"],
-      "answer": "C",
+      "options": [
+        "Vitamin",
+        "Karbonhidrat",
+        "Protein",
+        "Mineral"
+      ],
+      "answer": "B",
       "explanation": "Makarna karbonhidrat bakımından zengindir; karbonhidratlar vücudun temel enerji kaynağıdır."
     },
     {
@@ -107,12 +147,12 @@
       "difficulty": 1,
       "q": "Dengeli beslenme ne demektir?",
       "options": [
-        "Sadece sevdiğimiz yiyecekleri yemek",
         "Tüm besin içeriklerinden yeterli miktarda almak",
         "Çok miktarda et yemek",
-        "Hiç yağ tüketmemek"
+        "Hiç yağ tüketmemek",
+        "Sadece sevdiğimiz yiyecekleri yemek"
       ],
-      "answer": "B",
+      "answer": "A",
       "explanation": "Dengeli beslenme, vücudun ihtiyacı olan tüm besin içeriklerinin yeterli miktarda alınmasıdır."
     },
     {
@@ -121,12 +161,12 @@
       "difficulty": 1,
       "q": "Paketli bir besin satın alırken öncelikle hangisine dikkat etmeliyiz?",
       "options": [
+        "Reklamının olup olmadığına",
         "Paketin rengine",
-        "Üretim ve son kullanma tarihine",
         "Paketin büyüklüğüne",
-        "Reklamının olup olmadığına"
+        "Üretim ve son kullanma tarihine"
       ],
-      "answer": "B",
+      "answer": "D",
       "explanation": "Bilinçli bir tüketici, besinin tazeliğini ve güvenliğini anlamak için üretim ve son kullanma tarihlerini kontrol eder."
     },
     {
@@ -151,10 +191,10 @@
       "options": [
         "Sebze ve meyveler yenmeden önce yıkanmalıdır",
         "Bozulmuş besinler sağlığımıza zarar verebilir",
-        "Son kullanma tarihi geçmiş besinler yenilebilir",
-        "Açıkta bekletilen yiyecekler mikrop kapabilir"
+        "Açıkta bekletilen yiyecekler mikrop kapabilir",
+        "Son kullanma tarihi geçmiş besinler yenilebilir"
       ],
-      "answer": "C",
+      "answer": "D",
       "explanation": "Son kullanma tarihi geçmiş besinler bozulmuş olabilir ve sağlığa zararlıdır; kesinlikle tüketilmemelidir."
     },
     {
@@ -163,12 +203,12 @@
       "difficulty": 2,
       "q": "Besinlerin içerdiği katkı maddeleri ile ilgili hangisi doğrudur?",
       "options": [
-        "Tüm katkı maddeleri sağlığa yararlıdır",
         "Aşırı katkı maddesi içeren besinlerden uzak durulmalıdır",
+        "Doğal besinlerde katkı maddesi daha çoktur",
         "Katkı maddeleri besinin tadını her zaman bozar",
-        "Doğal besinlerde katkı maddesi daha çoktur"
+        "Tüm katkı maddeleri sağlığa yararlıdır"
       ],
-      "answer": "B",
+      "answer": "A",
       "explanation": "Bazı katkı maddelerinin fazlası sağlığa zarar verebilir; mümkün olduğunca doğal ve az katkılı besinler tercih edilmelidir."
     },
     {
@@ -177,12 +217,12 @@
       "difficulty": 1,
       "q": "Paketlenmiş besinlerin üzerindeki bilgi etiketlerinde aşağıdakilerden hangisi BULUNMAZ?",
       "options": [
-        "Besinin içindekiler listesi",
-        "Son kullanma tarihi",
         "Besinin fiyat pazarlığı",
-        "Üretim tarihi"
+        "Son kullanma tarihi",
+        "Üretim tarihi",
+        "Besinin içindekiler listesi"
       ],
-      "answer": "C",
+      "answer": "A",
       "explanation": "Besin etiketlerinde içindekiler, üretim ve son kullanma tarihleri yer alır; fiyat pazarlığı diye bir bilgi olmaz."
     },
     {
@@ -192,11 +232,11 @@
       "q": "Örnek bir öğle öğünü hazırlayan öğrencinin tabağında dengeli beslenmeye en uygun seçenek hangisidir?",
       "options": [
         "Patates kızartması, kola, çikolata",
-        "Izgara tavuk, salata, yoğurt, ekmek",
         "Üç dilim pasta ve meyve suyu",
-        "Sadece makarna"
+        "Sadece makarna",
+        "Izgara tavuk, salata, yoğurt, ekmek"
       ],
-      "answer": "B",
+      "answer": "D",
       "explanation": "Dengeli bir öğünde protein (tavuk, yoğurt), vitamin (salata) ve karbonhidrat (ekmek) birlikte bulunmalıdır."
     },
     {
@@ -205,9 +245,9 @@
       "difficulty": 3,
       "q": "Ali markette aldığı sütün kutusunda üretim tarihini 05.01.2026, son kullanma tarihini 15.01.2026 olarak görüyor. Bugün 20.01.2026 olduğuna göre Ali ne yapmalıdır?",
       "options": [
-        "Sütü hemen içmelidir",
         "Sütü kaynatıp içmelidir",
         "Sütü buzdolabına koyup sonra içmelidir",
+        "Sütü hemen içmelidir",
         "Sütü tüketmemeli, satın almamalıdır"
       ],
       "answer": "D",
@@ -220,11 +260,11 @@
       "q": "Sürekli tek tür besinle (örneğin yalnızca hamur işi) beslenen bir kişide hangi durum görülür?",
       "options": [
         "Tüm besin içeriklerini dengeli almış olur",
-        "Bazı besin içerikleri eksik kalır, sağlığı bozulabilir",
         "Daha sağlıklı ve dirençli olur",
-        "Vücudu hiç etkilenmez"
+        "Vücudu hiç etkilenmez",
+        "Bazı besin içerikleri eksik kalır, sağlığı bozulabilir"
       ],
-      "answer": "B",
+      "answer": "D",
       "explanation": "Tek tür beslenmede protein, vitamin ve mineral gibi içerikler eksik kalır; bu durum sağlığı olumsuz etkiler."
     },
     {
@@ -233,12 +273,12 @@
       "difficulty": 1,
       "q": "Aşağıdakilerden hangisi bilinçli bir tüketicinin davranışıdır?",
       "options": [
-        "Ambalajı yırtık ürün almak",
-        "Açıkta satılan, sinek konan yiyecekleri almak",
         "Etiketini okuyarak ve tarihlerine bakarak ürün almak",
+        "Açıkta satılan, sinek konan yiyecekleri almak",
+        "Ambalajı yırtık ürün almak",
         "Sadece reklamı çok yapılan ürünleri almak"
       ],
-      "answer": "C",
+      "answer": "A",
       "explanation": "Bilinçli tüketici, ürünün etiketini okur; üretim ve son kullanma tarihini, ambalajın sağlamlığını kontrol eder."
     },
     {
@@ -248,9 +288,9 @@
       "q": "Besinlerin vücudumuza girdikten sonra izlediği yol hangisinde doğru sıralanmıştır?",
       "options": [
         "Ağız → yemek borusu → mide → ince bağırsak → kalın bağırsak",
+        "Ağız → mide → kalın bağırsak → ince bağırsak → yemek borusu",
         "Ağız → mide → yemek borusu → ince bağırsak → kalın bağırsak",
-        "Ağız → yemek borusu → ince bağırsak → mide → kalın bağırsak",
-        "Ağız → mide → kalın bağırsak → ince bağırsak → yemek borusu"
+        "Ağız → yemek borusu → ince bağırsak → mide → kalın bağırsak"
       ],
       "answer": "A",
       "explanation": "Besinler sırasıyla ağız, yemek borusu, mide, ince bağırsak ve kalın bağırsaktan geçer."
@@ -261,12 +301,12 @@
       "difficulty": 1,
       "q": "Sindirim ağızda hangi olaylarla başlar?",
       "options": [
-        "Besinlerin çiğnenmesi ve tükürükle ıslatılması",
         "Besinlerin yutulması",
         "Besinlerin kana karışması",
-        "Besinlerin depolanması"
+        "Besinlerin depolanması",
+        "Besinlerin çiğnenmesi ve tükürükle ıslatılması"
       ],
-      "answer": "A",
+      "answer": "D",
       "explanation": "Sindirim, besinlerin dişlerle çiğnenip tükürükle ıslatılmasıyla ağızda başlar."
     },
     {
@@ -274,8 +314,13 @@
       "topic": "sindirim",
       "difficulty": 2,
       "q": "Besinlerin ağızdan mideye taşınmasını sağlayan organ hangisidir?",
-      "options": ["Soluk borusu", "Yemek borusu", "İnce bağırsak", "Kalın bağırsak"],
-      "answer": "B",
+      "options": [
+        "Yemek borusu",
+        "İnce bağırsak",
+        "Kalın bağırsak",
+        "Soluk borusu"
+      ],
+      "answer": "A",
       "explanation": "Yemek borusu, yutulan besinleri ağızdan mideye iletir."
     },
     {
@@ -283,8 +328,13 @@
       "topic": "sindirim",
       "difficulty": 2,
       "q": "Besinlerin mide özsuyu ile karıştırılarak bulamaç hâline getirildiği organ hangisidir?",
-      "options": ["İnce bağırsak", "Yemek borusu", "Mide", "Kalın bağırsak"],
-      "answer": "C",
+      "options": [
+        "İnce bağırsak",
+        "Mide",
+        "Yemek borusu",
+        "Kalın bağırsak"
+      ],
+      "answer": "B",
       "explanation": "Mide, kaslı yapısıyla besinleri mekanik olarak ezer ve mide özsuyu ile karıştırarak bulamaç hâline getirir."
     },
     {
@@ -292,7 +342,12 @@
       "topic": "sindirim",
       "difficulty": 2,
       "q": "Sindirilen besinlerin kana karıştığı (emildiği) organ hangisidir?",
-      "options": ["Mide", "İnce bağırsak", "Kalın bağırsak", "Yemek borusu"],
+      "options": [
+        "Yemek borusu",
+        "İnce bağırsak",
+        "Mide",
+        "Kalın bağırsak"
+      ],
       "answer": "B",
       "explanation": "Sindirim ince bağırsakta tamamlanır ve besinler buradan kana emilir."
     },
@@ -301,8 +356,13 @@
       "topic": "sindirim",
       "difficulty": 2,
       "q": "Sindirilemeyen besin atıklarının suyunun emildiği ve vücuttan atılmak üzere bekletildiği organ hangisidir?",
-      "options": ["Kalın bağırsak", "Mide", "İnce bağırsak", "Yemek borusu"],
-      "answer": "A",
+      "options": [
+        "Yemek borusu",
+        "Kalın bağırsak",
+        "İnce bağırsak",
+        "Mide"
+      ],
+      "answer": "B",
       "explanation": "Kalın bağırsak, sindirilemeyen atıkların suyunu emer; atıklar buradan vücut dışına atılır."
     },
     {
@@ -310,8 +370,13 @@
       "topic": "sindirim",
       "difficulty": 1,
       "q": "Aşağıdakilerden hangisi sindirimde görevli organlardan biri DEĞİLDİR?",
-      "options": ["Mide", "İnce bağırsak", "Akciğer", "Yemek borusu"],
-      "answer": "C",
+      "options": [
+        "Akciğer",
+        "İnce bağırsak",
+        "Yemek borusu",
+        "Mide"
+      ],
+      "answer": "A",
       "explanation": "Akciğer solunum organıdır; sindirimde görev almaz."
     },
     {
@@ -320,12 +385,12 @@
       "difficulty": 3,
       "q": "Sindirimin amacı aşağıdakilerden hangisidir?",
       "options": [
+        "Besinlerin tadını artırmak",
         "Besinleri vücutta depolamak",
-        "Besinleri kanın taşıyabileceği kadar küçük parçalara ayırmak",
         "Besinleri vücuttan dışarı atmak",
-        "Besinlerin tadını artırmak"
+        "Besinleri kanın taşıyabileceği kadar küçük parçalara ayırmak"
       ],
-      "answer": "B",
+      "answer": "D",
       "explanation": "Sindirim, besinlerin hücrelerimizin kullanabileceği ve kana geçebilecek kadar küçük parçalara ayrılmasıdır."
     },
     {
@@ -334,12 +399,12 @@
       "difficulty": 3,
       "q": "Lokmaları iyice çiğnemeden yutan bir kişi için hangisi söylenebilir?",
       "options": [
+        "Midesinin işi zorlaşır, sindirim güçleşir",
         "Sindirimi kolaylaşır",
         "Midesinin işi azalır",
-        "Midesinin işi zorlaşır, sindirim güçleşir",
         "Besinler daha hızlı kana karışır"
       ],
-      "answer": "C",
+      "answer": "A",
       "explanation": "Ağızda iyi çiğnenmeyen besinlerin parçalanması mideye kalır; bu da sindirimi zorlaştırır."
     },
     {
@@ -348,12 +413,12 @@
       "difficulty": 2,
       "q": "Sindirime yardımcı olmak için aşağıdakilerden hangisini yapmalıyız?",
       "options": [
-        "Yemekleri çok hızlı yemek",
-        "Lokmaları iyice çiğnemek",
+        "Çok sıcak yiyecekler yutmak",
         "Yemekten hemen sonra ağır spor yapmak",
-        "Çok sıcak yiyecekler yutmak"
+        "Lokmaları iyice çiğnemek",
+        "Yemekleri çok hızlı yemek"
       ],
-      "answer": "B",
+      "answer": "C",
       "explanation": "Lokmaları iyice çiğnemek sindirimin ağızdaki ilk basamağını güçlendirir ve mideyi rahatlatır."
     },
     {
@@ -361,8 +426,13 @@
       "topic": "disler-dis-sagligi",
       "difficulty": 1,
       "q": "Besinleri koparma ve kesme görevini üstlenen dişler hangileridir?",
-      "options": ["Azı dişleri", "Kesici dişler", "Köpek dişleri", "Yirmi yaş dişleri"],
-      "answer": "B",
+      "options": [
+        "Kesici dişler",
+        "Köpek dişleri",
+        "Yirmi yaş dişleri",
+        "Azı dişleri"
+      ],
+      "answer": "A",
       "explanation": "Ağzımızın ön kısmındaki kesici dişler besinleri koparır ve keser."
     },
     {
@@ -370,8 +440,13 @@
       "topic": "disler-dis-sagligi",
       "difficulty": 1,
       "q": "Besinleri parçalama ve yırtma görevini üstlenen sivri dişler hangileridir?",
-      "options": ["Kesici dişler", "Azı dişleri", "Köpek dişleri", "Süt dişleri"],
-      "answer": "C",
+      "options": [
+        "Köpek dişleri",
+        "Süt dişleri",
+        "Kesici dişler",
+        "Azı dişleri"
+      ],
+      "answer": "A",
       "explanation": "Kesici dişlerin yanındaki sivri köpek dişleri besinleri parçalar ve yırtar."
     },
     {
@@ -379,8 +454,13 @@
       "topic": "disler-dis-sagligi",
       "difficulty": 1,
       "q": "Besinleri öğütme görevini üstlenen dişler hangileridir?",
-      "options": ["Azı dişleri", "Kesici dişler", "Köpek dişleri", "Ön dişler"],
-      "answer": "A",
+      "options": [
+        "Köpek dişleri",
+        "Ön dişler",
+        "Kesici dişler",
+        "Azı dişleri"
+      ],
+      "answer": "D",
       "explanation": "Ağzımızın gerisindeki geniş yüzeyli azı dişleri besinleri öğütür."
     },
     {
@@ -389,12 +469,12 @@
       "difficulty": 2,
       "q": "Diş sağlığını korumak için aşağıdakilerden hangisini yapmalıyız?",
       "options": [
-        "Günde en az iki kez dişleri fırçalamak",
-        "Çok şekerli yiyecekler yemek",
         "Dişlerle fındık, ceviz kırmak",
-        "Sadece ağrı olunca diş hekimine gitmek"
+        "Sadece ağrı olunca diş hekimine gitmek",
+        "Günde en az iki kez dişleri fırçalamak",
+        "Çok şekerli yiyecekler yemek"
       ],
-      "answer": "A",
+      "answer": "C",
       "explanation": "Dişler günde en az iki kez fırçalanmalı, şekerli besinlerden kaçınılmalı ve düzenli diş hekimi kontrolü yapılmalıdır."
     },
     {
@@ -404,11 +484,11 @@
       "q": "Aşağıdakilerden hangisi diş çürümesine en çok yol açan etkenlerden biridir?",
       "options": [
         "Süt içmek",
-        "Şekerli besin artıklarının dişlerde kalması",
+        "Bol su içmek",
         "Elma yemek",
-        "Bol su içmek"
+        "Şekerli besin artıklarının dişlerde kalması"
       ],
-      "answer": "B",
+      "answer": "D",
       "explanation": "Dişlerde kalan şekerli artıklar mikropların çoğalmasına ve dişlerin çürümesine neden olur."
     },
     {
@@ -416,8 +496,13 @@
       "topic": "disler-dis-sagligi",
       "difficulty": 2,
       "q": "Diş sağlığı için diş hekimine ne sıklıkla kontrole gidilmesi önerilir?",
-      "options": ["Yalnızca dişimiz ağrıyınca", "Altı ayda bir", "On yılda bir", "Hiç gerek yoktur"],
-      "answer": "B",
+      "options": [
+        "Yalnızca dişimiz ağrıyınca",
+        "Hiç gerek yoktur",
+        "On yılda bir",
+        "Altı ayda bir"
+      ],
+      "answer": "D",
       "explanation": "Sorun olmasa bile altı ayda bir diş hekimi kontrolü, çürüklerin erken fark edilmesini sağlar."
     },
     {
@@ -425,7 +510,12 @@
       "topic": "disler-dis-sagligi",
       "difficulty": 2,
       "q": "Dişlerin sağlıklı gelişimi için hangi besin içeriği özellikle önemlidir?",
-      "options": ["Kalsiyum", "Yağ", "Şeker", "Tuz"],
+      "options": [
+        "Kalsiyum",
+        "Şeker",
+        "Yağ",
+        "Tuz"
+      ],
       "answer": "A",
       "explanation": "Kalsiyum, diş ve kemiklerin yapısında bulunur; süt ve süt ürünleri kalsiyum bakımından zengindir."
     },
@@ -435,12 +525,12 @@
       "difficulty": 3,
       "q": "Bir öğrenci dişlerini düzenli fırçalıyor ancak sürekli asitli içecek tüketiyor. Bu öğrencinin diş sağlığı için hangisi söylenebilir?",
       "options": [
-        "Dişleri tamamen güvendedir",
         "Asitli içecekler diş minesine zarar verebilir",
-        "Fırçalamaya gerek kalmamıştır",
-        "Asitli içecekler dişleri güçlendirir"
+        "Dişleri tamamen güvendedir",
+        "Asitli içecekler dişleri güçlendirir",
+        "Fırçalamaya gerek kalmamıştır"
       ],
-      "answer": "B",
+      "answer": "A",
       "explanation": "Asitli içecekler diş minesini aşındırır; düzenli fırçalansa bile dişlere zarar verebilir."
     },
     {
@@ -449,12 +539,12 @@
       "difficulty": 3,
       "q": "Yetişkin bir insanın ağzında bulunan diş çeşitleri, ağzın ön kısmından arkaya doğru hangi sırayla dizilir?",
       "options": [
-        "Kesici → köpek → azı",
-        "Azı → köpek → kesici",
+        "Kesici → azı → köpek",
         "Köpek → kesici → azı",
-        "Kesici → azı → köpek"
+        "Kesici → köpek → azı",
+        "Azı → köpek → kesici"
       ],
-      "answer": "A",
+      "answer": "C",
       "explanation": "Önde kesici dişler, yanlarında köpek dişleri, arkada ise azı dişleri bulunur."
     },
     {
@@ -463,12 +553,12 @@
       "difficulty": 1,
       "q": "Aşağıdaki davranışlardan hangisi dişlere zarar verir?",
       "options": [
+        "Yemeklerden sonra ağzı çalkalamak",
         "Yatmadan önce diş fırçalamak",
         "Dişle kabuklu yemiş kırmak",
-        "Diş ipi kullanmak",
-        "Yemeklerden sonra ağzı çalkalamak"
+        "Diş ipi kullanmak"
       ],
-      "answer": "B",
+      "answer": "C",
       "explanation": "Dişle sert cisimleri kırmak dişlerin kırılmasına ve çatlamasına yol açabilir."
     },
     {
@@ -476,7 +566,12 @@
       "topic": "bosaltim",
       "difficulty": 1,
       "q": "Boşaltımda görevli olan ve kanı süzerek idrar oluşturan organ hangisidir?",
-      "options": ["Karaciğer", "Böbrekler", "Mide", "Akciğer"],
+      "options": [
+        "Karaciğer",
+        "Böbrekler",
+        "Akciğer",
+        "Mide"
+      ],
       "answer": "B",
       "explanation": "Böbrekler kanımızı süzerek zararlı maddeleri idrar olarak vücuttan uzaklaştırır."
     },
@@ -487,11 +582,11 @@
       "q": "Boşaltımın temel görevi aşağıdakilerden hangisidir?",
       "options": [
         "Besinleri sindirmek",
-        "Vücutta oluşan zararlı atık maddeleri dışarı atmak",
+        "Kanı vücutta dolaştırmak",
         "Vücuda enerji sağlamak",
-        "Kanı vücutta dolaştırmak"
+        "Vücutta oluşan zararlı atık maddeleri dışarı atmak"
       ],
-      "answer": "B",
+      "answer": "D",
       "explanation": "Boşaltım, vücudun çalışması sonucu oluşan zararlı atık maddelerin vücut dışına atılmasıdır."
     },
     {
@@ -499,8 +594,13 @@
       "topic": "bosaltim",
       "difficulty": 2,
       "q": "Böbreklerde oluşan idrarın vücuttan atılmadan önce toplandığı yapı hangisidir?",
-      "options": ["İdrar kesesi", "Mide", "İnce bağırsak", "Yemek borusu"],
-      "answer": "A",
+      "options": [
+        "Yemek borusu",
+        "Mide",
+        "İnce bağırsak",
+        "İdrar kesesi"
+      ],
+      "answer": "D",
       "explanation": "İdrar, böbreklerden idrar kanallarıyla idrar kesesine gelir ve burada bir süre depolanır."
     },
     {
@@ -508,8 +608,13 @@
       "topic": "bosaltim",
       "difficulty": 2,
       "q": "Terleme yoluyla atık maddelerin atılmasını sağlayan yapı hangisidir?",
-      "options": ["Deri", "Böbrek", "Akciğer", "Mide"],
-      "answer": "A",
+      "options": [
+        "Akciğer",
+        "Mide",
+        "Böbrek",
+        "Deri"
+      ],
+      "answer": "D",
       "explanation": "Deri, terleme yoluyla su ve bazı atık maddelerin vücuttan uzaklaştırılmasını sağlar."
     },
     {
@@ -517,8 +622,13 @@
       "topic": "bosaltim",
       "difficulty": 2,
       "q": "Soluk verirken karbondioksiti ve su buharını vücuttan uzaklaştıran organ hangisidir?",
-      "options": ["Böbrek", "Deri", "Akciğer", "Kalın bağırsak"],
-      "answer": "C",
+      "options": [
+        "Deri",
+        "Akciğer",
+        "Kalın bağırsak",
+        "Böbrek"
+      ],
+      "answer": "B",
       "explanation": "Akciğerler, soluk vermeyle karbondioksit ve su buharının atılmasını sağlayarak boşaltıma yardımcı olur."
     },
     {
@@ -527,12 +637,12 @@
       "difficulty": 3,
       "q": "Sindirilemeyen besin atıklarının kalın bağırsaktan dışarı atılması neden boşaltım sayılmaz?",
       "options": [
-        "Bu atıklar zaten zararsız olduğu için",
-        "Bu atıklar kana karışmadan vücuttan atıldığı için",
         "Kalın bağırsak bir organ olmadığı için",
-        "Bu olay çok hızlı gerçekleştiği için"
+        "Bu atıklar zaten zararsız olduğu için",
+        "Bu olay çok hızlı gerçekleştiği için",
+        "Bu atıklar kana karışmadan vücuttan atıldığı için"
       ],
-      "answer": "B",
+      "answer": "D",
       "explanation": "Boşaltım, vücut faaliyetleri sonucu kanda oluşan atıkların atılmasıdır; sindirilemeyen besinler kana hiç karışmadan atılır."
     },
     {
@@ -541,12 +651,12 @@
       "difficulty": 2,
       "q": "Böbrek sağlığımızı korumak için aşağıdakilerden hangisini yapmalıyız?",
       "options": [
-        "Günde yeterli miktarda su içmek",
         "Çok tuzlu yiyecekler yemek",
+        "Hiç su içmemek",
         "İdrarı uzun süre tutmak",
-        "Hiç su içmemek"
+        "Günde yeterli miktarda su içmek"
       ],
-      "answer": "A",
+      "answer": "D",
       "explanation": "Bol su içmek böbreklerin atık maddeleri kolayca süzmesine yardımcı olur; tuzu azaltmak ve idrarı tutmamak da önemlidir."
     },
     {
@@ -554,7 +664,12 @@
       "topic": "bosaltim",
       "difficulty": 2,
       "q": "Aşağıdakilerden hangisi boşaltımda görevli yapı ve organlardan biri DEĞİLDİR?",
-      "options": ["Böbrekler", "Deri", "Akciğerler", "Mide"],
+      "options": [
+        "Böbrekler",
+        "Deri",
+        "Akciğerler",
+        "Mide"
+      ],
       "answer": "D",
       "explanation": "Mide sindirim organıdır. Böbrekler, deri ve akciğerler atık maddelerin atılmasında görev alır."
     },
@@ -564,12 +679,12 @@
       "difficulty": 3,
       "q": "Böbrekleri sağlığını kaybeden bir kişide aşağıdakilerden hangisi görülebilir?",
       "options": [
-        "Atık maddeler kanda birikir, sağlık bozulur",
-        "Vücut daha sağlıklı çalışır",
         "Sindirim hızlanır",
-        "Hiçbir değişiklik olmaz"
+        "Hiçbir değişiklik olmaz",
+        "Vücut daha sağlıklı çalışır",
+        "Atık maddeler kanda birikir, sağlık bozulur"
       ],
-      "answer": "A",
+      "answer": "D",
       "explanation": "Böbrekler çalışmazsa zararlı atıklar kandan temizlenemez ve vücutta birikerek sağlığı ciddi şekilde bozar."
     },
     {
@@ -577,8 +692,13 @@
       "topic": "bosaltim",
       "difficulty": 1,
       "q": "Sıcak bir günde koşan bir çocuğun vücudu hangi boşaltım yoluyla su ve atık madde kaybeder?",
-      "options": ["Terleme", "Sindirim", "Çiğneme", "Yutma"],
-      "answer": "A",
+      "options": [
+        "Yutma",
+        "Terleme",
+        "Çiğneme",
+        "Sindirim"
+      ],
+      "answer": "B",
       "explanation": "Koşarken vücut ısınır ve deri terleme yoluyla su ile bazı atık maddeleri dışarı atar."
     },
     {
@@ -586,8 +706,13 @@
       "topic": "kuvvet-nedir",
       "difficulty": 1,
       "q": "Cisimlere uygulanan itme ve çekmeye ne ad verilir?",
-      "options": ["Enerji", "Kuvvet", "Hız", "Hareket"],
-      "answer": "B",
+      "options": [
+        "Kuvvet",
+        "Enerji",
+        "Hız",
+        "Hareket"
+      ],
+      "answer": "A",
       "explanation": "Kuvvet, cisimlere uygulanan itme veya çekmedir."
     },
     {
@@ -610,12 +735,12 @@
       "difficulty": 2,
       "q": "Kuvvet uygulanan bir cisimde aşağıdakilerden hangisi GERÇEKLEŞMEZ?",
       "options": [
-        "Cisim hareket edebilir",
+        "Cismin maddesi yok olur",
         "Cismin şekli değişebilir",
         "Cismin yönü değişebilir",
-        "Cismin maddesi yok olur"
+        "Cisim hareket edebilir"
       ],
-      "answer": "D",
+      "answer": "A",
       "explanation": "Kuvvet cisimleri hareket ettirebilir, durdurabilir, yönünü veya şeklini değiştirebilir; ama maddeyi yok edemez."
     },
     {
@@ -624,12 +749,12 @@
       "difficulty": 2,
       "q": "Oyun hamuruna elimizle bastırdığımızda hamurun şeklinin değişmesi, kuvvetin hangi etkisine örnektir?",
       "options": [
-        "Hareket ettirme etkisine",
-        "Şekil değiştirme etkisine",
+        "Yön değiştirme etkisine",
         "Durdurma etkisine",
-        "Yön değiştirme etkisine"
+        "Şekil değiştirme etkisine",
+        "Hareket ettirme etkisine"
       ],
-      "answer": "B",
+      "answer": "C",
       "explanation": "Kuvvet, cisimlerin şeklini değiştirebilir; hamura bastırmak bunun tipik örneğidir."
     },
     {
@@ -638,12 +763,12 @@
       "difficulty": 2,
       "q": "Kaleciye doğru gelen topun kaleci tarafından tutulması, kuvvetin hangi etkisine örnektir?",
       "options": [
-        "Hareketi başlatma",
-        "Hareketi durdurma",
         "Şekil değiştirme",
-        "Hızlandırma"
+        "Hızlandırma",
+        "Hareketi durdurma",
+        "Hareketi başlatma"
       ],
-      "answer": "B",
+      "answer": "C",
       "explanation": "Kaleci topa kuvvet uygulayarak hareketini durdurur."
     },
     {
@@ -652,9 +777,9 @@
       "difficulty": 2,
       "q": "Mıknatısın demir tozlarını çekmesi hangi tür kuvvete örnektir?",
       "options": [
-        "Temas gerektiren kuvvet",
-        "Temas gerektirmeyen kuvvet",
         "Sürtünme kuvveti",
+        "Temas gerektirmeyen kuvvet",
+        "Temas gerektiren kuvvet",
         "Kas kuvveti"
       ],
       "answer": "B",
@@ -665,8 +790,13 @@
       "topic": "kuvvet-nedir",
       "difficulty": 2,
       "q": "Dalından kopan elmanın yere düşmesine neden olan kuvvet hangisidir?",
-      "options": ["Yer çekimi kuvveti", "Sürtünme kuvveti", "Mıknatıs kuvveti", "Kas kuvveti"],
-      "answer": "A",
+      "options": [
+        "Sürtünme kuvveti",
+        "Yer çekimi kuvveti",
+        "Kas kuvveti",
+        "Mıknatıs kuvveti"
+      ],
+      "answer": "B",
       "explanation": "Dünya, cisimleri merkezine doğru çeker; elmayı düşüren yer çekimi kuvvetidir ve temas gerektirmez."
     },
     {
@@ -674,8 +804,13 @@
       "topic": "kuvvet-nedir",
       "difficulty": 3,
       "q": "Fiziksel temas OLMADAN cisimleri hareket ettirebilen bir düzenek kurmak isteyen öğrenci hangisini kullanmalıdır?",
-      "options": ["Yay", "Mıknatıs", "İp", "Çubuk"],
-      "answer": "B",
+      "options": [
+        "Çubuk",
+        "Yay",
+        "Mıknatıs",
+        "İp"
+      ],
+      "answer": "C",
       "explanation": "Mıknatıs, demir ve benzeri maddeleri dokunmadan çekebilir; temassız kuvvet için en uygun araçtır."
     },
     {
@@ -683,7 +818,12 @@
       "topic": "kuvvet-nedir",
       "difficulty": 1,
       "q": "Aşağıdaki oyunlardan hangisinde hem itme hem çekme kuvveti birlikte kullanılır?",
-      "options": ["Halat çekme", "Salıncak sallama", "Bilye fırlatma", "Top yuvarlama"],
+      "options": [
+        "Top yuvarlama",
+        "Salıncak sallama",
+        "Halat çekme",
+        "Bilye fırlatma"
+      ],
       "answer": "B",
       "explanation": "Salıncağı sallarken hem iteriz hem geri gelirken çekeriz; halat çekmede yalnızca çekme uygulanır."
     },
@@ -693,12 +833,12 @@
       "difficulty": 3,
       "q": "Rüzgârın yelkenli tekneyi hareket ettirmesi ile ilgili hangisi doğrudur?",
       "options": [
+        "Tekne kendi kendine hareket eder",
         "Rüzgâr yelkene itme kuvveti uygular",
-        "Rüzgâr yelkene çekme kuvveti uygular",
         "Rüzgârın kuvveti yoktur",
-        "Tekne kendi kendine hareket eder"
+        "Rüzgâr yelkene çekme kuvveti uygular"
       ],
-      "answer": "A",
+      "answer": "B",
       "explanation": "Rüzgâr, yelkene çarparak itme kuvveti uygular ve tekneyi hareket ettirir."
     },
     {
@@ -706,8 +846,13 @@
       "topic": "kuvvet-olcme",
       "difficulty": 1,
       "q": "Kuvvetin büyüklüğünü ölçmek için kullanılan araç hangisidir?",
-      "options": ["Termometre", "Dinamometre", "Cetvel", "Saat"],
-      "answer": "B",
+      "options": [
+        "Termometre",
+        "Saat",
+        "Dinamometre",
+        "Cetvel"
+      ],
+      "answer": "C",
       "explanation": "Kuvvet dinamometre ile ölçülür; dinamometrenin içinde esneyebilen bir yay bulunur."
     },
     {
@@ -716,12 +861,12 @@
       "difficulty": 2,
       "q": "Dinamometrenin çalışma ilkesi neye dayanır?",
       "options": [
-        "Yayların kuvvet uygulandığında esnemesine",
         "Suyun kaldırma kuvvetine",
         "Mıknatısın çekim kuvvetine",
+        "Yayların kuvvet uygulandığında esnemesine",
         "Havanın sıcaklığına"
       ],
-      "answer": "A",
+      "answer": "C",
       "explanation": "Dinamometredeki yay, uygulanan kuvvet büyüdükçe daha çok uzar; bu uzamadan kuvvetin büyüklüğü okunur."
     },
     {
@@ -729,7 +874,12 @@
       "topic": "kuvvet-olcme",
       "difficulty": 2,
       "q": "Kuvvetin birimi aşağıdakilerden hangisidir?",
-      "options": ["Kilogram", "Metre", "Newton", "Litre"],
+      "options": [
+        "Metre",
+        "Kilogram",
+        "Newton",
+        "Litre"
+      ],
       "answer": "C",
       "explanation": "Kuvvet birimi Newton'dur; adını bilim insanı Isaac Newton'dan alır."
     },
@@ -739,12 +889,12 @@
       "difficulty": 2,
       "q": "Kütle ile ilgili aşağıdakilerden hangisi doğrudur?",
       "options": [
-        "Bir cismin değişmeyen madde miktarıdır",
         "Yer çekimi kuvvetinin büyüklüğüdür",
-        "Dinamometre ile ölçülür",
-        "Ay'da Dünya'dakinden küçüktür"
+        "Bir cismin değişmeyen madde miktarıdır",
+        "Ay'da Dünya'dakinden küçüktür",
+        "Dinamometre ile ölçülür"
       ],
-      "answer": "A",
+      "answer": "B",
       "explanation": "Kütle, cismin madde miktarıdır ve nerede olursa olsun değişmez; eşit kollu terazi ile ölçülür."
     },
     {
@@ -754,9 +904,9 @@
       "q": "Ağırlık ile ilgili aşağıdakilerden hangisi doğrudur?",
       "options": [
         "Cisme etki eden yer çekimi kuvvetidir",
-        "Cismin madde miktarıdır",
         "Hiçbir yerde değişmez",
-        "Eşit kollu terazi ile ölçülür"
+        "Eşit kollu terazi ile ölçülür",
+        "Cismin madde miktarıdır"
       ],
       "answer": "A",
       "explanation": "Ağırlık, cisme etki eden yer çekimi kuvvetidir; dinamometre ile ölçülür ve bulunulan yere göre değişebilir."
@@ -767,10 +917,10 @@
       "difficulty": 3,
       "q": "Dünya'dan Ay'a giden bir astronot için aşağıdakilerden hangisi doğrudur?",
       "options": [
-        "Kütlesi de ağırlığı da değişir",
+        "Kütlesi de ağırlığı da değişmez",
         "Kütlesi değişmez, ağırlığı azalır",
-        "Kütlesi azalır, ağırlığı değişmez",
-        "Kütlesi de ağırlığı da değişmez"
+        "Kütlesi de ağırlığı da değişir",
+        "Kütlesi azalır, ağırlığı değişmez"
       ],
       "answer": "B",
       "explanation": "Madde miktarı (kütle) her yerde aynıdır; Ay'ın çekim kuvveti Dünya'nınkinden az olduğu için ağırlık azalır."
@@ -780,8 +930,13 @@
       "topic": "kuvvet-olcme",
       "difficulty": 2,
       "q": "Kütleyi ölçmek için hangi araç kullanılır?",
-      "options": ["Dinamometre", "Eşit kollu terazi", "Termometre", "Açıölçer"],
-      "answer": "B",
+      "options": [
+        "Eşit kollu terazi",
+        "Açıölçer",
+        "Dinamometre",
+        "Termometre"
+      ],
+      "answer": "A",
       "explanation": "Kütle eşit kollu terazi ile ölçülür; dinamometre ise kuvveti (ağırlığı) ölçer."
     },
     {
@@ -790,12 +945,12 @@
       "difficulty": 3,
       "q": "Bir öğrenci aynı cismi iki farklı dinamometreyle ölçtüğünde aynı değeri, ancak dağın zirvesinde ölçtüğünde biraz daha küçük bir değer okuyor. Bunun nedeni hangisidir?",
       "options": [
-        "Cismin kütlesinin artması",
-        "Yer çekimi etkisinin yükseklere çıkıldıkça azalması",
+        "Cismin maddesinin değişmesi",
         "Dinamometrenin bozulması",
-        "Cismin maddesinin değişmesi"
+        "Yer çekimi etkisinin yükseklere çıkıldıkça azalması",
+        "Cismin kütlesinin artması"
       ],
-      "answer": "B",
+      "answer": "C",
       "explanation": "Yükseklere çıkıldıkça yer çekiminin etkisi azalır; bu yüzden ağırlık küçülür ama kütle aynı kalır."
     },
     {
@@ -803,7 +958,12 @@
       "topic": "kuvvet-olcme",
       "difficulty": 1,
       "q": "Basit bir dinamometre yapmak isteyen öğrencinin mutlaka kullanması gereken malzeme hangisidir?",
-      "options": ["Yay (veya lastik)", "Mıknatıs", "Ayna", "Pil"],
+      "options": [
+        "Yay (veya lastik)",
+        "Ayna",
+        "Mıknatıs",
+        "Pil"
+      ],
       "answer": "A",
       "explanation": "Dinamometre, kuvvet uygulanınca esneyen bir yay veya lastiğin uzamasıyla çalışır."
     },
@@ -812,8 +972,13 @@
       "topic": "kuvvet-olcme",
       "difficulty": 2,
       "q": "Bir dinamometreye asılan cisim yayı 2 cm uzatıyor. Aynı cinsten iki cisim birlikte asılırsa yaydaki uzama için ne beklenir?",
-      "options": ["Değişmez", "Yaklaşık 4 cm olur", "Yaklaşık 1 cm olur", "Yay hiç uzamaz"],
-      "answer": "B",
+      "options": [
+        "Değişmez",
+        "Yay hiç uzamaz",
+        "Yaklaşık 4 cm olur",
+        "Yaklaşık 1 cm olur"
+      ],
+      "answer": "C",
       "explanation": "Uygulanan kuvvet iki katına çıkınca yaydaki uzama da yaklaşık iki katına çıkar."
     },
     {
@@ -822,12 +987,12 @@
       "difficulty": 1,
       "q": "Sürtünme kuvveti ile ilgili aşağıdakilerden hangisi doğrudur?",
       "options": [
-        "Hareketi her zaman hızlandırır",
         "Harekete karşı koyan bir temas kuvvetidir",
+        "Sadece havada görülür",
         "Temas gerektirmeyen bir kuvvettir",
-        "Sadece havada görülür"
+        "Hareketi her zaman hızlandırır"
       ],
-      "answer": "B",
+      "answer": "A",
       "explanation": "Sürtünme, birbirine temas eden yüzeyler arasında oluşur ve cismin hareketine karşı koyar."
     },
     {
@@ -835,8 +1000,13 @@
       "topic": "surtunme-kuvveti",
       "difficulty": 1,
       "q": "Aşağıdaki yüzeylerin hangisinde itilen bir cisim en uzağa gider?",
-      "options": ["Halı", "Kumlu zemin", "Buz", "Çimen"],
-      "answer": "C",
+      "options": [
+        "Halı",
+        "Buz",
+        "Çimen",
+        "Kumlu zemin"
+      ],
+      "answer": "B",
       "explanation": "Buz gibi kaygan (pürüzsüz) yüzeylerde sürtünme kuvveti azdır; cisim daha uzağa gider."
     },
     {
@@ -845,12 +1015,12 @@
       "difficulty": 2,
       "q": "Pürüzlü yüzeylerde sürtünme kuvveti için hangisi söylenebilir?",
       "options": [
-        "Pürüzsüz yüzeylerden daha büyüktür",
         "Pürüzsüz yüzeylerden daha küçüktür",
-        "Hiç yoktur",
-        "Yüzeyle ilgisi yoktur"
+        "Pürüzsüz yüzeylerden daha büyüktür",
+        "Yüzeyle ilgisi yoktur",
+        "Hiç yoktur"
       ],
-      "answer": "A",
+      "answer": "B",
       "explanation": "Yüzey pürüzlendikçe sürtünme kuvveti artar; bu yüzden halıda topu yuvarlamak buza göre zordur."
     },
     {
@@ -858,8 +1028,13 @@
       "topic": "surtunme-kuvveti",
       "difficulty": 2,
       "q": "Suda hareket eden cisimlere etki eden sürtünme kuvvetine ne ad verilir?",
-      "options": ["Hava direnci", "Su direnci", "Yer çekimi", "Kaldırma kuvveti olmayan itme"],
-      "answer": "B",
+      "options": [
+        "Hava direnci",
+        "Yer çekimi",
+        "Su direnci",
+        "Kaldırma kuvveti olmayan itme"
+      ],
+      "answer": "C",
       "explanation": "Suyun, içinde hareket eden cisimlere uyguladığı sürtünme kuvvetine su direnci denir."
     },
     {
@@ -867,8 +1042,13 @@
       "topic": "surtunme-kuvveti",
       "difficulty": 2,
       "q": "Havada hareket eden cisimlere etki eden sürtünme kuvvetine ne ad verilir?",
-      "options": ["Su direnci", "Hava direnci", "Mıknatıs kuvveti", "Esneklik kuvveti"],
-      "answer": "B",
+      "options": [
+        "Su direnci",
+        "Mıknatıs kuvveti",
+        "Hava direnci",
+        "Esneklik kuvveti"
+      ],
+      "answer": "C",
       "explanation": "Havanın, içinde hareket eden cisimlere uyguladığı sürtünme kuvvetine hava direnci denir."
     },
     {
@@ -876,8 +1056,13 @@
       "topic": "surtunme-kuvveti",
       "difficulty": 2,
       "q": "Paraşütün yavaşça yere inmesini sağlayan kuvvet hangisidir?",
-      "options": ["Hava direnci", "Su direnci", "Mıknatıs kuvveti", "İtme kuvveti"],
-      "answer": "A",
+      "options": [
+        "Su direnci",
+        "İtme kuvveti",
+        "Mıknatıs kuvveti",
+        "Hava direnci"
+      ],
+      "answer": "D",
       "explanation": "Paraşütün geniş yüzeyi hava direncini artırır; bu kuvvet düşmeyi yavaşlatır."
     },
     {
@@ -886,12 +1071,12 @@
       "difficulty": 2,
       "q": "Balık ve gemilerin ön kısımlarının sivri yapılması neyi amaçlar?",
       "options": [
-        "Su direncini azaltmayı",
-        "Su direncini artırmayı",
         "Ağırlığı artırmayı",
-        "Yer çekimini azaltmayı"
+        "Yer çekimini azaltmayı",
+        "Su direncini azaltmayı",
+        "Su direncini artırmayı"
       ],
-      "answer": "A",
+      "answer": "C",
       "explanation": "Sivri (akıcı) biçim, suyun gösterdiği direnci azaltır ve hareketi kolaylaştırır."
     },
     {
@@ -900,10 +1085,10 @@
       "difficulty": 3,
       "q": "Aşağıdakilerden hangisinde sürtünme kuvvetinin YARARLI bir etkisi vardır?",
       "options": [
-        "Araba lastiklerinin zamanla aşınması",
+        "Ayakkabı tabanlarının eskimesi",
         "Yürürken ayağımızın yere kaymadan basması",
-        "Makine parçalarının ısınması",
-        "Ayakkabı tabanlarının eskimesi"
+        "Araba lastiklerinin zamanla aşınması",
+        "Makine parçalarının ısınması"
       ],
       "answer": "B",
       "explanation": "Sürtünme olmasaydı yürüyemezdik; ayağımızın kaymadan yere tutunmasını sürtünme sağlar. Aşınma ve ısınma ise zararlı etkilerdir."
@@ -916,8 +1101,8 @@
       "options": [
         "Yolu temizlemek",
         "Sürtünmeyi artırarak kaymayı önlemek",
-        "Sürtünmeyi azaltarak araçları hızlandırmak",
-        "Buzu güzelleştirmek"
+        "Buzu güzelleştirmek",
+        "Sürtünmeyi azaltarak araçları hızlandırmak"
       ],
       "answer": "B",
       "explanation": "Kum ve tuz yüzeyi pürüzlendirir; artan sürtünme araçların ve yayaların kaymasını önler."
@@ -929,8 +1114,8 @@
       "q": "Aynı top sırasıyla halı, parke ve buz üzerinde aynı kuvvetle itiliyor. Topun aldığı yolun çoktan aza sıralanışı hangisidir?",
       "options": [
         "Buz > parke > halı",
-        "Halı > parke > buz",
         "Parke > buz > halı",
+        "Halı > parke > buz",
         "Halı > buz > parke"
       ],
       "answer": "A",
@@ -941,8 +1126,13 @@
       "topic": "hal-degisimi",
       "difficulty": 1,
       "q": "Katı bir maddenin ısı alarak sıvı hâle geçmesine ne ad verilir?",
-      "options": ["Donma", "Erime", "Buharlaşma", "Yoğuşma"],
-      "answer": "B",
+      "options": [
+        "Erime",
+        "Donma",
+        "Yoğuşma",
+        "Buharlaşma"
+      ],
+      "answer": "A",
       "explanation": "Katı maddeler ısı aldıklarında erir; örneğin buz ısınınca su olur."
     },
     {
@@ -950,8 +1140,13 @@
       "topic": "hal-degisimi",
       "difficulty": 1,
       "q": "Sıvı bir maddenin ısı vererek katı hâle geçmesine ne ad verilir?",
-      "options": ["Erime", "Buharlaşma", "Donma", "Kaynama"],
-      "answer": "C",
+      "options": [
+        "Donma",
+        "Buharlaşma",
+        "Kaynama",
+        "Erime"
+      ],
+      "answer": "A",
       "explanation": "Sıvılar ısı verdiklerinde donar; örneğin su, buzlukta ısı vererek buz olur."
     },
     {
@@ -959,8 +1154,13 @@
       "topic": "hal-degisimi",
       "difficulty": 1,
       "q": "Sıvı bir maddenin ısı alarak gaz hâline geçmesine ne ad verilir?",
-      "options": ["Yoğuşma", "Donma", "Erime", "Buharlaşma"],
-      "answer": "D",
+      "options": [
+        "Buharlaşma",
+        "Yoğuşma",
+        "Erime",
+        "Donma"
+      ],
+      "answer": "A",
       "explanation": "Sıvılar ısı aldıklarında buharlaşarak gaz hâline geçer."
     },
     {
@@ -968,8 +1168,13 @@
       "topic": "hal-degisimi",
       "difficulty": 2,
       "q": "Su buharının soğuk bir yüzeye değdiğinde su damlacıklarına dönüşmesine ne ad verilir?",
-      "options": ["Yoğuşma", "Buharlaşma", "Erime", "Donma"],
-      "answer": "A",
+      "options": [
+        "Erime",
+        "Buharlaşma",
+        "Donma",
+        "Yoğuşma"
+      ],
+      "answer": "D",
       "explanation": "Gaz hâlindeki maddenin ısı vererek sıvıya dönüşmesi yoğuşmadır; soğuk camın buğulanması buna örnektir."
     },
     {
@@ -977,8 +1182,13 @@
       "topic": "hal-degisimi",
       "difficulty": 2,
       "q": "Aşağıdaki olaylardan hangisinde madde ısı VERİR?",
-      "options": ["Buzun erimesi", "Suyun buharlaşması", "Suyun donması", "Buzun su olması"],
-      "answer": "C",
+      "options": [
+        "Suyun donması",
+        "Suyun buharlaşması",
+        "Buzun su olması",
+        "Buzun erimesi"
+      ],
+      "answer": "A",
       "explanation": "Donma ve yoğuşma sırasında madde ısı verir; erime ve buharlaşmada ise ısı alır."
     },
     {
@@ -986,7 +1196,12 @@
       "topic": "hal-degisimi",
       "difficulty": 2,
       "q": "Sıcak çorbanın üzerinde gördüğümüz buhar hangi hâl değişiminin sonucudur?",
-      "options": ["Donma", "Buharlaşma", "Erime", "Hal değişimi yoktur"],
+      "options": [
+        "Erime",
+        "Buharlaşma",
+        "Hal değişimi yoktur",
+        "Donma"
+      ],
       "answer": "B",
       "explanation": "Sıcak çorbadaki su ısı alarak buharlaşır; gördüğümüz buhar bunun sonucudur."
     },
@@ -996,12 +1211,12 @@
       "difficulty": 2,
       "q": "Dondurulmuş besinlerle ilgili aşağıdakilerden hangisi doğrudur?",
       "options": [
-        "Çözündükten sonra tekrar dondurulabilirler",
         "Çözündükten sonra tekrar dondurulmamalıdırlar",
+        "Buzdolabına gerek kalmadan saklanırlar",
         "Hiç bozulmazlar",
-        "Buzdolabına gerek kalmadan saklanırlar"
+        "Çözündükten sonra tekrar dondurulabilirler"
       ],
-      "answer": "B",
+      "answer": "A",
       "explanation": "Çözünen besinlerde mikroplar çoğalmaya başlar; tekrar dondurulursa sağlığa zararlı olabilir."
     },
     {
@@ -1010,12 +1225,12 @@
       "difficulty": 3,
       "q": "Yazın dışarıda bırakılan dondurmanın erimesi ile ilgili hangisi doğrudur?",
       "options": [
-        "Dondurma çevresine ısı verir",
         "Dondurma çevresinden ısı alır",
         "Dondurmanın sıcaklığı hiç değişmez",
-        "Dondurma gaz hâline geçer"
+        "Dondurma gaz hâline geçer",
+        "Dondurma çevresine ısı verir"
       ],
-      "answer": "B",
+      "answer": "A",
       "explanation": "Erime, ısı alma olayıdır; dondurma sıcak havadan ısı alarak erir."
     },
     {
@@ -1024,12 +1239,12 @@
       "difficulty": 3,
       "q": "Kışın araç camlarının iç yüzeyinin buğulanmasının nedeni hangisidir?",
       "options": [
-        "Araçtaki su buharının soğuk camda yoğuşması",
-        "Camın erimeye başlaması",
         "Camın buharlaşması",
+        "Camın erimeye başlaması",
+        "Araçtaki su buharının soğuk camda yoğuşması",
         "Dış havadaki suyun donması"
       ],
-      "answer": "A",
+      "answer": "C",
       "explanation": "Araç içindeki nemli ve sıcak hava, soğuk cama değince içindeki su buharı yoğuşur ve cam buğulanır."
     },
     {
@@ -1037,7 +1252,12 @@
       "topic": "hal-degisimi",
       "difficulty": 2,
       "q": "Islak çamaşırların asılınca zamanla kuruması hangi olayla açıklanır?",
-      "options": ["Donma", "Yoğuşma", "Buharlaşma", "Erime"],
+      "options": [
+        "Donma",
+        "Yoğuşma",
+        "Buharlaşma",
+        "Erime"
+      ],
       "answer": "C",
       "explanation": "Çamaşırlardaki su, çevreden ısı alarak buharlaşır ve çamaşırlar kurur."
     },
@@ -1046,8 +1266,13 @@
       "topic": "ayirt-edici-ozellikler",
       "difficulty": 1,
       "q": "Aşağıdakilerden hangisi maddeler için ayırt edici bir özelliktir?",
-      "options": ["Kütle", "Hacim", "Kaynama noktası", "Renk yoğunluğu"],
-      "answer": "C",
+      "options": [
+        "Kaynama noktası",
+        "Renk yoğunluğu",
+        "Kütle",
+        "Hacim"
+      ],
+      "answer": "A",
       "explanation": "Erime, donma ve kaynama noktaları maddeden maddeye değişir ve maddeleri tanımamızı sağlar; kütle ve hacim ayırt edici değildir."
     },
     {
@@ -1055,8 +1280,13 @@
       "topic": "ayirt-edici-ozellikler",
       "difficulty": 1,
       "q": "Saf su kaç derecede kaynar?",
-      "options": ["0", "50", "100", "150"],
-      "answer": "C",
+      "options": [
+        "0",
+        "100",
+        "150",
+        "50"
+      ],
+      "answer": "B",
       "explanation": "Deniz seviyesinde saf su 100 derecede kaynar; bu, suyun ayırt edici özelliklerindendir."
     },
     {
@@ -1064,8 +1294,13 @@
       "topic": "ayirt-edici-ozellikler",
       "difficulty": 1,
       "q": "Saf su kaç derecede donar?",
-      "options": ["0", "10", "100", "-50"],
-      "answer": "A",
+      "options": [
+        "10",
+        "0",
+        "-50",
+        "100"
+      ],
+      "answer": "B",
       "explanation": "Saf su 0 derecede donar; buz da 0 derecede erimeye başlar."
     },
     {
@@ -1074,12 +1309,12 @@
       "difficulty": 2,
       "q": "Kaynamakta olan suyun sıcaklığı için aşağıdakilerden hangisi doğrudur?",
       "options": [
-        "Kaynama süresince artar",
         "Kaynama süresince sabit kalır",
+        "Kaynama süresince artar",
         "Kaynama süresince azalır",
         "Önce artar sonra azalır"
       ],
-      "answer": "B",
+      "answer": "A",
       "explanation": "Kaynama boyunca verilen ısı hâl değişimine harcanır; suyun sıcaklığı 100 derecede sabit kalır."
     },
     {
@@ -1088,12 +1323,12 @@
       "difficulty": 2,
       "q": "Aynı maddenin erime sıcaklığı ile donma sıcaklığı arasındaki ilişki nedir?",
       "options": [
+        "Aralarında ilişki yoktur",
         "Erime sıcaklığı her zaman daha büyüktür",
         "Donma sıcaklığı her zaman daha büyüktür",
-        "Birbirine eşittir",
-        "Aralarında ilişki yoktur"
+        "Birbirine eşittir"
       ],
-      "answer": "C",
+      "answer": "D",
       "explanation": "Bir maddenin erime ve donma sıcaklıkları eşittir; örneğin su için ikisi de 0 derecedir."
     },
     {
@@ -1102,12 +1337,12 @@
       "difficulty": 2,
       "q": "Bir kapta 1 litre, diğer kapta 2 litre saf su aynı anda ısıtılıyor. Bu sularla ilgili hangisi doğrudur?",
       "options": [
-        "İkisi de 100 derecede kaynar, ama 2 litre su daha geç kaynar",
+        "İkisi de aynı sürede kaynar",
         "2 litre su daha yüksek sıcaklıkta kaynar",
         "1 litre su daha yüksek sıcaklıkta kaynar",
-        "İkisi de aynı sürede kaynar"
+        "İkisi de 100 derecede kaynar, ama 2 litre su daha geç kaynar"
       ],
-      "answer": "A",
+      "answer": "D",
       "explanation": "Madde miktarı kaynama noktasını değiştirmez ama kaynama süresini değiştirir; çok olan su daha geç kaynar."
     },
     {
@@ -1116,12 +1351,12 @@
       "difficulty": 3,
       "q": "Renksiz bir sıvının hangi sıvı olduğunu anlamak isteyen bir öğrenci aşağıdakilerden hangisini yapmalıdır?",
       "options": [
-        "Sıvının kütlesini ölçmeli",
-        "Sıvının hacmini ölçmeli",
         "Sıvının kaynama ve donma sıcaklıklarını ölçmeli",
+        "Sıvının hacmini ölçmeli",
+        "Sıvının kütlesini ölçmeli",
         "Sıvıyı başka kaba aktarmalı"
       ],
-      "answer": "C",
+      "answer": "A",
       "explanation": "Kaynama ve donma sıcaklıkları ayırt edici özelliktir; ölçülen değerler hangi sıvı olduğunu gösterir."
     },
     {
@@ -1130,12 +1365,12 @@
       "difficulty": 3,
       "q": "Bilimsel bir ölçme deneyi aynı şartlarda farklı bir günde tekrarlanırsa sonuç için ne beklenir?",
       "options": [
-        "Aynı sonuçların çıkması",
-        "Tamamen farklı sonuçların çıkması",
         "Sonucun her seferinde artması",
+        "Tamamen farklı sonuçların çıkması",
+        "Aynı sonuçların çıkması",
         "Deneyin sonuç vermemesi"
       ],
-      "answer": "A",
+      "answer": "C",
       "explanation": "Bilimsel ölçmeler aynı şartlarda tekrarlandığında yer ve zaman değişse de aynı sonuçları verir."
     },
     {
@@ -1144,12 +1379,12 @@
       "difficulty": 2,
       "q": "Erimekte olan buz parçasının sıcaklığı erime tamamlanana kadar nasıl değişir?",
       "options": [
-        "Sürekli artar",
         "0 derecede sabit kalır",
         "Sürekli azalır",
+        "Sürekli artar",
         "100 dereceye çıkar"
       ],
-      "answer": "B",
+      "answer": "A",
       "explanation": "Hâl değişimi sırasında sıcaklık değişmez; buz tamamen eriyene kadar sıcaklık 0 derecede kalır."
     },
     {
@@ -1158,12 +1393,12 @@
       "difficulty": 2,
       "q": "Aşağıdakilerden hangisi suyun ayırt edici özelliklerinden biri DEĞİLDİR?",
       "options": [
-        "100 derecede kaynaması",
         "0 derecede donması",
-        "Buzunun 0 derecede erimesi",
-        "Bir bardağa konulduğunda bardağın şeklini alması"
+        "100 derecede kaynaması",
+        "Bir bardağa konulduğunda bardağın şeklini alması",
+        "Buzunun 0 derecede erimesi"
       ],
-      "answer": "D",
+      "answer": "C",
       "explanation": "Kabın şeklini almak tüm sıvıların ortak özelliğidir; ayırt edici olan erime, donma ve kaynama sıcaklıklarıdır."
     },
     {
@@ -1171,8 +1406,13 @@
       "topic": "isi-ve-sicaklik",
       "difficulty": 1,
       "q": "Dünyamızın en büyük ısı ve ışık kaynağı hangisidir?",
-      "options": ["Ay", "Güneş", "Yıldızlar", "Şimşek"],
-      "answer": "B",
+      "options": [
+        "Şimşek",
+        "Yıldızlar",
+        "Güneş",
+        "Ay"
+      ],
+      "answer": "C",
       "explanation": "Güneş, Dünya'nın en büyük doğal ısı ve ışık kaynağıdır."
     },
     {
@@ -1180,8 +1420,13 @@
       "topic": "isi-ve-sicaklik",
       "difficulty": 1,
       "q": "Aşağıdakilerden hangisi ısınmak için kullanılan yakıtlardan biri DEĞİLDİR?",
-      "options": ["Odun", "Kömür", "Doğal gaz", "Su"],
-      "answer": "D",
+      "options": [
+        "Odun",
+        "Kömür",
+        "Su",
+        "Doğal gaz"
+      ],
+      "answer": "C",
       "explanation": "Odun, kömür ve doğal gaz yanarak ısı verir; su bir yakıt değildir."
     },
     {
@@ -1189,7 +1434,12 @@
       "topic": "isi-ve-sicaklik",
       "difficulty": 2,
       "q": "Sıcaklığı ölçmek için kullanılan araç hangisidir?",
-      "options": ["Dinamometre", "Termometre", "Terazi", "Cetvel"],
+      "options": [
+        "Dinamometre",
+        "Termometre",
+        "Terazi",
+        "Cetvel"
+      ],
       "answer": "B",
       "explanation": "Sıcaklık termometre ile ölçülür."
     },
@@ -1199,12 +1449,12 @@
       "difficulty": 2,
       "q": "Isı ve sıcaklık ile ilgili aşağıdakilerden hangisi doğrudur?",
       "options": [
+        "Sıcaklık bir enerji türüdür",
         "Isı ve sıcaklık aynı kavramlardır",
         "Isı bir enerji türüdür, sıcaklık ise ölçülen bir değerdir",
-        "Sıcaklık bir enerji türüdür",
         "Isı termometre ile ölçülür"
       ],
-      "answer": "B",
+      "answer": "C",
       "explanation": "Isı bir enerjidir; sıcaklık ise maddenin ne kadar sıcak veya soğuk olduğunu gösteren, termometreyle ölçülen değerdir."
     },
     {
@@ -1212,8 +1462,13 @@
       "topic": "isi-ve-sicaklik",
       "difficulty": 2,
       "q": "Maddeler yandığında çevresine ne verir?",
-      "options": ["Yalnızca su", "Isı (ve ışık)", "Soğukluk", "Rüzgâr"],
-      "answer": "B",
+      "options": [
+        "Isı (ve ışık)",
+        "Yalnızca su",
+        "Soğukluk",
+        "Rüzgâr"
+      ],
+      "answer": "A",
       "explanation": "Yanan maddeler çevrelerine ısı, çoğu zaman da ışık verir."
     },
     {
@@ -1222,12 +1477,12 @@
       "difficulty": 2,
       "q": "Yakıtlardan elde edilen ısı enerjisinin harekete dönüşmesine örnek hangisidir?",
       "options": [
-        "Arabaların benzinle çalışıp hareket etmesi",
-        "Buzun erimesi",
         "Çamaşırların kuruması",
-        "Camın buğulanması"
+        "Arabaların benzinle çalışıp hareket etmesi",
+        "Camın buğulanması",
+        "Buzun erimesi"
       ],
-      "answer": "A",
+      "answer": "B",
       "explanation": "Araç motorlarında yakıttan elde edilen ısı enerjisi, aracı hareket ettiren enerjiye dönüşür."
     },
     {
@@ -1235,8 +1490,13 @@
       "topic": "isi-ve-sicaklik",
       "difficulty": 3,
       "q": "\"Bugün hava çok ısındı, termometre 35 dereceyi gösteriyor.\" cümlesindeki 35 derece neyi ifade eder?",
-      "options": ["Isıyı", "Sıcaklığı", "Enerjiyi", "Nemi"],
-      "answer": "B",
+      "options": [
+        "Sıcaklığı",
+        "Isıyı",
+        "Enerjiyi",
+        "Nemi"
+      ],
+      "answer": "A",
       "explanation": "Termometreyle ölçülen ve derece ile ifade edilen değer sıcaklıktır."
     },
     {
@@ -1244,7 +1504,12 @@
       "topic": "isi-ve-sicaklik",
       "difficulty": 2,
       "q": "Aşağıdakilerden hangisi çevre dostu (temiz) bir ısınma kaynağıdır?",
-      "options": ["Güneş enerjisi", "Kömür", "Odun", "Benzin"],
+      "options": [
+        "Güneş enerjisi",
+        "Benzin",
+        "Kömür",
+        "Odun"
+      ],
       "answer": "A",
       "explanation": "Güneş enerjisi, yanma olmadan ısı sağladığı için havayı kirletmeyen temiz bir enerji kaynağıdır."
     },
@@ -1254,12 +1519,12 @@
       "difficulty": 3,
       "q": "Aynı ortamda bulunan bir bardak sıcak çay zamanla soğur. Bu süreçte ısı alışverişi nasıl gerçekleşir?",
       "options": [
-        "Çay çevresine ısı verir",
         "Çay çevreden ısı alır",
-        "Isı alışverişi olmaz",
-        "Çevre çaya ısı verir"
+        "Çay çevresine ısı verir",
+        "Çevre çaya ısı verir",
+        "Isı alışverişi olmaz"
       ],
-      "answer": "A",
+      "answer": "B",
       "explanation": "Isı her zaman sıcak maddeden soğuk olana doğru akar; sıcak çay çevresine ısı vererek soğur."
     },
     {
@@ -1268,12 +1533,12 @@
       "difficulty": 1,
       "q": "Güneş'in Dünya'mıza etkileri arasında aşağıdakilerden hangisi YOKTUR?",
       "options": [
-        "Çevreyi aydınlatması",
         "Çevreyi ısıtması",
         "Suların buharlaşmasını sağlaması",
-        "Geceleri Dünya'yı aydınlatması"
+        "Geceleri Dünya'yı aydınlatması",
+        "Çevreyi aydınlatması"
       ],
-      "answer": "D",
+      "answer": "C",
       "explanation": "Gece, Dünya'nın Güneş görmeyen yüzüdür; Güneş geceleri bulunduğumuz yeri aydınlatmaz."
     },
     {
@@ -1281,7 +1546,12 @@
       "topic": "isinin-etkileri",
       "difficulty": 1,
       "q": "Isının maddeler üzerindeki en temel etkisi hangisidir?",
-      "options": ["Isınma ve soğuma", "Renk değişimi", "Koku değişimi", "Sertleşme"],
+      "options": [
+        "Isınma ve soğuma",
+        "Koku değişimi",
+        "Renk değişimi",
+        "Sertleşme"
+      ],
       "answer": "A",
       "explanation": "Isı alan madde ısınır, ısı veren madde soğur; bu, ısının en temel etkisidir."
     },
@@ -1290,8 +1560,13 @@
       "topic": "isinin-etkileri",
       "difficulty": 1,
       "q": "Isı etkisiyle maddenin hacminin büyümesine ne ad verilir?",
-      "options": ["Büzülme", "Genleşme", "Donma", "Yoğuşma"],
-      "answer": "B",
+      "options": [
+        "Büzülme",
+        "Yoğuşma",
+        "Genleşme",
+        "Donma"
+      ],
+      "answer": "C",
       "explanation": "Isınan maddelerin hacmi büyür; bu olaya genleşme denir."
     },
     {
@@ -1299,8 +1574,13 @@
       "topic": "isinin-etkileri",
       "difficulty": 1,
       "q": "Soğuyan maddenin hacminin küçülmesine ne ad verilir?",
-      "options": ["Genleşme", "Erime", "Büzülme", "Kaynama"],
-      "answer": "C",
+      "options": [
+        "Genleşme",
+        "Kaynama",
+        "Erime",
+        "Büzülme"
+      ],
+      "answer": "D",
       "explanation": "Isı veren (soğuyan) maddelerin hacmi küçülür; bu olaya büzülme denir."
     },
     {
@@ -1309,12 +1589,12 @@
       "difficulty": 2,
       "q": "Elektrik ve telefon telleri yazın neden sarkar?",
       "options": [
-        "Teller ısınarak genleştiği için",
-        "Teller soğuyarak büzüldüğü için",
+        "Teller eridiği için",
         "Tellere kuş konduğu için",
-        "Teller eridiği için"
+        "Teller soğuyarak büzüldüğü için",
+        "Teller ısınarak genleştiği için"
       ],
-      "answer": "A",
+      "answer": "D",
       "explanation": "Yazın ısınan teller genleşerek uzar ve sarkar; kışın ise büzülerek gerginleşir."
     },
     {
@@ -1323,12 +1603,12 @@
       "difficulty": 2,
       "q": "Demir yolu raylarının arasında boşluk bırakılmasının nedeni hangisidir?",
       "options": [
-        "Malzemeden tasarruf etmek",
-        "Rayların genleşince birbirine baskı yapıp eğrilmesini önlemek",
         "Trenlerin sesini azaltmak",
-        "Yağmur sularını akıtmak"
+        "Malzemeden tasarruf etmek",
+        "Yağmur sularını akıtmak",
+        "Rayların genleşince birbirine baskı yapıp eğrilmesini önlemek"
       ],
-      "answer": "B",
+      "answer": "D",
       "explanation": "Sıcakta genleşen raylar boşluk olmazsa birbirini iterek eğrilir; boşluklar genleşme payıdır."
     },
     {
@@ -1337,12 +1617,12 @@
       "difficulty": 2,
       "q": "Buharlaşma ile kaynama arasındaki fark hangisinde doğru verilmiştir?",
       "options": [
-        "Buharlaşma her sıcaklıkta, kaynama belirli sıcaklıkta olur",
-        "Kaynama her sıcaklıkta, buharlaşma belirli sıcaklıkta olur",
         "İkisi de yalnızca 100 derecede olur",
-        "İkisi arasında fark yoktur"
+        "Kaynama her sıcaklıkta, buharlaşma belirli sıcaklıkta olur",
+        "İkisi arasında fark yoktur",
+        "Buharlaşma her sıcaklıkta, kaynama belirli sıcaklıkta olur"
       ],
-      "answer": "A",
+      "answer": "D",
       "explanation": "Buharlaşma sıvının yüzeyinde her sıcaklıkta olur; kaynama ise sıvının her yerinde, belirli bir sıcaklıkta gerçekleşir."
     },
     {
@@ -1351,10 +1631,10 @@
       "difficulty": 2,
       "q": "Aynı miktardaki su hangi durumda daha hızlı buharlaşır?",
       "options": [
-        "Soğuk ve kapalı bir yerde",
+        "Derin ve dar bir kapta soğukta",
         "Sıcak ve rüzgârlı bir ortamda geniş kapta",
-        "Buzdolabında",
-        "Derin ve dar bir kapta soğukta"
+        "Soğuk ve kapalı bir yerde",
+        "Buzdolabında"
       ],
       "answer": "B",
       "explanation": "Sıcaklık arttıkça buharlaşma hızlanır; geniş yüzey ve rüzgâr da buharlaşmayı kolaylaştırır."
@@ -1366,8 +1646,8 @@
       "q": "Sıkışmış metal kavanoz kapağını açmak için kapağı sıcak suya tutarız. Bunun nedeni hangisidir?",
       "options": [
         "Kapağın ısınarak genleşmesi ve gevşemesi",
-        "Kapağın büzülmesi",
         "Kavanozun küçülmesi",
+        "Kapağın büzülmesi",
         "Suyun kapağı kayganlaştırması yalnızca"
       ],
       "answer": "A",
@@ -1394,12 +1674,1692 @@
       "q": "Islak saçların fön makinesiyle daha hızlı kuruması, buharlaşmanın hangi özelliği ile açıklanır?",
       "options": [
         "Sıcaklık arttıkça buharlaşmanın hızlanması",
-        "Buharlaşmanın yalnızca 100 derecede olması",
         "Soğukta buharlaşmanın hızlanması",
+        "Buharlaşmanın yalnızca 100 derecede olması",
         "Buharlaşmanın ısıyla ilgisinin olmaması"
       ],
       "answer": "A",
       "explanation": "Fön makinesi sıcak hava üfler; sıcaklık arttıkça saçtaki su daha hızlı buharlaşır."
+    },
+    {
+      "id": "FEN-0121",
+      "topic": "besin-icerikleri",
+      "difficulty": 1,
+      "q": "Aşağıdaki besinlerden hangisi karbonhidrat bakımından zengindir?",
+      "options": [
+        "Pirinç",
+        "Limon",
+        "Balık",
+        "Tereyağı"
+      ],
+      "answer": "A",
+      "explanation": "Pirinç karbonhidrat deposudur; tereyağı yağ, balık protein, limon ise C vitamini bakımından zengindir."
+    },
+    {
+      "id": "FEN-0122",
+      "topic": "besin-icerikleri",
+      "difficulty": 2,
+      "q": "Mercimek, nohut ve fasulye gibi baklagiller hangi besin içeriği bakımından zengindir?",
+      "options": [
+        "Protein",
+        "Yağ",
+        "C vitamini",
+        "Su"
+      ],
+      "answer": "A",
+      "explanation": "Baklagiller bitkisel protein bakımından zengindir; bu yüzden ete iyi bir alternatiftir."
+    },
+    {
+      "id": "FEN-0123",
+      "topic": "besin-icerikleri",
+      "difficulty": 1,
+      "q": "Aşağıdaki besinlerden hangisi yağ bakımından zengindir?",
+      "options": [
+        "Ekmek",
+        "Portakal",
+        "Marul",
+        "Zeytinyağı"
+      ],
+      "answer": "D",
+      "explanation": "Zeytinyağı yağ bakımından zengindir; ekmek karbonhidrat, portakal C vitamini, marul ise vitamin ve su bakımından zengindir."
+    },
+    {
+      "id": "FEN-0124",
+      "topic": "besin-icerikleri",
+      "difficulty": 2,
+      "q": "Havuç ve kayısı hangi vitamin bakımından zengindir?",
+      "options": [
+        "K vitamini",
+        "D vitamini",
+        "A vitamini",
+        "C vitamini"
+      ],
+      "answer": "C",
+      "explanation": "Turuncu renkli havuç ve kayısı A vitamini bakımından zengindir."
+    },
+    {
+      "id": "FEN-0125",
+      "topic": "besin-icerikleri",
+      "difficulty": 2,
+      "q": "Vücudumuzun en çok ihtiyaç duyduğu, hücrelerimizin büyük bölümünü oluşturan içerik hangisidir?",
+      "options": [
+        "Protein",
+        "Yağ",
+        "Vitamin",
+        "Su"
+      ],
+      "answer": "D",
+      "explanation": "Vücudumuzun büyük bölümü sudan oluşur; bu yüzden düzenli su içmek çok önemlidir."
+    },
+    {
+      "id": "FEN-0126",
+      "topic": "besin-icerikleri",
+      "difficulty": 2,
+      "q": "Balık ve süt ürünlerinde bulunan D vitamininin temel görevi nedir?",
+      "options": [
+        "Vücutta yağ depolamak",
+        "Kemik ve diş gelişimine yardımcı olmak",
+        "Vücut ısısını yükseltmek",
+        "Vücuda hızlı enerji vermek"
+      ],
+      "answer": "B",
+      "explanation": "D vitamini kalsiyumla birlikte kemik ve dişlerin sağlıklı gelişmesine yardımcı olur."
+    },
+    {
+      "id": "FEN-0127",
+      "topic": "besin-icerikleri",
+      "difficulty": 1,
+      "q": "Aşağıdakilerden hangisi düzenleyici (vücudun düzenli çalışmasına yardımcı) bir besin içeriğidir?",
+      "options": [
+        "Karbonhidrat",
+        "Vitamin",
+        "Yağ",
+        "Protein"
+      ],
+      "answer": "B",
+      "explanation": "Vitaminler enerji vermez; vücudun düzenli çalışmasını sağlayan düzenleyici içeriklerdir."
+    },
+    {
+      "id": "FEN-0128",
+      "topic": "besin-icerikleri",
+      "difficulty": 3,
+      "q": "Kanın yapımına yardımcı olan demir minerali bakımından zengin besin grubu hangisidir?",
+      "options": [
+        "Tereyağı ve margarin",
+        "Şeker ve reçel",
+        "Beyaz ekmek",
+        "Kırmızı et ve ıspanak"
+      ],
+      "answer": "D",
+      "explanation": "Kırmızı et ve koyu yeşil yapraklı sebzeler (ıspanak gibi) demir bakımından zengindir."
+    },
+    {
+      "id": "FEN-0129",
+      "topic": "besin-icerikleri",
+      "difficulty": 2,
+      "q": "Spor yapmadan önce hızlı enerji almak isteyen bir öğrenci hangi besin içeriğini tercih etmelidir?",
+      "options": [
+        "Vitamin",
+        "Mineral",
+        "Su",
+        "Karbonhidrat"
+      ],
+      "answer": "D",
+      "explanation": "Karbonhidratlar vücudun temel ve hızlı enerji kaynağıdır; meyve ve tahıllarda bol bulunur."
+    },
+    {
+      "id": "FEN-0130",
+      "topic": "besin-icerikleri",
+      "difficulty": 2,
+      "q": "Aşağıdaki besin içeriklerinden hangisi vücuda enerji VERMEZ?",
+      "options": [
+        "Yağ",
+        "Su",
+        "Karbonhidrat",
+        "Protein"
+      ],
+      "answer": "B",
+      "explanation": "Su ve mineraller enerji vermez; düzenleyici görev yapar. Karbonhidrat, yağ ve protein enerji verir."
+    },
+    {
+      "id": "FEN-0131",
+      "topic": "dengeli-beslenme",
+      "difficulty": 1,
+      "q": "Güne sağlıklı başlamak için günün en önemli öğünü hangisidir?",
+      "options": [
+        "Akşam tatlısı",
+        "Gece atıştırması",
+        "İkindi çayı",
+        "Kahvaltı"
+      ],
+      "answer": "D",
+      "explanation": "Kahvaltı, güne enerjik ve dikkatli başlamamızı sağlayan en önemli öğündür."
+    },
+    {
+      "id": "FEN-0132",
+      "topic": "dengeli-beslenme",
+      "difficulty": 1,
+      "q": "Dengeli beslenmek için tabağımızda neler bulunmalıdır?",
+      "options": [
+        "Sadece ekmek",
+        "Sadece tatlı ve şekerli besinler",
+        "Sadece et ürünleri",
+        "Her besin grubundan dengeli miktarda"
+      ],
+      "answer": "D",
+      "explanation": "Dengeli beslenmede protein, karbonhidrat, yağ, vitamin ve mineraller dengeli miktarda alınmalıdır."
+    },
+    {
+      "id": "FEN-0133",
+      "topic": "dengeli-beslenme",
+      "difficulty": 2,
+      "q": "Aşağıdakilerden hangisi sağlıksız bir beslenme alışkanlığıdır?",
+      "options": [
+        "Yeterli su içmek",
+        "Sık sık hazır ve şekerli besinler tüketmek",
+        "Düzenli öğün yapmak",
+        "Bol sebze ve meyve yemek"
+      ],
+      "answer": "B",
+      "explanation": "Sık sık hazır, şekerli ve yağlı besinler tüketmek sağlığı olumsuz etkiler."
+    },
+    {
+      "id": "FEN-0134",
+      "topic": "dengeli-beslenme",
+      "difficulty": 2,
+      "q": "Besin zehirlenmesini önlemek için aşağıdakilerden hangisini yapmalıyız?",
+      "options": [
+        "Sebzeleri yıkamadan yemek",
+        "Besinleri temiz tutup son kullanma tarihine bakmak",
+        "Bozuk görünen besinleri yemek",
+        "Besinleri açıkta uzun süre bekletmek"
+      ],
+      "answer": "B",
+      "explanation": "Temizlik, tazelik ve tarih kontrolü besin zehirlenmesini önlemenin temel yollarıdır."
+    },
+    {
+      "id": "FEN-0135",
+      "topic": "dengeli-beslenme",
+      "difficulty": 2,
+      "q": "Bir ürünün etiketindeki \"son kullanma tarihi\" neyi gösterir?",
+      "options": [
+        "Ürünün satışa çıktığı tarihi",
+        "Ürünün üretildiği tarihi",
+        "Ürünün güvenle tüketilebileceği son tarihi",
+        "Ürünün fiyatının değiştiği tarihi"
+      ],
+      "answer": "C",
+      "explanation": "Son kullanma tarihi, ürünün güvenle tüketilebileceği son günü gösterir; bu tarihten sonra tüketilmemelidir."
+    },
+    {
+      "id": "FEN-0136",
+      "topic": "dengeli-beslenme",
+      "difficulty": 2,
+      "q": "Aşırı tuz ve şeker tüketmenin sağlığa etkisi nasıldır?",
+      "options": [
+        "Sağlığı olumsuz etkiler",
+        "Hiçbir etkisi yoktur",
+        "Su ihtiyacını ortadan kaldırır",
+        "Vücudu güçlendirir"
+      ],
+      "answer": "A",
+      "explanation": "Aşırı tuz ve şeker tüketimi zamanla sağlığı bozar; dengeli tüketim önemlidir."
+    },
+    {
+      "id": "FEN-0137",
+      "topic": "dengeli-beslenme",
+      "difficulty": 1,
+      "q": "Meyve ve sebzeleri yemeden önce neden yıkarız?",
+      "options": [
+        "Rengi açılsın diye",
+        "Daha tatlı olsun diye",
+        "Üzerindeki toz, mikrop ve kalıntıları temizlemek için",
+        "Ağırlaşsın diye"
+      ],
+      "answer": "C",
+      "explanation": "Yıkamak, meyve ve sebzelerin üzerindeki toz, mikrop ve ilaç kalıntılarını uzaklaştırır."
+    },
+    {
+      "id": "FEN-0138",
+      "topic": "dengeli-beslenme",
+      "difficulty": 2,
+      "q": "Sağlık açısından aşağıdakilerden hangisini tercih etmek daha doğrudur?",
+      "options": [
+        "Gazlı içecekler",
+        "Cips ve kızartmalar",
+        "Şekerlemeler",
+        "Taze ve doğal besinler"
+      ],
+      "answer": "D",
+      "explanation": "Taze ve doğal besinler, katkı maddesi az olduğu için sağlık açısından daha uygundur."
+    },
+    {
+      "id": "FEN-0139",
+      "topic": "dengeli-beslenme",
+      "difficulty": 3,
+      "q": "Her gün düzenli kahvaltı yapan, bol su içen ve sebze yiyen bir öğrenci için hangisi söylenebilir?",
+      "options": [
+        "Tek tür besleniyor",
+        "Aç kalıyor",
+        "Dengeli ve sağlıklı besleniyor",
+        "Yetersiz besleniyor"
+      ],
+      "answer": "C",
+      "explanation": "Çeşitli besin gruplarından düzenli tüketim dengeli ve sağlıklı beslenmenin göstergesidir."
+    },
+    {
+      "id": "FEN-0140",
+      "topic": "dengeli-beslenme",
+      "difficulty": 2,
+      "q": "Katkı maddesi az olan besinlerin tercih edilmesinin nedeni nedir?",
+      "options": [
+        "Sağlık açısından daha güvenli olması",
+        "Her zaman daha ucuz olması",
+        "Daha renkli görünmesi",
+        "Daha uzun süre dayanması"
+      ],
+      "answer": "A",
+      "explanation": "Bazı katkı maddelerinin fazlası sağlığa zarar verebileceği için az katkılı besinler daha güvenlidir."
+    },
+    {
+      "id": "FEN-0141",
+      "topic": "sindirim",
+      "difficulty": 1,
+      "q": "Sindirimin başladığı organ hangisidir?",
+      "options": [
+        "Mide",
+        "Ağız",
+        "İnce bağırsak",
+        "Kalın bağırsak"
+      ],
+      "answer": "B",
+      "explanation": "Sindirim, besinlerin dişlerle çiğnenip tükürükle karıştırıldığı ağızda başlar."
+    },
+    {
+      "id": "FEN-0142",
+      "topic": "sindirim",
+      "difficulty": 1,
+      "q": "Ağızda besinleri çiğneyerek küçük parçalara ayıran yapı hangisidir?",
+      "options": [
+        "Böbrek",
+        "Dişler",
+        "Dil",
+        "Mide"
+      ],
+      "answer": "B",
+      "explanation": "Dişler besinleri çiğneyerek küçük parçalara ayırır ve sindirimi kolaylaştırır."
+    },
+    {
+      "id": "FEN-0143",
+      "topic": "sindirim",
+      "difficulty": 1,
+      "q": "Ağızda besinleri ıslatarak yutulmaya hazır hâle getiren sıvı hangisidir?",
+      "options": [
+        "Ter",
+        "Kan",
+        "Su",
+        "Tükürük"
+      ],
+      "answer": "D",
+      "explanation": "Tükürük besinleri ıslatır ve yutulmasını kolaylaştırarak sindirime yardımcı olur."
+    },
+    {
+      "id": "FEN-0144",
+      "topic": "sindirim",
+      "difficulty": 2,
+      "q": "Sindirimin tamamlandığı ve besinlerin kana geçtiği organ hangisidir?",
+      "options": [
+        "Ağız",
+        "Kalın bağırsak",
+        "İnce bağırsak",
+        "Yemek borusu"
+      ],
+      "answer": "C",
+      "explanation": "Sindirim ince bağırsakta tamamlanır ve sindirilen besinler buradan kana emilir."
+    },
+    {
+      "id": "FEN-0145",
+      "topic": "sindirim",
+      "difficulty": 2,
+      "q": "Kalın bağırsağın görevi aşağıdakilerden hangisidir?",
+      "options": [
+        "Besinleri çiğnemek",
+        "Soluk almak",
+        "Sindirilemeyen atıkların suyunu emip dışarı atılmaya hazırlamak",
+        "Kanı süzmek"
+      ],
+      "answer": "C",
+      "explanation": "Kalın bağırsak, sindirilemeyen atık maddelerin suyunu emer ve bunları vücuttan atılmaya hazırlar."
+    },
+    {
+      "id": "FEN-0146",
+      "topic": "sindirim",
+      "difficulty": 2,
+      "q": "Sindirilen besinlerin kana geçmesi olayına ne ad verilir?",
+      "options": [
+        "Boşaltım",
+        "Emilim",
+        "Çiğneme",
+        "Yutma"
+      ],
+      "answer": "B",
+      "explanation": "Sindirilmiş besinlerin ince bağırsaktan kana geçmesine emilim denir."
+    },
+    {
+      "id": "FEN-0147",
+      "topic": "sindirim",
+      "difficulty": 2,
+      "q": "Sağlıklı bir sindirim için aşağıdakilerden hangisi önerilir?",
+      "options": [
+        "Yemekleri çiğnemeden çok hızlı yutmak",
+        "Az çiğneyip hemen yutmak",
+        "Lokmaları iyice çiğnemek ve yavaş yemek",
+        "Koşarken yemek yemek"
+      ],
+      "answer": "C",
+      "explanation": "Lokmaların iyice çiğnenmesi sindirimin ağızdaki ilk basamağını güçlendirir ve mideyi rahatlatır."
+    },
+    {
+      "id": "FEN-0148",
+      "topic": "sindirim",
+      "difficulty": 2,
+      "q": "Mide, besinleri nasıl parçalar?",
+      "options": [
+        "Terleyerek",
+        "Dişleriyle çiğneyerek",
+        "Kaslarıyla karıştırıp mide özsuyuyla",
+        "Soluk alıp vererek"
+      ],
+      "answer": "C",
+      "explanation": "Mide, kaslı yapısıyla besinleri ezip mide özsuyuyla karıştırarak bulamaç hâline getirir."
+    },
+    {
+      "id": "FEN-0149",
+      "topic": "sindirim",
+      "difficulty": 2,
+      "q": "Yemek borusu hangi iki organ arasında besin taşır?",
+      "options": [
+        "Mide ile ince bağırsak arasında",
+        "Mide ile böbrek arasında",
+        "İnce bağırsak ile kalın bağırsak arasında",
+        "Ağız ile mide arasında"
+      ],
+      "answer": "D",
+      "explanation": "Yemek borusu, yutulan besinleri ağızdan mideye taşır."
+    },
+    {
+      "id": "FEN-0150",
+      "topic": "sindirim",
+      "difficulty": 3,
+      "q": "Sağlıklı bir sindirim için aşağıdakilerden hangisi YANLIŞTIR?",
+      "options": [
+        "Yemekleri çiğnemeden çok hızlı yutmak",
+        "Sebze ve meyve yemek",
+        "Bol su içmek",
+        "Düzenli öğün yapmak"
+      ],
+      "answer": "A",
+      "explanation": "Yemekleri çiğnemeden hızlı yutmak mideyi zorlar ve sindirimi güçleştirir; doğru olan iyi çiğnemektir."
+    },
+    {
+      "id": "FEN-0151",
+      "topic": "disler-dis-sagligi",
+      "difficulty": 1,
+      "q": "Dişlerimizi düzenli olarak en uygun ne zaman fırçalamalıyız?",
+      "options": [
+        "Sabah ve gece yatmadan önce",
+        "Sadece hafta sonları",
+        "Ayda bir kez",
+        "Sadece diş ağrıyınca"
+      ],
+      "answer": "A",
+      "explanation": "Dişler günde en az iki kez, özellikle sabah ve gece yatmadan önce fırçalanmalıdır."
+    },
+    {
+      "id": "FEN-0152",
+      "topic": "disler-dis-sagligi",
+      "difficulty": 2,
+      "q": "Diş çürüğüne en çok hangi besinler yol açar?",
+      "options": [
+        "Süt",
+        "Şekerli ve yapışkan besinler",
+        "Taze sebzeler",
+        "Su"
+      ],
+      "answer": "B",
+      "explanation": "Dişlerde kalan şekerli ve yapışkan besin artıkları mikropların çoğalmasına ve çürüğe yol açar."
+    },
+    {
+      "id": "FEN-0153",
+      "topic": "disler-dis-sagligi",
+      "difficulty": 2,
+      "q": "Diş ipi kullanmanın yararı nedir?",
+      "options": [
+        "Dişlerin arasında kalan besin artıklarını temizlemek",
+        "Diş etlerine zarar vermesi",
+        "Dişleri beyazlatmanın tek yolu olması",
+        "Hiçbir yararının olmaması"
+      ],
+      "answer": "A",
+      "explanation": "Diş ipi, fırçanın ulaşamadığı diş aralarındaki besin artıklarını temizleyerek çürüğü önler."
+    },
+    {
+      "id": "FEN-0154",
+      "topic": "disler-dis-sagligi",
+      "difficulty": 2,
+      "q": "Florürlü diş macunu kullanmanın yararı nedir?",
+      "options": [
+        "Hiçbir yararının olmaması",
+        "Dişleri çürümeye karşı güçlendirmesi",
+        "Sadece güzel koku vermesi",
+        "Dişleri çürütmesi"
+      ],
+      "answer": "B",
+      "explanation": "Florür, diş minesini güçlendirerek dişleri çürümeye karşı daha dayanıklı hâle getirir."
+    },
+    {
+      "id": "FEN-0155",
+      "topic": "disler-dis-sagligi",
+      "difficulty": 2,
+      "q": "Diş hekimine düzenli (altı ayda bir) gitmenin yararı nedir?",
+      "options": [
+        "Çürükleri erkenden fark edip tedavi ettirmek",
+        "Tamamen gereksiz olması",
+        "Diş kaybetmeye yol açmak",
+        "Diş ağrısını artırmak"
+      ],
+      "answer": "A",
+      "explanation": "Düzenli kontrol, henüz büyümemiş çürüklerin erken fark edilip tedavi edilmesini sağlar."
+    },
+    {
+      "id": "FEN-0156",
+      "topic": "disler-dis-sagligi",
+      "difficulty": 2,
+      "q": "Dişlerin dış yüzeyini kaplayan, vücudun en sert kısmı olan tabaka hangisidir?",
+      "options": [
+        "Tükürük",
+        "Dudak",
+        "Mine",
+        "Diş eti"
+      ],
+      "answer": "C",
+      "explanation": "Diş minesi, dişin dışını kaplayan ve vücudun en sert bölümü olan koruyucu tabakadır."
+    },
+    {
+      "id": "FEN-0157",
+      "topic": "disler-dis-sagligi",
+      "difficulty": 3,
+      "q": "Her öğünden sonra dişlerini fırçalayan ama çok fazla şeker tüketen bir öğrenciye diş sağlığı için ne önerilir?",
+      "options": [
+        "Hiçbir şey yapmaması",
+        "Şekerli besin tüketimini azaltması",
+        "Fırçalamayı tamamen bırakması",
+        "Daha çok şeker yemesi"
+      ],
+      "answer": "B",
+      "explanation": "Fırçalamak önemlidir ama aşırı şeker çürük riskini artırır; şeker tüketimi azaltılmalıdır."
+    },
+    {
+      "id": "FEN-0158",
+      "topic": "disler-dis-sagligi",
+      "difficulty": 2,
+      "q": "Diş ve diş eti sağlığı için aşağıdakilerden hangisi önemlidir?",
+      "options": [
+        "Düzenli fırçalama ve dengeli beslenme",
+        "Sürekli şeker yemek",
+        "Dişle sert cisimler kırmak",
+        "Hiç fırçalamamak"
+      ],
+      "answer": "A",
+      "explanation": "Düzenli fırçalama, diş ipi kullanımı ve dengeli beslenme diş ve diş eti sağlığını korur."
+    },
+    {
+      "id": "FEN-0159",
+      "topic": "disler-dis-sagligi",
+      "difficulty": 1,
+      "q": "Dişlerimiz besinleri parçalayarak hangi olaya yardımcı olur?",
+      "options": [
+        "Solunum",
+        "Sindirim",
+        "Boşaltım",
+        "Dolaşım"
+      ],
+      "answer": "B",
+      "explanation": "Dişler besinleri çiğneyip parçalayarak sindirimin ilk basamağına yardımcı olur."
+    },
+    {
+      "id": "FEN-0160",
+      "topic": "disler-dis-sagligi",
+      "difficulty": 1,
+      "q": "Besinleri öğüten azı dişleri ağzımızın neresinde bulunur?",
+      "options": [
+        "Dilin altında",
+        "Damakta",
+        "Arka kısımda",
+        "En önde"
+      ],
+      "answer": "C",
+      "explanation": "Geniş yüzeyli azı dişleri ağzın arka kısmında bulunur ve besinleri öğütür."
+    },
+    {
+      "id": "FEN-0161",
+      "topic": "bosaltim",
+      "difficulty": 1,
+      "q": "İnsan vücudunda kaç tane böbrek bulunur?",
+      "options": [
+        "4",
+        "3",
+        "2",
+        "1"
+      ],
+      "answer": "C",
+      "explanation": "İnsan vücudunda biri sağda biri solda olmak üzere iki böbrek bulunur."
+    },
+    {
+      "id": "FEN-0162",
+      "topic": "bosaltim",
+      "difficulty": 2,
+      "q": "Böbreklerde oluşan idrar hangi yapı yoluyla idrar kesesine taşınır?",
+      "options": [
+        "Kan damarları ile mideye",
+        "İdrar kanalları ile",
+        "Soluk borusu ile",
+        "Yemek borusu ile"
+      ],
+      "answer": "B",
+      "explanation": "Böbreklerde oluşan idrar, idrar kanalları yoluyla idrar kesesine taşınır."
+    },
+    {
+      "id": "FEN-0163",
+      "topic": "bosaltim",
+      "difficulty": 2,
+      "q": "Deri, terleme yoluyla hangi maddeleri vücuttan uzaklaştırır?",
+      "options": [
+        "Oksijeni",
+        "Su ve bazı atık maddeleri",
+        "Besinleri",
+        "Sadece kanı"
+      ],
+      "answer": "B",
+      "explanation": "Deri terleme yoluyla su ve bazı atık maddeleri vücuttan uzaklaştırarak boşaltıma yardımcı olur."
+    },
+    {
+      "id": "FEN-0164",
+      "topic": "bosaltim",
+      "difficulty": 3,
+      "q": "Boşaltım gerçekleşmezse vücutta ne olur?",
+      "options": [
+        "Zararlı atık maddeler birikir ve sağlık bozulur",
+        "Sindirim hızlanır",
+        "Vücut güçlenir",
+        "Hiçbir şey olmaz"
+      ],
+      "answer": "A",
+      "explanation": "Boşaltım olmazsa zararlı atıklar vücutta birikir ve ciddi sağlık sorunlarına yol açar."
+    },
+    {
+      "id": "FEN-0165",
+      "topic": "bosaltim",
+      "difficulty": 2,
+      "q": "Aşağıdakilerden hangisi böbreklere zarar verir?",
+      "options": [
+        "Dengeli beslenmek",
+        "Bol su içmek",
+        "Düzenli uyumak",
+        "Çok tuzlu beslenmek ve az su içmek"
+      ],
+      "answer": "D",
+      "explanation": "Aşırı tuz ve az su, böbreklerin işini zorlaştırır ve böbrek sağlığına zarar verebilir."
+    },
+    {
+      "id": "FEN-0166",
+      "topic": "bosaltim",
+      "difficulty": 2,
+      "q": "Terleme en çok hangi durumlarda artar?",
+      "options": [
+        "Sadece kışın",
+        "Yalnızca uyurken",
+        "Sıcak havada ve spor yaparken",
+        "Soğukta otururken"
+      ],
+      "answer": "C",
+      "explanation": "Vücut ısındığında, özellikle sıcak havada ve egzersiz sırasında terleme artar."
+    },
+    {
+      "id": "FEN-0167",
+      "topic": "bosaltim",
+      "difficulty": 1,
+      "q": "Boşaltım sistemi vücuttan neyi uzaklaştırır?",
+      "options": [
+        "Vücuda zararlı atık maddeleri",
+        "Faydalı besinleri",
+        "Vitaminleri",
+        "Oksijeni"
+      ],
+      "answer": "A",
+      "explanation": "Boşaltım, vücut çalışırken oluşan zararlı atık maddeleri vücuttan uzaklaştırır."
+    },
+    {
+      "id": "FEN-0168",
+      "topic": "bosaltim",
+      "difficulty": 2,
+      "q": "Aşağıdakilerden hangisi boşaltıma yardımcı olan yapılardan biri DEĞİLDİR?",
+      "options": [
+        "Kalp",
+        "Böbrek",
+        "Akciğer",
+        "Deri"
+      ],
+      "answer": "A",
+      "explanation": "Kalp dolaşım organıdır. Böbrek, deri ve akciğerler atık maddelerin atılmasına yardımcı olur."
+    },
+    {
+      "id": "FEN-0169",
+      "topic": "bosaltim",
+      "difficulty": 2,
+      "q": "Vücudumuzdaki fazla su ve atık maddeler en çok hangi iki yolla atılır?",
+      "options": [
+        "Soluk ve dışkı",
+        "Tükürük ve gözyaşı",
+        "Sadece tükürük",
+        "İdrar ve ter"
+      ],
+      "answer": "D",
+      "explanation": "Fazla su ve atık maddeler en çok böbreklerden idrarla ve deriden terle atılır."
+    },
+    {
+      "id": "FEN-0170",
+      "topic": "bosaltim",
+      "difficulty": 2,
+      "q": "Bol su içmenin böbrek sağlığına yararı nedir?",
+      "options": [
+        "Böbrekleri yorar",
+        "Böbreklere zarar verir",
+        "Atık maddelerin kolayca süzülüp atılmasını sağlar",
+        "İdrarı tamamen durdurur"
+      ],
+      "answer": "C",
+      "explanation": "Yeterli su, böbreklerin kandaki atık maddeleri kolayca süzüp idrarla atmasına yardımcı olur."
+    },
+    {
+      "id": "FEN-0171",
+      "topic": "kuvvet-nedir",
+      "difficulty": 1,
+      "q": "Aşağıdakilerden hangisi bir çekme kuvvetine örnektir?",
+      "options": [
+        "Topu ileri doğru itmek",
+        "Market arabasını önünde itmek",
+        "Çekmeceyi kendine doğru açmak",
+        "Kapıyı iterek kapatmak"
+      ],
+      "answer": "C",
+      "explanation": "Çekmeceyi kendine doğru çekmek bir çekme kuvvetidir; diğerleri itme kuvvetine örnektir."
+    },
+    {
+      "id": "FEN-0172",
+      "topic": "kuvvet-nedir",
+      "difficulty": 2,
+      "q": "Duran bir topa ayağımızla vurduğumuzda topun harekete geçmesi kuvvetin hangi etkisidir?",
+      "options": [
+        "Hareketi durdurma",
+        "Sıcaklığını artırma",
+        "Duran cismi harekete geçirme",
+        "Rengini değiştirme"
+      ],
+      "answer": "C",
+      "explanation": "Kuvvet, duran bir cismi harekete geçirebilir; topa vurmak buna örnektir."
+    },
+    {
+      "id": "FEN-0173",
+      "topic": "kuvvet-nedir",
+      "difficulty": 2,
+      "q": "Aşağıdakilerden hangisi temas gerektiren bir kuvvettir?",
+      "options": [
+        "Yer çekiminin cisimleri çekmesi",
+        "Elmanın dalından yere düşmesi",
+        "Mıknatısın demiri uzaktan çekmesi",
+        "Bir sandalyeyi elle itmek"
+      ],
+      "answer": "D",
+      "explanation": "Sandalyeyi elle itmek için ona dokunmak gerekir; bu temas gerektiren bir kuvvettir."
+    },
+    {
+      "id": "FEN-0174",
+      "topic": "kuvvet-nedir",
+      "difficulty": 2,
+      "q": "Hareket eden bir bisikletin frenle yavaşlayıp durması kuvvetin hangi etkisidir?",
+      "options": [
+        "Şekil değiştirme",
+        "Hareketi durdurma",
+        "Renk değiştirme",
+        "Hareketi başlatma"
+      ],
+      "answer": "B",
+      "explanation": "Fren kuvveti, hareket eden bisikleti yavaşlatıp durdurur."
+    },
+    {
+      "id": "FEN-0175",
+      "topic": "kuvvet-nedir",
+      "difficulty": 2,
+      "q": "Rüzgârın ağaçların yapraklarını savurması neyin etkisidir?",
+      "options": [
+        "Yer çekiminin yok olmasının",
+        "Sürtünmenin azalmasının",
+        "Rüzgârın uyguladığı kuvvetin",
+        "Yaprakların kendiliğinden hareket etmesinin"
+      ],
+      "answer": "C",
+      "explanation": "Rüzgâr, yapraklara itme kuvveti uygulayarak onları hareket ettirir."
+    },
+    {
+      "id": "FEN-0176",
+      "topic": "kuvvet-nedir",
+      "difficulty": 2,
+      "q": "Esnek bir yaya kuvvet uygulandığında ne olur?",
+      "options": [
+        "Şekli değişir; uzar ya da sıkışır",
+        "Maddesi yok olur",
+        "Rengi değişir",
+        "Hiçbir şey olmaz"
+      ],
+      "answer": "A",
+      "explanation": "Kuvvet, esnek cisimlerin şeklini değiştirir; yay uzayabilir veya sıkışabilir."
+    },
+    {
+      "id": "FEN-0177",
+      "topic": "kuvvet-nedir",
+      "difficulty": 2,
+      "q": "Kayan bir kızağı arkadan iterek daha hızlı hareket ettirmek kuvvetin hangi etkisidir?",
+      "options": [
+        "Şekil değiştirme",
+        "Maddeyi yok etme",
+        "Hareketi hızlandırma",
+        "Hareketi durdurma"
+      ],
+      "answer": "C",
+      "explanation": "Hareket yönünde uygulanan kuvvet, cismin hareketini hızlandırır."
+    },
+    {
+      "id": "FEN-0178",
+      "topic": "kuvvet-nedir",
+      "difficulty": 2,
+      "q": "Futbolda gelen topa kafa vurarak topun gittiği yönü değiştirmek kuvvetin hangi etkisidir?",
+      "options": [
+        "Rengini değiştirme",
+        "Hareketi durdurma",
+        "Hareketin yönünü değiştirme",
+        "Şekil değiştirme"
+      ],
+      "answer": "C",
+      "explanation": "Kuvvet, hareket hâlindeki bir cismin yönünü değiştirebilir."
+    },
+    {
+      "id": "FEN-0179",
+      "topic": "kuvvet-nedir",
+      "difficulty": 1,
+      "q": "Aşağıdakilerden hangisinde yer çekimi kuvveti etkilidir?",
+      "options": [
+        "Yelkenin rüzgârla şişmesi",
+        "Topun elle itilmesi",
+        "Mıknatısın iğneyi çekmesi",
+        "Yağmur damlalarının yere düşmesi"
+      ],
+      "answer": "D",
+      "explanation": "Yağmur damlalarını aşağı doğru çeken kuvvet yer çekimidir."
+    },
+    {
+      "id": "FEN-0180",
+      "topic": "kuvvet-nedir",
+      "difficulty": 3,
+      "q": "Düz bir zeminde duran bir kutuya hiç kuvvet uygulanmazsa ne olur?",
+      "options": [
+        "Kutu yok olur",
+        "Duran kutu hareket etmez",
+        "Kutu kendiliğinden hareket eder",
+        "Kutu şekil değiştirir"
+      ],
+      "answer": "B",
+      "explanation": "Bir cisme kuvvet uygulanmazsa duran cisim durmaya devam eder."
+    },
+    {
+      "id": "FEN-0181",
+      "topic": "kuvvet-olcme",
+      "difficulty": 1,
+      "q": "Dinamometrenin içinde bulunan ve uzayarak kuvveti gösteren parça hangisidir?",
+      "options": [
+        "Yay",
+        "Mıknatıs",
+        "Pil",
+        "Ayna"
+      ],
+      "answer": "A",
+      "explanation": "Dinamometre, içindeki yayın uzamasıyla kuvvetin büyüklüğünü ölçer."
+    },
+    {
+      "id": "FEN-0182",
+      "topic": "kuvvet-olcme",
+      "difficulty": 2,
+      "q": "Bir cismin ağırlığı hangi araçla ölçülür?",
+      "options": [
+        "Termometre",
+        "Dinamometre",
+        "Eşit kollu terazi",
+        "Cetvel"
+      ],
+      "answer": "B",
+      "explanation": "Ağırlık bir kuvvet olduğundan dinamometre ile ölçülür."
+    },
+    {
+      "id": "FEN-0183",
+      "topic": "kuvvet-olcme",
+      "difficulty": 1,
+      "q": "Bir cismin içindeki değişmeyen madde miktarına ne ad verilir?",
+      "options": [
+        "Ağırlık",
+        "Kütle",
+        "Kuvvet",
+        "Hacim"
+      ],
+      "answer": "B",
+      "explanation": "Kütle, cismin değişmeyen madde miktarıdır; nerede olursa olsun aynı kalır."
+    },
+    {
+      "id": "FEN-0184",
+      "topic": "kuvvet-olcme",
+      "difficulty": 2,
+      "q": "Aşağıdaki büyüklüklerden hangisi bulunulan yere göre değişmez?",
+      "options": [
+        "Ağırlık",
+        "Hız",
+        "Sıcaklık",
+        "Kütle"
+      ],
+      "answer": "D",
+      "explanation": "Kütle her yerde aynı kalır; ağırlık ise yer çekimine bağlı olarak değişebilir."
+    },
+    {
+      "id": "FEN-0185",
+      "topic": "kuvvet-olcme",
+      "difficulty": 3,
+      "q": "Dünya'da belirli bir ağırlıkta olan bir cisim Ay'da daha az ağırlıkta ölçülür. Bunun nedeni nedir?",
+      "options": [
+        "Dinamometrenin bozulması",
+        "Cismin kütlesinin artması",
+        "Ay'ın çekim kuvvetinin Dünya'dan az olması",
+        "Cismin maddesinin değişmesi"
+      ],
+      "answer": "C",
+      "explanation": "Ay'ın yer çekimi Dünya'dan daha az olduğu için aynı cismin ağırlığı Ay'da daha küçük ölçülür."
+    },
+    {
+      "id": "FEN-0186",
+      "topic": "kuvvet-olcme",
+      "difficulty": 2,
+      "q": "Bir dinamometreye asılan cisim ağırlaştıkça yaydaki uzama nasıl değişir?",
+      "options": [
+        "Değişmez",
+        "Artar",
+        "Azalır",
+        "Yay kısalır"
+      ],
+      "answer": "B",
+      "explanation": "Uygulanan kuvvet (ağırlık) arttıkça yaydaki uzama da artar."
+    },
+    {
+      "id": "FEN-0187",
+      "topic": "kuvvet-olcme",
+      "difficulty": 2,
+      "q": "Eşit kollu terazinin iki kefesi dengede ise bu ne anlama gelir?",
+      "options": [
+        "İki kefedeki kütleler eşittir",
+        "Sol kefe daha ağırdır",
+        "Terazi bozuktur",
+        "Sağ kefe daha ağırdır"
+      ],
+      "answer": "A",
+      "explanation": "Terazi dengede ise iki kefedeki kütleler birbirine eşittir."
+    },
+    {
+      "id": "FEN-0188",
+      "topic": "kuvvet-olcme",
+      "difficulty": 1,
+      "q": "Kuvvet biriminin (Newton) adı hangi bilim insanından gelir?",
+      "options": [
+        "Thomas Edison",
+        "Isaac Newton",
+        "Albert Einstein",
+        "Galileo Galilei"
+      ],
+      "answer": "B",
+      "explanation": "Kuvvet birimi Newton, adını ünlü bilim insanı Isaac Newton'dan alır."
+    },
+    {
+      "id": "FEN-0189",
+      "topic": "kuvvet-olcme",
+      "difficulty": 3,
+      "q": "Bir dinamometreye 10 N'luk cisim asıldığında yay 2 cm uzuyor. 20 N'luk cisim asılırsa yay yaklaşık kaç cm uzar?",
+      "options": [
+        "2 cm",
+        "4 cm",
+        "1 cm",
+        "Uzamaz"
+      ],
+      "answer": "B",
+      "explanation": "Uygulanan kuvvet iki katına çıkınca yaydaki uzama da yaklaşık iki katına, 4 cm'ye çıkar."
+    },
+    {
+      "id": "FEN-0190",
+      "topic": "kuvvet-olcme",
+      "difficulty": 2,
+      "q": "Kütle ile ağırlık arasındaki fark hangisinde doğru verilmiştir?",
+      "options": [
+        "Kütle dinamometreyle ölçülür",
+        "Kütle ile ağırlık tamamen aynıdır",
+        "Kütle değişmeyen madde miktarıdır; ağırlık yer çekimi kuvvetidir ve değişebilir",
+        "Ağırlık her yerde değişmez"
+      ],
+      "answer": "C",
+      "explanation": "Kütle madde miktarıdır ve değişmez; ağırlık ise yer çekimi kuvvetidir ve bulunulan yere göre değişebilir."
+    },
+    {
+      "id": "FEN-0191",
+      "topic": "surtunme-kuvveti",
+      "difficulty": 2,
+      "q": "Buz pateninde rahatça kaymamızın nedeni nedir?",
+      "options": [
+        "Mıknatıs kuvvetinin etkisi",
+        "Buz yüzeyinde sürtünmenin çok olması",
+        "Yer çekiminin olmaması",
+        "Buz yüzeyinde sürtünmenin az olması"
+      ],
+      "answer": "D",
+      "explanation": "Buz pürüzsüz bir yüzey olduğundan sürtünme azdır; bu yüzden rahatça kayarız."
+    },
+    {
+      "id": "FEN-0192",
+      "topic": "surtunme-kuvveti",
+      "difficulty": 1,
+      "q": "Aşağıdaki yüzeylerden hangisinde sürtünme kuvveti en fazladır?",
+      "options": [
+        "Buz",
+        "Zımpara kâğıdı",
+        "Cam",
+        "Islak fayans"
+      ],
+      "answer": "B",
+      "explanation": "Zımpara kâğıdı çok pürüzlü olduğundan sürtünme kuvveti en fazladır."
+    },
+    {
+      "id": "FEN-0193",
+      "topic": "surtunme-kuvveti",
+      "difficulty": 2,
+      "q": "Araba lastiklerinin dişli (tırtıklı) yapılmasının amacı nedir?",
+      "options": [
+        "Yakıttan tasarruf etmek",
+        "Aracı hafifletmek",
+        "Yola daha iyi tutunmak için sürtünmeyi artırmak",
+        "Sürtünmeyi azaltmak"
+      ],
+      "answer": "C",
+      "explanation": "Dişli lastikler yolla aradaki sürtünmeyi artırır; böylece araç kaymadan yola tutunur."
+    },
+    {
+      "id": "FEN-0194",
+      "topic": "surtunme-kuvveti",
+      "difficulty": 2,
+      "q": "Balıkların vücudunun kaygan ve akıcı (sivri) olması neyi azaltır?",
+      "options": [
+        "Su direncini (sürtünmeyi)",
+        "Kütlesini",
+        "Mıknatıs kuvvetini",
+        "Yer çekimini"
+      ],
+      "answer": "A",
+      "explanation": "Kaygan ve akıcı vücut, suyun gösterdiği direnci (sürtünmeyi) azaltarak balığın kolay yüzmesini sağlar."
+    },
+    {
+      "id": "FEN-0195",
+      "topic": "surtunme-kuvveti",
+      "difficulty": 2,
+      "q": "Uçakların ve hızlı trenlerin ön kısımlarının sivri yapılması neyi azaltır?",
+      "options": [
+        "Kütlesini",
+        "Hava direncini",
+        "Su direncini",
+        "Yer çekimini"
+      ],
+      "answer": "B",
+      "explanation": "Sivri (akıcı) ön kısım, havanın gösterdiği direnci azaltarak hareketi kolaylaştırır."
+    },
+    {
+      "id": "FEN-0196",
+      "topic": "surtunme-kuvveti",
+      "difficulty": 2,
+      "q": "Makine parçalarının arasına yağ konulmasının nedeni nedir?",
+      "options": [
+        "Sürtünmeyi azaltıp aşınmayı önlemek",
+        "Parçaları ağırlaştırmak",
+        "Parçalara renk vermek",
+        "Sürtünmeyi artırmak"
+      ],
+      "answer": "A",
+      "explanation": "Yağ, hareketli parçalar arasındaki sürtünmeyi azaltarak aşınmayı ve ısınmayı önler."
+    },
+    {
+      "id": "FEN-0197",
+      "topic": "surtunme-kuvveti",
+      "difficulty": 3,
+      "q": "Aşağıdakilerden hangisinde sürtünme kuvveti ZARARLI bir etki gösterir?",
+      "options": [
+        "Yürürken ayağımızın kaymaması",
+        "Frenle aracın durması",
+        "Makine parçalarının zamanla aşınması",
+        "Kalemle deftere yazı yazılması"
+      ],
+      "answer": "C",
+      "explanation": "Sürtünme makine parçalarını aşındırır ve ısıtır; bu zararlı bir etkidir. Diğer seçenekler sürtünmenin yararlı etkileridir."
+    },
+    {
+      "id": "FEN-0198",
+      "topic": "surtunme-kuvveti",
+      "difficulty": 2,
+      "q": "Karlı yolda kaymamak için ayakkabı tabanına çivi veya krampon takılması neyi artırır?",
+      "options": [
+        "Ağırlığı",
+        "Sürtünmeyi",
+        "Hava direncini",
+        "Yer çekimini"
+      ],
+      "answer": "B",
+      "explanation": "Çivili taban yüzeyi pürüzlendirerek sürtünmeyi artırır ve kaymayı önler."
+    },
+    {
+      "id": "FEN-0199",
+      "topic": "surtunme-kuvveti",
+      "difficulty": 2,
+      "q": "Sürtünme kuvveti, cismin hareketine göre hangi yönde etki eder?",
+      "options": [
+        "Hareketle aynı yönde",
+        "Aşağı doğru",
+        "Yukarı doğru",
+        "Hareketin tersi yönünde"
+      ],
+      "answer": "D",
+      "explanation": "Sürtünme kuvveti her zaman hareketi zorlaştıracak şekilde, hareketin tersi yönünde etki eder."
+    },
+    {
+      "id": "FEN-0200",
+      "topic": "surtunme-kuvveti",
+      "difficulty": 3,
+      "q": "Aynı kuvvetle itilen bir araba neden asfaltta çimene göre daha kolay hareket eder?",
+      "options": [
+        "Çim daha kaygan olduğu için",
+        "Asfalt daha pürüzsüz olduğu için sürtünme azdır",
+        "İkisinde de hareket aynıdır",
+        "Çimende sürtünme hiç yoktur"
+      ],
+      "answer": "B",
+      "explanation": "Asfalt çime göre daha pürüzsüzdür; sürtünme az olduğundan araba daha kolay hareket eder."
+    },
+    {
+      "id": "FEN-0201",
+      "topic": "hal-degisimi",
+      "difficulty": 1,
+      "q": "Buzun güneşte eriyerek su hâline gelmesi hangi hâl değişimidir?",
+      "options": [
+        "Buharlaşma",
+        "Donma",
+        "Erime",
+        "Yoğuşma"
+      ],
+      "answer": "C",
+      "explanation": "Katı buz ısı alarak sıvı su hâline geçer; bu olaya erime denir."
+    },
+    {
+      "id": "FEN-0202",
+      "topic": "hal-degisimi",
+      "difficulty": 1,
+      "q": "Suyun buzlukta donarak buz hâline gelmesi hangi hâl değişimidir?",
+      "options": [
+        "Donma",
+        "Buharlaşma",
+        "Erime",
+        "Yoğuşma"
+      ],
+      "answer": "A",
+      "explanation": "Sıvı su ısı vererek katı buz hâline geçer; bu olaya donma denir."
+    },
+    {
+      "id": "FEN-0203",
+      "topic": "hal-degisimi",
+      "difficulty": 1,
+      "q": "Çaydanlıktaki suyun kaynayarak buhara dönüşmesi hangi hâl değişimidir?",
+      "options": [
+        "Buharlaşma",
+        "Erime",
+        "Donma",
+        "Yoğuşma"
+      ],
+      "answer": "A",
+      "explanation": "Sıvı su ısı alarak gaz (su buharı) hâline geçer; bu olaya buharlaşma denir."
+    },
+    {
+      "id": "FEN-0204",
+      "topic": "hal-degisimi",
+      "difficulty": 2,
+      "q": "Sabahları otların üzerinde çiy (su damlacıkları) oluşması hangi hâl değişimidir?",
+      "options": [
+        "Erime",
+        "Buharlaşma",
+        "Donma",
+        "Yoğuşma"
+      ],
+      "answer": "D",
+      "explanation": "Havadaki su buharı soğuk otlara değince sıvıya dönüşür; bu olaya yoğuşma denir."
+    },
+    {
+      "id": "FEN-0205",
+      "topic": "hal-degisimi",
+      "difficulty": 2,
+      "q": "Aşağıdaki hâl değişimlerinden hangisinde madde ısı ALIR?",
+      "options": [
+        "Erime",
+        "Donma",
+        "Yoğuşma",
+        "Hiçbiri"
+      ],
+      "answer": "A",
+      "explanation": "Erime ve buharlaşmada madde ısı alır; donma ve yoğuşmada ise ısı verir."
+    },
+    {
+      "id": "FEN-0206",
+      "topic": "hal-degisimi",
+      "difficulty": 2,
+      "q": "Mum alevinde katı mumun eriyebilmesi için mum ne yapmalıdır?",
+      "options": [
+        "Isı vermeli",
+        "Donmalı",
+        "Soğumalı",
+        "Isı almalı"
+      ],
+      "answer": "D",
+      "explanation": "Erime bir ısı alma olayıdır; mum alevden ısı alarak erir."
+    },
+    {
+      "id": "FEN-0207",
+      "topic": "hal-degisimi",
+      "difficulty": 3,
+      "q": "Buzdolabından çıkarılan soğuk bir suyun zamanla ısınması sırasında su çevreyle nasıl bir ısı alışverişi yapar?",
+      "options": [
+        "Çevreye ısı verir",
+        "Donmaya başlar",
+        "Hiç ısı alışverişi yapmaz",
+        "Çevreden ısı alır"
+      ],
+      "answer": "D",
+      "explanation": "Isı sıcaktan soğuğa akar; soğuk su çevredeki sıcak havadan ısı alarak ısınır."
+    },
+    {
+      "id": "FEN-0208",
+      "topic": "hal-degisimi",
+      "difficulty": 2,
+      "q": "Yağmurdan sonra yollardaki su birikintilerinin zamanla kuruması hangi olayla açıklanır?",
+      "options": [
+        "Buharlaşma",
+        "Donma",
+        "Yoğuşma",
+        "Erime"
+      ],
+      "answer": "A",
+      "explanation": "Birikintilerdeki su çevreden ısı alarak buharlaşır ve havaya karışır."
+    },
+    {
+      "id": "FEN-0209",
+      "topic": "hal-degisimi",
+      "difficulty": 2,
+      "q": "Çözülen (erimiş) dondurulmuş bir besinin tekrar dondurulması neden sakıncalıdır?",
+      "options": [
+        "Besin daha uzun süre dayanır",
+        "Çözülünce çoğalan mikroplar sağlığa zarar verebilir",
+        "Besin daha lezzetli olur",
+        "Hiçbir sakıncası yoktur"
+      ],
+      "answer": "B",
+      "explanation": "Çözülen besinde mikroplar çoğalmaya başlar; tekrar dondurulup tüketilirse sağlığa zarar verebilir."
+    },
+    {
+      "id": "FEN-0210",
+      "topic": "hal-degisimi",
+      "difficulty": 2,
+      "q": "Su; katı, sıvı ve gaz hâllerinde sırasıyla hangi adlarla anılır?",
+      "options": [
+        "Buhar, buz, su",
+        "Kar, su, buz",
+        "Buz, su, su buharı",
+        "Su, buz, kar"
+      ],
+      "answer": "C",
+      "explanation": "Suyun katı hâli buz, sıvı hâli su, gaz hâli ise su buharıdır."
+    },
+    {
+      "id": "FEN-0211",
+      "topic": "ayirt-edici-ozellikler",
+      "difficulty": 1,
+      "q": "Maddeleri birbirinden tanımamıza yarayan, her madde için farklı olan özelliklere ne ad verilir?",
+      "options": [
+        "Görünmez özellikler",
+        "Geçici özellikler",
+        "Ayırt edici özellikler",
+        "Ortak özellikler"
+      ],
+      "answer": "C",
+      "explanation": "Erime, donma ve kaynama noktası gibi maddeden maddeye değişen özellikler ayırt edici özelliklerdir."
+    },
+    {
+      "id": "FEN-0212",
+      "topic": "ayirt-edici-ozellikler",
+      "difficulty": 2,
+      "q": "Aşağıdakilerden hangisi bütün maddeler için ORTAK bir özelliktir (ayırt edici değildir)?",
+      "options": [
+        "Kütlesinin olması",
+        "Donma noktası",
+        "Erime noktası",
+        "Kaynama noktası"
+      ],
+      "answer": "A",
+      "explanation": "Bütün maddelerin kütlesi ve hacmi vardır; bunlar ortak özelliktir. Erime, donma ve kaynama noktaları ise ayırt edicidir."
+    },
+    {
+      "id": "FEN-0213",
+      "topic": "ayirt-edici-ozellikler",
+      "difficulty": 1,
+      "q": "Buz kaç derecede erimeye başlar?",
+      "options": [
+        "100 derecede",
+        "0 derecede",
+        "-10 derecede",
+        "50 derecede"
+      ],
+      "answer": "B",
+      "explanation": "Saf suyun buzu 0 derecede erimeye başlar; bu, suyun ayırt edici özelliklerindendir."
+    },
+    {
+      "id": "FEN-0214",
+      "topic": "ayirt-edici-ozellikler",
+      "difficulty": 2,
+      "q": "Renksiz iki sıvıyı birbirinden ayırmak için aşağıdakilerden hangisi kullanılabilir?",
+      "options": [
+        "Kaynama noktaları",
+        "Şekilleri",
+        "Renkleri",
+        "İçinde bulundukları kabın biçimi"
+      ],
+      "answer": "A",
+      "explanation": "Kaynama noktası ayırt edici bir özelliktir; renksiz sıvılar kaynama noktalarına bakılarak ayırt edilebilir."
+    },
+    {
+      "id": "FEN-0215",
+      "topic": "ayirt-edici-ozellikler",
+      "difficulty": 2,
+      "q": "Aynı kapta 2 litre su, 1 litre suya göre nasıl kaynar?",
+      "options": [
+        "Aynı sıcaklıkta ama daha geç kaynar",
+        "Hiç kaynamaz",
+        "Daha yüksek sıcaklıkta kaynar",
+        "Daha düşük sıcaklıkta kaynar"
+      ],
+      "answer": "A",
+      "explanation": "Madde miktarı kaynama noktasını değiştirmez; sadece kaynama süresini uzatır. Çok olan su daha geç kaynar."
+    },
+    {
+      "id": "FEN-0216",
+      "topic": "ayirt-edici-ozellikler",
+      "difficulty": 2,
+      "q": "Aşağıdakilerden hangisi suyun ayırt edici bir özelliğidir?",
+      "options": [
+        "Renksiz olması",
+        "100 derecede kaynaması",
+        "Bulunduğu kabın şeklini alması",
+        "Akışkan olması"
+      ],
+      "answer": "B",
+      "explanation": "100 derecede kaynamak suya özgü ayırt edici bir özelliktir; renksizlik ve akışkanlık birçok sıvının ortak özelliğidir."
+    },
+    {
+      "id": "FEN-0217",
+      "topic": "ayirt-edici-ozellikler",
+      "difficulty": 2,
+      "q": "Bir katının erime noktasının bilinmesi ne işe yarar?",
+      "options": [
+        "Maddenin ağırlığını verir",
+        "Hiçbir işe yaramaz",
+        "Maddenin hangi madde olduğunu tanımaya yarar",
+        "Maddenin rengini söyler"
+      ],
+      "answer": "C",
+      "explanation": "Erime noktası ayırt edici bir özellik olduğundan, ölçülen değer maddenin ne olduğunu tanımaya yardımcı olur."
+    },
+    {
+      "id": "FEN-0218",
+      "topic": "ayirt-edici-ozellikler",
+      "difficulty": 2,
+      "q": "Aşağıdakilerden hangisi bir maddenin ayırt edici özelliği DEĞİLDİR?",
+      "options": [
+        "Erime noktası",
+        "Kaynama noktası",
+        "Donma noktası",
+        "İçinde bulunduğu kabın şeklini alması"
+      ],
+      "answer": "D",
+      "explanation": "Kabın şeklini almak tüm sıvıların ortak özelliğidir; ayırt edici özellikler erime, donma ve kaynama noktalarıdır."
+    },
+    {
+      "id": "FEN-0219",
+      "topic": "ayirt-edici-ozellikler",
+      "difficulty": 3,
+      "q": "Madde miktarının artması bir sıvının kaynama süresini nasıl etkiler?",
+      "options": [
+        "Süreyi hiç etkilemez",
+        "Madde çoğaldıkça kaynama süresi uzar",
+        "Madde çoğaldıkça kaynama sıcaklığı artar",
+        "Madde çoğaldıkça daha çabuk kaynar"
+      ],
+      "answer": "B",
+      "explanation": "Madde miktarı kaynama noktasını (sıcaklığını) değiştirmez ama daha fazla madde daha uzun sürede kaynar."
+    },
+    {
+      "id": "FEN-0220",
+      "topic": "ayirt-edici-ozellikler",
+      "difficulty": 3,
+      "q": "Bir öğrencinin bilinmeyen bir sıvının kaynama sıcaklığını ölçmesindeki amacı ne olabilir?",
+      "options": [
+        "Sıvının ağırlığını artırmak",
+        "Sıvıyı dondurmak",
+        "Sıvıyı renklendirmek",
+        "Sıvının hangi madde olduğunu belirlemek"
+      ],
+      "answer": "D",
+      "explanation": "Kaynama sıcaklığı ayırt edici bir özellik olduğundan, ölçülen değer sıvının hangi madde olduğunu belirlemeye yarar."
+    },
+    {
+      "id": "FEN-0221",
+      "topic": "isi-ve-sicaklik",
+      "difficulty": 1,
+      "q": "Isı aşağıdakilerden hangisidir?",
+      "options": [
+        "Bir madde türü",
+        "Bir enerji türü",
+        "Bir ölçme aracı",
+        "Bir kuvvet türü"
+      ],
+      "answer": "B",
+      "explanation": "Isı bir enerji türüdür; sıcak maddeden soğuk maddeye doğru aktarılır."
+    },
+    {
+      "id": "FEN-0222",
+      "topic": "isi-ve-sicaklik",
+      "difficulty": 2,
+      "q": "Sıcaklığın birimi aşağıdakilerden hangisidir?",
+      "options": [
+        "Newton",
+        "Santigrat derece (°C)",
+        "Kilogram",
+        "Litre"
+      ],
+      "answer": "B",
+      "explanation": "Sıcaklık santigrat derece (°C) ile ölçülür ve termometreyle belirlenir."
+    },
+    {
+      "id": "FEN-0223",
+      "topic": "isi-ve-sicaklik",
+      "difficulty": 2,
+      "q": "Isı her zaman nasıl bir madde arasında akar?",
+      "options": [
+        "İki yönde de eşit miktarda",
+        "Soğuk maddeden sıcak maddeye",
+        "Hiç akmaz",
+        "Sıcak maddeden soğuk maddeye"
+      ],
+      "answer": "D",
+      "explanation": "Isı her zaman sıcaklığı yüksek olan maddeden düşük olana doğru akar."
+    },
+    {
+      "id": "FEN-0224",
+      "topic": "isi-ve-sicaklik",
+      "difficulty": 2,
+      "q": "Aşağıdakilerden hangisi temiz ve yenilenebilir bir ısı kaynağıdır?",
+      "options": [
+        "Kömür",
+        "Güneş enerjisi",
+        "Odun",
+        "Petrol"
+      ],
+      "answer": "B",
+      "explanation": "Güneş enerjisi yanma olmadan ısı sağladığı için temiz ve yenilenebilir bir ısı kaynağıdır."
+    },
+    {
+      "id": "FEN-0225",
+      "topic": "isi-ve-sicaklik",
+      "difficulty": 2,
+      "q": "Buzdolabına konan ılık bir su zamanla ne yapar?",
+      "options": [
+        "Isı vererek soğur",
+        "Isı alarak ısınır",
+        "Sıcaklığı hiç değişmez",
+        "Kaynamaya başlar"
+      ],
+      "answer": "A",
+      "explanation": "Buzdolabı ortamı soğuk olduğundan ılık su çevresine ısı vererek soğur."
+    },
+    {
+      "id": "FEN-0226",
+      "topic": "isi-ve-sicaklik",
+      "difficulty": 1,
+      "q": "Sobada kömür yakmamızın temel amacı nedir?",
+      "options": [
+        "Su elde etmek",
+        "Isı elde ederek ısınmak",
+        "Aydınlanmak için tek yol olması",
+        "Ortamı soğutmak"
+      ],
+      "answer": "B",
+      "explanation": "Kömür yandığında ısı verir; sobada kömür yakmamızın amacı ısınmaktır."
+    },
+    {
+      "id": "FEN-0227",
+      "topic": "isi-ve-sicaklik",
+      "difficulty": 1,
+      "q": "Güneş'in Dünya'ya sağladığı iki temel şey nedir?",
+      "options": [
+        "Isı ve ışık",
+        "Su ve toprak",
+        "Ses ve koku",
+        "Rüzgâr ve yağmur"
+      ],
+      "answer": "A",
+      "explanation": "Güneş, Dünya'nın en büyük ısı ve ışık kaynağıdır."
+    },
+    {
+      "id": "FEN-0228",
+      "topic": "isi-ve-sicaklik",
+      "difficulty": 2,
+      "q": "Bir termometredeki sıvının yükselmesi neyi gösterir?",
+      "options": [
+        "Maddenin donduğunu",
+        "Sıcaklığın azaldığını",
+        "Isının yok olduğunu",
+        "Sıcaklığın arttığını"
+      ],
+      "answer": "D",
+      "explanation": "Termometredeki sıvı, sıcaklık arttıkça genleşip yükselir; bu, sıcaklığın arttığını gösterir."
+    },
+    {
+      "id": "FEN-0229",
+      "topic": "isi-ve-sicaklik",
+      "difficulty": 3,
+      "q": "Aşağıdaki cümlelerin hangisinde \"ısı\" kavramı doğru kullanılmıştır?",
+      "options": [
+        "Bugün hava ısısı 30 derece.",
+        "Suyun ısısı 100 derece.",
+        "Soba çevresine ısı yayar.",
+        "Termometre ısıyı ölçer."
+      ],
+      "answer": "C",
+      "explanation": "Isı bir enerjidir ve yayılır; derece ile ölçülen ve sayıyla ifade edilen değer ise sıcaklıktır."
+    },
+    {
+      "id": "FEN-0230",
+      "topic": "isi-ve-sicaklik",
+      "difficulty": 1,
+      "q": "Vücut sıcaklığımızı ölçmek için hangi araç kullanılır?",
+      "options": [
+        "Cetvel",
+        "Terazi",
+        "Dinamometre",
+        "Termometre"
+      ],
+      "answer": "D",
+      "explanation": "Vücut sıcaklığı, sıcaklık ölçen bir araç olan termometre ile ölçülür."
+    },
+    {
+      "id": "FEN-0231",
+      "topic": "isinin-etkileri",
+      "difficulty": 1,
+      "q": "Demir bir bilye ısıtıldığında hacmi nasıl değişir?",
+      "options": [
+        "Küçülür",
+        "Değişmez",
+        "Yok olur",
+        "Büyür (genleşir)"
+      ],
+      "answer": "D",
+      "explanation": "Maddeler ısı aldığında genleşir; ısıtılan demir bilyenin hacmi büyür."
+    },
+    {
+      "id": "FEN-0232",
+      "topic": "isinin-etkileri",
+      "difficulty": 2,
+      "q": "Isıtılan bir metal halka soğutulduğunda ne olur?",
+      "options": [
+        "Büzülerek küçülür",
+        "Erir",
+        "Hiç değişmez",
+        "Genleşerek büyür"
+      ],
+      "answer": "A",
+      "explanation": "Maddeler soğuduğunda büzülür; soğuyan metal halkanın hacmi küçülür."
+    },
+    {
+      "id": "FEN-0233",
+      "topic": "isinin-etkileri",
+      "difficulty": 2,
+      "q": "Termometrenin çalışma ilkesi nedir?",
+      "options": [
+        "Mıknatıs kuvvetiyle çalışması",
+        "Yer çekimiyle çalışması",
+        "İçindeki sıvının ısı alınca genleşip ısı verince büzülmesi",
+        "Sürtünme kuvvetiyle çalışması"
+      ],
+      "answer": "C",
+      "explanation": "Termometredeki sıvı, sıcaklık artınca genleşip yükselir, azalınca büzülüp alçalır; sıcaklık bu sayede okunur."
+    },
+    {
+      "id": "FEN-0234",
+      "topic": "isinin-etkileri",
+      "difficulty": 2,
+      "q": "Köprülerin uçlarında genleşme boşluğu (derz) bırakılmasının nedeni nedir?",
+      "options": [
+        "Yağmur suyu aksın diye",
+        "Köprü daha hafif olsun diye",
+        "Süs olması için",
+        "Sıcakta genleşen köprünün zarar görmemesi için"
+      ],
+      "answer": "D",
+      "explanation": "Köprüler sıcakta genleşir; bırakılan boşluk bu genleşmeyi karşılar ve köprünün zarar görmesini önler."
+    },
+    {
+      "id": "FEN-0235",
+      "topic": "isinin-etkileri",
+      "difficulty": 1,
+      "q": "Buharlaşma hangi sıcaklıklarda gerçekleşebilir?",
+      "options": [
+        "Yalnızca 0 derecede",
+        "Her sıcaklıkta",
+        "Yalnızca 100 derecede",
+        "Hiçbir sıcaklıkta"
+      ],
+      "answer": "B",
+      "explanation": "Buharlaşma sıvının yüzeyinde her sıcaklıkta gerçekleşebilir; kaynama ise belirli bir sıcaklıkta olur."
+    },
+    {
+      "id": "FEN-0236",
+      "topic": "isinin-etkileri",
+      "difficulty": 1,
+      "q": "Sıcaklık arttıkça buharlaşma nasıl değişir?",
+      "options": [
+        "Yavaşlar",
+        "Durur",
+        "Hızlanır",
+        "Hiç değişmez"
+      ],
+      "answer": "C",
+      "explanation": "Sıcaklık arttıkça sıvı moleküllerinin havaya karışması kolaylaşır; buharlaşma hızlanır."
+    },
+    {
+      "id": "FEN-0237",
+      "topic": "isinin-etkileri",
+      "difficulty": 2,
+      "q": "Islak çamaşırlar hangi durumda daha hızlı kurur?",
+      "options": [
+        "Soğuk ve kapalı bir odada",
+        "Buzdolabında",
+        "Güneşli, sıcak ve rüzgârlı havada",
+        "Karanlık ve nemli bir yerde"
+      ],
+      "answer": "C",
+      "explanation": "Sıcaklık ve rüzgâr buharlaşmayı hızlandırır; bu yüzden çamaşırlar güneşli ve rüzgârlı havada daha çabuk kurur."
+    },
+    {
+      "id": "FEN-0238",
+      "topic": "isinin-etkileri",
+      "difficulty": 3,
+      "q": "Cam bir bardağa birden çok sıcak su konulduğunda bardağın çatlamasının nedeni nedir?",
+      "options": [
+        "Camın büzülmesi",
+        "Camın aniden ve dengesiz genleşmesi",
+        "Bardağın eskimesi",
+        "Suyun donması"
+      ],
+      "answer": "B",
+      "explanation": "Ani sıcaklık değişimi camın bir kısmını hızla genleştirir; dengesiz genleşme bardağın çatlamasına yol açar."
+    },
+    {
+      "id": "FEN-0239",
+      "topic": "isinin-etkileri",
+      "difficulty": 3,
+      "q": "Bir kapta su kaynarken kabın kapağının zıplaması neyle açıklanır?",
+      "options": [
+        "Suyun donmasıyla",
+        "Kapağın erimesiyle",
+        "Suyun büzülmesiyle",
+        "Oluşan su buharının kapağı itmesiyle"
+      ],
+      "answer": "D",
+      "explanation": "Kaynayan suyun oluşturduğu su buharı genleşip kabın içinde basınç oluşturur ve kapağı iter."
+    },
+    {
+      "id": "FEN-0240",
+      "topic": "isinin-etkileri",
+      "difficulty": 2,
+      "q": "Sıcak yaz günlerinde araba lastiklerinin fazla şişirilmemesine dikkat edilir, çünkü:",
+      "options": [
+        "Lastik küçülür",
+        "Isınan hava genleşir ve lastik patlayabilir",
+        "Hiçbir etkisi olmaz",
+        "Hava büzülür ve lastik söner"
+      ],
+      "answer": "B",
+      "explanation": "Lastik içindeki hava sıcakta genleşir; fazla şişirilmiş lastikte basınç artıp patlamaya yol açabilir."
     }
   ]
 }

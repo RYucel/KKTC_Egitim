@@ -128,10 +128,13 @@
       }
       return a;
     };
-    // önce hiç doğru cevaplanmamışlar (yeni + yanlış bilinenler), sonra rastgele
+    // SEÇİM: önce hiç doğru cevaplanmamışlar (yeni + yanlış bilinenler) öncelikli,
+    // havuz büyükse her testte farklı 10 soru gelir.
     const fresh = shuffle(pool.filter((q) => !(stats[q.id]?.c > 0)));
     const rest = shuffle(pool.filter((q) => stats[q.id]?.c > 0));
-    return fresh.concat(rest).slice(0, QUIZ_LEN);
+    const picked = fresh.concat(rest).slice(0, QUIZ_LEN);
+    // SIRA: seçilen sorular her testte rastgele sırada sunulur.
+    return shuffle(picked);
   }
 
   function startQuiz(subj, topicId, pool) {
