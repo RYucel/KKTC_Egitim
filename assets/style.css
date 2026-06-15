@@ -115,6 +115,35 @@ a { color: var(--orange); }
 .book-actions { display: flex; gap: 6px; flex-shrink: 0; }
 .books-note { color: var(--muted); font-size: .78rem; margin: 16px 0 0; }
 
+/* ---------------- Sınav Analizi ---------------- */
+.analysis-section { background: #fff; border-top: 1px solid var(--border); }
+.analysis-inner { max-width: 980px; margin: 0 auto; padding: 28px 16px 40px; width: 100%; }
+.analysis-heading { font-size: 1.15rem; border-bottom: 2px solid var(--orange); display: inline-block; padding-bottom: 2px; margin: 0 0 10px; }
+.analysis-period { color: var(--muted); font-weight: 400; font-size: .85rem; }
+.analysis-tldr { background: var(--orange-soft); border-left: 4px solid var(--orange); border-radius: 8px; padding: 12px 14px; margin: 0 0 14px; line-height: 1.55; font-size: .92rem; }
+.analysis-details > summary { cursor: pointer; font-weight: 600; color: var(--orange); padding: 8px 0; user-select: none; }
+.analysis-details[open] > summary { margin-bottom: 8px; }
+.analysis-intro { color: var(--muted); font-size: .88rem; margin: 0 0 16px; line-height: 1.5; }
+.analysis-charts { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 16px; }
+.analysis-chart { margin: 0; background: var(--bg); border: 1px solid var(--border); border-radius: 12px; padding: 10px; }
+.analysis-chart img { width: 100%; height: auto; border-radius: 6px; display: block; }
+.analysis-chart figcaption { color: var(--muted); font-size: .8rem; line-height: 1.45; margin-top: 8px; }
+.analysis-chart figcaption strong { color: var(--ink); }
+.analysis-tables { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 16px; margin: 20px 0; }
+.analysis-table-wrap { overflow-x: auto; }
+.analysis-table { width: 100%; border-collapse: collapse; font-size: .85rem; }
+.analysis-table caption { text-align: left; color: var(--muted); font-size: .8rem; margin-bottom: 6px; }
+.analysis-table th, .analysis-table td { padding: 6px 10px; border-bottom: 1px solid var(--border); text-align: right; font-variant-numeric: tabular-nums; }
+.analysis-table th { background: var(--orange-soft); font-weight: 600; }
+.analysis-table td.lbl, .analysis-table th:first-child { text-align: left; }
+.analysis-tips-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 16px; margin: 4px 0 16px; }
+.analysis-tips { background: var(--bg); border: 1px solid var(--border); border-radius: 12px; padding: 14px 16px; }
+.analysis-tips h4 { margin: 0 0 8px; font-size: .95rem; }
+.analysis-tips ul { margin: 0; padding-left: 18px; }
+.analysis-tips li { font-size: .86rem; line-height: 1.5; margin-bottom: 6px; }
+.analysis-note { color: var(--muted); font-size: .78rem; line-height: 1.5; background: var(--bg); border-radius: 8px; padding: 10px 12px; margin: 0 0 16px; }
+.analysis-links { display: flex; flex-wrap: wrap; gap: 8px; }
+
 .home-footer { padding: 18px; text-align: center; color: var(--muted); font-size: .8rem; max-width: 760px; margin: 0 auto; }
 
 /* ---------- Exam ---------- */

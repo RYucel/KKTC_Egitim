@@ -1,0 +1,5 @@
+# Üretilen çıktılar (kod yeniden üretir)
+cikti/
+__pycache__/
+venv/
+*.pyc

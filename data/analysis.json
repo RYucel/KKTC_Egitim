@@ -1,0 +1,78 @@
+{
+  "title": "Sınav Zorluk Analizi",
+  "period": "2016–2026",
+  "tldr": "Son on yılda KGS <strong>İngilizce</strong> sınavının zorluğu arttı — ama daha zor kelimeler ya da daha karmaşık cümlelerle değil, <strong>sabit sürede okutulan metin miktarının neredeyse iki katına çıkmasıyla.</strong> Sınav giderek bir <em>“okuma hızı ve dayanıklılığı”</em> sınavına dönüştü. <strong>Türkçe</strong> bölümünde ise benzer bir yön yok; okuma yükü yıldan yıla dalgalanıyor.",
+  "intro": "Depodaki orijinal KGS soru kitapçıkları taranarak her sınavın metni çıkarıldı ve niceliksel olarak ölçüldü. Aşağıdaki grafik ve tablolar bütünüyle bu verilerden üretilmiştir.",
+  "charts": [
+    {
+      "src": "Sinav_Verisi/grafikler/01_okuma_yuku.png",
+      "title": "Okuma yükü trendi",
+      "caption": "İngilizce kelime sayısı 2016'da ~600 iken 2024–2025'te ~1.080'e çıktı (~2 kat). Türkçe ise yön belirtmeden dalgalanıyor."
+    },
+    {
+      "src": "Sinav_Verisi/grafikler/02_ingilizce_neden.png",
+      "title": "İngilizce neden zorlaştı?",
+      "caption": "Zorluğun dört bileşeni (2016=100): yalnızca okuma hacmi ~%80 arttı; cümle/kelime uzunluğu ve çeşitlilik sabit kaldı."
+    },
+    {
+      "src": "Sinav_Verisi/grafikler/05_okunabilirlik.png",
+      "title": "Okunabilirlik sabit",
+      "caption": "Flesch okunabilirlik puanı on yıl boyunca ~85'te (kolay, ~5. sınıf seviyesi) kaldı. Değişen tek şey okunması gereken metin miktarı."
+    },
+    {
+      "src": "Sinav_Verisi/grafikler/06_matematik_vs_ingilizce.png",
+      "title": "Aynı oturum kontrolü",
+      "caption": "İngilizce ve Matematik aynı 90 dk'lık 2. Oturumu paylaşır. İngilizce yükü +%52 şişerken Matematik yükü hafifledi (−%8)."
+    },
+    {
+      "src": "Sinav_Verisi/grafikler/03_ders_basari.png",
+      "title": "Ders bazında başarı",
+      "caption": "İngilizce tüm derslerin en düşük başarısına sahip (%66) ve düşüşte; diğer dersler yükselirken. Sorun İngilizceye özgü."
+    },
+    {
+      "src": "Sinav_Verisi/grafikler/04_yuk_vs_basari.png",
+      "title": "Okuma yükü vs başarı",
+      "caption": "Kohort gücü arındırıldığında okuma hacmi ile başarı arasında ters ilişki (r ≈ −0,60). Yapısal zorluk ölçütleri başarıyı açıklamıyor."
+    }
+  ],
+  "loadTable": {
+    "caption": "Yıllık ortalama kelime sayısı (okuma yükü)",
+    "head": ["Yıl", "İngilizce", "Türkçe"],
+    "rows": [
+      ["2016", "599", "1.843"],
+      ["2020", "748", "1.759"],
+      ["2022", "807", "1.724"],
+      ["2024", "1.020", "1.360"],
+      ["2025", "1.079", "1.376"],
+      ["2026", "906", "1.808"]
+    ]
+  },
+  "successTable": {
+    "caption": "Lefkoşa TMK CEE-2 — ders bazında ortalama başarı ve yıllık trend",
+    "head": ["Ders", "Ortalama başarı", "Trend"],
+    "rows": [
+      ["Fen", "%84,7", "▲"],
+      ["Sosyal", "%81,9", "▼"],
+      ["Türkçe", "%78,8", "▲"],
+      ["Matematik", "%68,9", "▲"],
+      ["İngilizce", "%66,4", "▼"]
+    ]
+  },
+  "studentTips": [
+    "📖 Okuma hızını ve dayanıklılığını geliştir — kelime ezberi tek başına yetmez; uzun metinleri akıcı okuyabilmek belirleyici.",
+    "⏱️ Süreli alıştırma yap — gerçek sınav koşullarında, uzun parçalarla zaman tutarak çalış.",
+    "🔎 Tarama (skimming/scanning) tekniklerini öğren — cevabı tüm metni yeniden okumadan bulmak zaman kazandırır.",
+    "🧭 2. Oturum zaman yönetimi — İngilizce uzadığı için süreyi İngilizce ve Matematik arasında önceden planla."
+  ],
+  "teacherTips": [
+    "🏃 Akıcılık odaklı çalışma — yalnızca dil bilgisi/kelime değil, süreli okuduğunu anlama pratiğine ağırlık ver.",
+    "📚 Uzun parçalarla hazırlık — son yılların sınavları daha uzun okuma parçaları içeriyor; materyaller bunu yansıtmalı.",
+    "📈 Hedefli ölçme — öğrencilerin zorlandığı yer kelime zorluğu değil, hacim altında hız olabilir; ölçmeyi buna göre tasarla."
+  ],
+  "note": "Bulgular korelasyondur, nedensellik kanıtı değildir; örneklem küçüktür (n = 8 yıl) ve sonuç verisi tek bir okula aittir. Geometri/şekil içeren Matematik soruları metne yansımadığından bu sayılar kavramsal zorluğu değil, metin/sembol yükünü ölçer.",
+  "links": [
+    { "label": "📄 Tüm raporu oku", "url": "Sinav_Verisi/README.md" },
+    { "label": "📊 Excel çalışma kitabı", "url": "Sinav_Verisi/KGS_Ingilizce_Analiz.xlsx" },
+    { "label": "🐍 Analiz kodu (yeniden üretilebilirlik)", "url": "Sinav_Verisi/analiz_kodu/README.md" }
+  ]
+}

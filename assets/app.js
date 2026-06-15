@@ -118,6 +118,57 @@ function renderBooks(data) {
   host.hidden = false;
 }
 
+/* ---------------- Sınav Analizi ---------------- */
+function renderAnalysis(data) {
+  const host = $("#analysis");
+  if (!host) return;
+  if (!data || !data.charts?.length) { host.hidden = true; return; }
+
+  const charts = data.charts.map((c) => `
+    <figure class="analysis-chart">
+      <a href="${c.src}" target="_blank" rel="noopener"><img src="${c.src}" alt="${c.title}" loading="lazy"></a>
+      <figcaption><strong>${c.title}</strong> — ${c.caption}</figcaption>
+    </figure>`).join("");
+
+  const table = (t) => !t ? "" : `
+    <div class="analysis-table-wrap">
+      <table class="analysis-table">
+        <caption>${t.caption}</caption>
+        <thead><tr>${t.head.map((h) => `<th>${h}</th>`).join("")}</tr></thead>
+        <tbody>${t.rows.map((r) => `<tr>${r.map((v, i) => `<td${i === 0 ? ' class="lbl"' : ""}>${v}</td>`).join("")}</tr>`).join("")}</tbody>
+      </table>
+    </div>`;
+
+  const tips = (title, icon, arr) => `
+    <div class="analysis-tips">
+      <h4>${icon} ${title}</h4>
+      <ul>${arr.map((t) => `<li>${t}</li>`).join("")}</ul>
+    </div>`;
+
+  const links = data.links?.length
+    ? `<div class="analysis-links">${data.links.map((l) => `<a class="btn ghost small" href="${l.url}" target="_blank" rel="noopener">${l.label}</a>`).join("")}</div>`
+    : "";
+
+  host.innerHTML = `
+    <div class="analysis-inner">
+      <h2 class="analysis-heading">📊 ${data.title} <span class="analysis-period">${data.period}</span></h2>
+      <p class="analysis-tldr">${data.tldr}</p>
+      <details class="analysis-details">
+        <summary>Ayrıntılı analizi görüntüle</summary>
+        <p class="analysis-intro">${data.intro}</p>
+        <div class="analysis-charts">${charts}</div>
+        <div class="analysis-tables">${table(data.loadTable)}${table(data.successTable)}</div>
+        <div class="analysis-tips-grid">
+          ${tips("Öğrenciler için", "🎓", data.studentTips || [])}
+          ${tips("Eğitimciler için", "🧑‍🏫", data.teacherTips || [])}
+        </div>
+        ${data.note ? `<p class="analysis-note">⚠️ ${data.note}</p>` : ""}
+        ${links}
+      </details>
+    </div>`;
+  host.hidden = false;
+}
+
 /* ---------------- Sınav görünümü ---------------- */
 function show(view) {
   document.querySelectorAll("#app > .view").forEach((v) => { v.hidden = v !== view; });
@@ -406,3 +457,8 @@ fetch("data/books.json")
   .then((r) => r.json())
   .then((d) => renderBooks(d))
   .catch(() => { const h = $("#books"); if (h) h.hidden = true; });
+
+fetch("data/analysis.json")
+  .then((r) => r.json())
+  .then((d) => renderAnalysis(d))
+  .catch(() => { const h = $("#analysis"); if (h) h.hidden = true; });

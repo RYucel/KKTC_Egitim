@@ -19,7 +19,10 @@ data/exams.json       TEK VERI KAYNAGI: 34 oturum, cevap anahtarlari, PDF yollar
 data/books.json       5. Sinif resmi ders kitaplari (ana sayfa "Ders Kitaplari" bolumu)
 data/curriculum.json  Konu taksonomisi: 4 ders / unite / konu / kazanimlar (I. Donem)
 data/questions/       Ders basina soru havuzu (matematik|fen|sosyal|turkce.json)
+data/analysis.json    Ana sayfa "Sinav Analizi" bolumunun icerigi (ozet, grafik yollari, tablolar, ipuclari)
 assets/quiz.js        Konu testleri mantigi (konu secimi, test akisi, istatistik)
+Sinav_Verisi/         KGS zorluk analizi paketi: README.md (tam rapor), grafikler/*.png,
+                      analiz_kodu/ (yeniden uretilebilir Python betikleri), Excel + girdi CSV
 YYYY/N.Basamak/       Orijinal sinav PDF'leri ve taranmis cevap anahtarlari
 tools/                OMR betikleri (anahtarlarin cikarilmasi/dogrulanmasi)
 _work/                Gecici uretilen dosyalar — gitignore'da, silinebilir
@@ -73,6 +76,11 @@ Anahtar degisikligi/eklemede ZORUNLU adimlar:
   Ders kitabi PDF'leri repoya ALINMAZ (>100MB, GitHub siniri) — `ttd.mebnet.net`
   uzerinden tam URL ile servis edilir; yerel kopyalar `.gitignore`'da. `renderBooks()`
   ana sayfaya basar, yuklenemezse `#books` gizlenir (sinav akisini etkilemez).
+- `analysis.json` semasi: `{title, period, tldr, intro, charts:[{src,title,caption}],
+  loadTable/successTable:{caption,head:[],rows:[[]]}, studentTips:[], teacherTips:[], note, links:[{label,url}]}`.
+  HTML icerebilir (tldr/tips icine gomulu) — `renderAnalysis()` innerHTML'e basar, girdi guvenilir tutulmali.
+  Grafik yollari repo kokune goredir (`Sinav_Verisi/grafikler/*.png`). Bolum varsayilan kapali
+  `<details>` icinde — ana sayfayi sismez; yuklenemezse `#analysis` gizlenir (sinav akisini etkilemez).
 
 ## Soru bankasi (data/curriculum.json + data/questions/) — gunluk buyuyen icerik
 
